@@ -1,0 +1,20 @@
+{
+  "aitizen_cost": 0,
+  "channel_cost": 0,
+  "technique_style": {
+    "form_name": "sample_form_name",
+    "form_num": 0
+  },
+  "force_point_cost": 0,
+  "prerequisites": {
+    "info": {"form_level":0,"skills_required":{},"attributes_required":{},"techniques_required":{},"powers_required":{}}
+  },
+  "name": "sample_technique_name",
+  "willpower_cost": 0,
+  "tick_cost":0,
+  "turn_cost":0,
+  "version":0,
+  "attack_num":0,
+  "description":"sample description of technique",
+  "unlocked_bool":false
+}

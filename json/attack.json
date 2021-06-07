@@ -1,0 +1,13 @@
+{
+	"name":"sample attack name",
+	"tick_cost":0,
+	"fp_cost":0,
+	"force_power_bool":0,
+	"damage_dice":0,
+	"target":"None",
+	"attacker":"None",
+	"hit_result_roll":0,
+	"damage_result_roll":0,
+	"soaked_bool":0,
+	"will_hit":0
+}

@@ -1,0 +1,196 @@
+{
+  "armor": {
+    "hardness": {
+      "info": {
+        "ignore": false,
+        "val": 0
+      }
+    },
+    "soak": {
+      "info": {
+        "aggravated": {
+          "ignore": false,
+          "val": 0
+        },
+        "bashing": {
+          "ignore": false,
+          "val": 0
+        },
+        "lethal": {
+          "ignore": false,
+          "val": 0
+        }
+      }
+    }
+  },
+  "attr": {
+    "info": {
+      "appearance": {
+        "active_mod_bool": false,
+        "col_id": 2,
+        "val": 0
+      },
+      "charisma": {
+        "active_mod_bool": false,
+        "col_id": 2,
+        "val": 0
+      },
+      "dexterity": {
+        "active_mod_bool": false,
+        "col_id": 1,
+        "val": 0
+      },
+      "manipulation": {
+        "active_mod_bool": false,
+        "col_id": 2,
+        "val": 0
+      },
+      "stamina": {
+        "active_mod_bool": false,
+        "col_id": 1,
+        "val": 0
+      },
+      "strength": {
+        "active_mod_bool": false,
+        "col_id": 1,
+        "val": 0
+      },
+      "perception":{
+        "active_mod_bool": false,
+        "col_id": 3,
+        "val": 0
+      },
+      "intelligence":{
+        "active_mod_bool": false,
+        "col_id": 3,
+        "val": 0
+      },
+      "wits":{
+        "active_mod_bool": false,
+        "col_id": 3,
+        "val": 0
+      }
+    },
+    "info_list": [
+      "Strength",
+      "Dexterity",
+      "Stamina",
+      "Charisma",
+      "Manipulation",
+      "Appearance",
+      "Perception",
+      "Intelligence",
+      "Wits"
+    ]
+  },
+  "combat": {
+    "tracker_info": {
+      "next_tick": 0,
+      "next_turn": 0
+    }
+  },
+  "equipment": {},
+  "force_sensitivity": {
+    "active_mod_bool": false,
+    "total_fp": 0
+  },
+  "forms": {
+    "info": {
+      "ataru": {
+        "active_mod_bool": false,
+        "no": 4,
+        "tokens": 0,
+        "val": 0
+      },
+      "djemso": {
+        "active_mod_bool": false,
+        "no": 5,
+        "tokens": 0,
+        "val": 0
+      },
+      "juyo": {
+        "active_mod_bool": false,
+        "no": 7,
+        "tokens": 0,
+        "val": 0
+      },
+      "makashi": {
+        "active_mod_bool": false,
+        "no": 2,
+        "tokens": 0,
+        "val": 0
+      },
+      "niman": {
+        "active_mod_bool": false,
+        "no": 6,
+        "tokens": 0,
+        "val": 0
+      },
+      "shiicho": {
+        "active_mod_bool": false,
+        "no": 1,
+        "tokens": 0,
+        "val": 0
+      },
+      "soresu": {
+        "active_mod_bool": false,
+        "no": 3,
+        "tokens": 0,
+        "val": 0
+      }
+    }
+  },
+  "health_levels": {
+    "minus_four": {
+      "val": 0
+    },
+    "minus_one": {
+      "val": 0
+    },
+    "minus_zero": {
+      "val": 0
+    },
+    "total_hp": 0
+  },
+  "name": "placeholder_name",
+  "named_forms_list": [
+    "Shii-Cho",
+    "Makashi",
+    "Soresu",
+    "Ataru",
+    "Djem-so",
+    "Niman",
+    "Juyo"
+  ],
+  "skills": {
+    "info": 0,
+    "info_list": []
+  },
+  "stats": {
+    "info": {
+      "DDV": {
+        "val": 0
+      },
+      "FP": {
+        "val": 0
+      },
+      "MDV": {
+        "val": 0
+      },
+      "PDV": {
+        "val": 0
+      },
+      "WP": {
+        "val": 0
+      },
+      "join_combat":{"val":0}
+    }
+  },
+  "techniques": {},
+  "version": 0,
+  "powers":{},
+  "virtues": {
+    "info": {},
+    "virtues_list": {}
+  }
+}

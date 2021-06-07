@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "forcewinds",
+  "private_key_id": "4b37d264a221f7863c6fdff9c5e67f6603a74a70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWFZSuydyLpyZV\nVWUfT4+qvZmA+kD0xVI8epMqVAh4M5uIcSJ1TK8yGIva7q+uNsOM0lC7iUOYK/T8\nw2JP/lhf0yYRvkqJa7cfpu44sa8zlFBv11YmoME+UN2YYsB7EgHJpKEdGf5Yhs7Z\nRni1KQgpkV1pFlclOwI88BTotUTNpWj202uQ5NYE3T5YDFmJ0CB/bBD/WYPGF690\nBcNCO0GhRdYXbJinLWG3cZHDbaZRAcuOSQtUal5TeeWS5XB/XCwkrOcRHdxNL5Eq\nnKLaB9Gdd3ObIxbU3nH/BPXfUXj/+txqv15oTt5K3NkzxL1M3WbXKjt21C/vVewy\n3EXbel7JAgMBAAECggEAFpHEPCIAV8KZEc1iWY+zVm+7Um6lBKoFBdyWSOU+KM/0\nnFNhuoCqT+mVDnqaUfkg9bT4OFtvSMZDdHHv/4DgyqLhX1sIW8X7pyIz7LP7rtFS\nOfSzReJ4F5DoN0Q9FxohdAXycdfjgcMz/pnfCQ8p5REGb7PRAw5D9eSnSvSyFg0w\nwtpGpHKDDLKh37c4KAv0FdPMJ/87X5h2pre4bFi81JIFGCkMMglL/t+75HWD3/ij\n18sxDCpZ9VrhuvBPnHfx8MFI3Z5BSbegeFH45F/ymcWSXWR4fXk2xt3/oACsydDH\nysiSWWyg5zE3rwjajuHmctvVWptLiu+tlhyPtnRhqQKBgQDPEjBD0QS/ey7sPuKS\nq4bhZnnpae6DD5dobBWOyEeiBGSJRmuE0jy0cPiXBNVyjSg+F290sziXQ8Jy45dm\n2Cfc39m8O9qvFBbQ09heGh+k8yVR6jzXd5sNTsPzfTQunKTvtiWsa2qGoEG3Atpa\nB7wNIwwev+GQRlBU8hYgkzlPwwKBgQC5jD2jQRVi1y8B12YUHz1zNec+xtb950DS\nJNktmYZ+n81KRCAMdg4dgOhlSsrl9HaOF/6BDUTxyl/Cm7fQaroXdGXjbZt0Fe+0\naKTS3N/Egnyf2zfd0WrV2q2gk2QvFVmoc9MbYWAicCPY6l5jjdDgowA8B65SIAu5\nkFe37rRagwKBgQCKVxR3ukT5yEpo+vpUEtRh8hywnF0Eon38/XjJk3SIAXdJXwqm\nCe8UfgUWn9waU8P296E2ziWYqWRXbUXRJ8g6ADNvVm2bWkiD64Q6GinaAbeFKoDL\nUtT75wtyuMsL+QsYOxCgSIM6vgYpRnaqf1BbVnbadEc2JEO2/KVbzgAUEQKBgE/K\nnksRVvgNX3qkPZKTqKJd4NbfPV8sznRQQlDYv7y+TdMNHtcdAY7we3/rvPtMuJr8\neIbYxPhRtgKDYnWvH92sQZCe9wXh1RY5FgBT2aqxDpTT+d9bCl1yz83I9IFG5iqJ\nvJP+uQ+2N8Q1bWfUeanQju5Bw1Yvz7r59q7zaP2vAoGADMfqOCW9IX8Tu5mEoCYr\nDw01fzC+RXhFhtuZLutB79O6Xl2DACq7r/8E9ueoN59Ysx9PJhgl9jyvSNp3SzyZ\nUkUcgXVmeSk3I2kJa7J7FoJPAr8jK+zvyNsR2V+NIbUbNodTxRQMzOyFm3n5sfaU\n8oRKg/6gQu1ZpZxYVknx2wk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "forcewinds-dev@forcewinds.iam.gserviceaccount.com",
+  "client_id": "112154791928169280609",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/forcewinds-dev%40forcewinds.iam.gserviceaccount.com"
+}
