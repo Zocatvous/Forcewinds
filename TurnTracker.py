@@ -1,5 +1,5 @@
 import math
-from d10 import roll
+from util.d10 import roll
 
 class TurnTracker:
 	def __init__(self,character_list_of_tuples):

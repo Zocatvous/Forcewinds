@@ -1,10 +1,11 @@
 import json
 import TurnTracker
+import pprint
 
 x = TurnTracker.TurnTracker([('Galan',8),('Voom',9),('Contras',10),('Tyrell',8),('Draggy',7)])
 x.character_list = x.join_combat()
 print('Results of Join Combat [Name,Succ,Rastr]')
-print(x.character_list)
+pprint.pprint(x.character_list)
 while True:
 	if x.raster ==0:
 		pass

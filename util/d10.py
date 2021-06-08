@@ -11,7 +11,7 @@ def roll(num):
 		elif item==7 or item==8 or item==9:
 			results_list.append(1)
 		else:results_list.append(0)
-	return results_list
+	return sum(results_list)
 
 def dam_roll(num):
 	r_list = []
@@ -22,10 +22,9 @@ def dam_roll(num):
 		if item==7 or item==8 or item==9 or item==10:
 			results_list.append(1)
 		else:results_list.append(0)
-	return results_list
+	return sum(results_list)
 
-
-for i in range(1000):
-	print("You rolled {} Successes".format(sum(roll(i))))
-	# time.sleep(1)
+# for i in range(1000):
+# 	print("You rolled {} Successes".format(sum(roll(i))))
+# 	time.sleep(1)
 
