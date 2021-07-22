@@ -17,8 +17,9 @@ while True:
 		#	print(x.character_list)
 			# print('	Players Acting this tick: {}'.format(ontickplayernames))
 			player_tick_adv=int(input('	ticks ahead to place {}? '.format(player[0])))
-			# if type(player_tick_adv) != type(int())
-			# 	print('bad input')
+			except Exception as e:
+				print('bad input advancing player 1 tick err:{}'.format(e))
+				player[2] = player[2]+1
 			player[2] = player[2]+player_tick_adv
 		else:pass
 	input('new characters to add?')
