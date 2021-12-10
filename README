@@ -1,0 +1,8 @@
+Hey There
+The primary function of this codebase is to run an instance of the combat.py script in a shell enviroment to keep track of initiative in a role playing game. d10 based RP combat systems like StarWars d10 have a 7-ticks/turn structure that allow different attacks to have different "speeds" which can make gameplay much more fun.
+
+Feel free to clone this repo and run
+>python combat.py
+to see how the code works. 
+
+Adding arguments in the Tuple structure shown in the script wiil add characters to the gameplay loop, and any input from the keyboard will advance the TurnTracker 1-tick into the future!
