@@ -1,22 +1,21 @@
 import math
+import os
 from util.d10 import roll
+from load_most_recent import load_most_recent_filestring, save_path
+import datetime
 
 class TurnTracker:
 	def __init__(self,character_list_of_tuples,**kwargs):
 		self.verbose = kwargs.get('verbose',None)
 		if self.verbose == True:
-			print('________________TurnTracker_________________')
-			print('Turn Tracker Opt:\n"n" = Add New Player\n ')
-			print('‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾')
-			print('\nNote:\n-![Events marked with (*) have no error handling]!-\n')
+			self._welcome_print_seq()
 		else:pass	
 		self.raster = 0
 		self.character_list = character_list_of_tuples
 		self.acting_players = []
 		self.action_stack = []
 		self.attack_number = 0
-	def gather_action_stack(self, list_of_actions):
-		self.action_stack = list_of_actions
+		self.active_player = None
 	def _adv(self):
 		self.raster += 1 
 	def turn(self):
@@ -61,7 +60,12 @@ class TurnTracker:
 			else:pass
 		return acting_players
 
-#add some new player by tuple NEEDS TO HAVE A CORRECT TUPLE! add a checkmethod
+#TODO (JAKE) makeing a loading savepoint method
+	def _load_savepoint(self):
+		print(f"Loading savepoint ({load_most_recent_filestring()})")
+	def _make_savepoint(self):
+		with open(f"./text/saves/save_{datetime.datetime.now().strftime('%Y%h%d_%-H%M.txt')}","w") as f:f.write(str(self.character_list))
+		f.close()
 	def _add_player(self,new_player_tuple):
 		def get_player_roll(playerlist):
 			return playerlist[1]
@@ -100,13 +104,26 @@ class TurnTracker:
 				lst1 = str(input('	*Enter Character {}s name: (str) '.format(i+1)))
 				lst2 = int(input("	*{}'s Join Combat Die pool: (+num) ".format(lst1)))
 				newplayertuple =(lst1,lst2)
-				self._add_player(newplayertuple)				
+				self._add_player(newplayertuple)		
 				i+=1
 		else:pass
-		if event == "del":
-			print('#Placeholder for Delete Method#')
+		if event == "d":
+			print('#Placeholder for Delete Method#')		
+		if event == 'h':
+			with open('./text/help_string.txt',"r+") as f:print(f.read())
+			input("** Press Enter to Proceed... **")
+			f.close()
+		if event == 'a':
+			player_tech = self.get_player_techniques(self.active_player)
+			#pprint active techniques on player
+		if event == 's':
+			self._make_savepoint()
+			print(f"Made savepoint @ save_{datetime.datetime.now().strftime('%Y%h%d_%-H%M.txt')}")
+		if event == "l":
+			self._load_savepoint()
 		else:
 			return None
+
 	def run_combat(self):
 		while True:
 			ontickplayernames = self.compile_acting_players_to_list()
@@ -119,10 +136,11 @@ class TurnTracker:
 				#	print(x.character_list)
 					# print('	Players Acting this tick: {}'.format(ontickplayernames))
 					try:
+						#METHOD FOR EXPANDING LIST OF VALID ACTIONS - HEALTH BARS ETC.
 						player_tick_adv=int(input('	ticks ahead to place {}? '.format(player[0])))
 					except Exception as e:
 						print('!#!#! {} is a BAD INPUT adv {} 1 tick #!#!#!#'.format(player_tick_adv,player[0]))
-						player_tick_adv = 1				
+						player_tick_adv = 1			
 					player[2] = player[2]+player_tick_adv
 				else:pass
 			self._adv()
@@ -143,6 +161,7 @@ class TurnTracker:
 			ontickplayernames = self.compile_acting_players_to_list()
 			for player in self.character_list:
 				if player[0] in ontickplayernames:
+					self.active_player = player
 				#	print(x.character_list)
 					# print('	Players Acting this tick: {}'.format(ontickplayernames))
 					try:
@@ -167,3 +186,6 @@ class TurnTracker:
 				misses.append(1)
 		return [thresholds,misses,total_damage]
 
+	def _welcome_print_seq(self):
+		print('________________TurnTracker_________________')
+		print('\nNote:\n-![Events marked with (*) have no error handling]!-\n')

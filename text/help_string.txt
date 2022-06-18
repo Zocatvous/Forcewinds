@@ -1,0 +1,7 @@
+
+Help Menu:
+The Following event options are currently available
+"h" - Displays the help menu
+"n" - Begins the "add new player" event chain
+"d" - Allows for deletion of a player from the list of active players
+"s" - Allows for the current actionstack to be saved to a file and opened later.
