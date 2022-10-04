@@ -139,8 +139,8 @@ class TurnTracker:
 						#METHOD FOR EXPANDING LIST OF VALID ACTIONS - HEALTH BARS ETC.
 						player_tick_adv=int(input('	ticks ahead to place {}? '.format(player[0])))
 					except Exception as e:
+						player_tick_adv = 1
 						print('!#!#! {} is a BAD INPUT adv {} 1 tick #!#!#!#'.format(player_tick_adv,player[0]))
-						player_tick_adv = 1			
 					player[2] = player[2]+player_tick_adv
 				else:pass
 			self._adv()
