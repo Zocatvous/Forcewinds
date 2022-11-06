@@ -23,9 +23,8 @@ class TurnTracker:
 	def tick(self):
 		return (self.raster % 7) + 1
 
-	def roll_join_combat(self,**kwargs):		
-		
-		verbose = kwargs.get('verbose',None)		
+	def roll_join_combat(self,**kwargs):
+		verbose = kwargs.get('verbose',None)	
 		results=[]
 		raster_indexed_players = []
 		def get_player_roll(playerlist):
@@ -133,8 +132,7 @@ class TurnTracker:
 			else:pass
 			for player in self.character_list:
 				if player[0] in ontickplayernames:
-				#	print(x.character_list)
-					# print('	Players Acting this tick: {}'.format(ontickplayernames))
+					#This is where we place a standardized "Action parser method that compiles available techniques for a player"
 					try:
 						#METHOD FOR EXPANDING LIST OF VALID ACTIONS - HEALTH BARS ETC.
 						player_tick_adv=int(input('	ticks ahead to place {}? '.format(player[0])))
