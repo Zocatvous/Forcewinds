@@ -3,6 +3,8 @@ The primary function of this codebase is to run an instance of the combat.py scr
 
 Feel free to clone this repo and run
 >python combat.py
+   OR
+>python GameRun.py
 to see how the code works. 
 
 Adding arguments in the Tuple structure shown in the script wiil add characters to the gameplay loop, and any input from the keyboard will advance the TurnTracker 1-tick into the future!
