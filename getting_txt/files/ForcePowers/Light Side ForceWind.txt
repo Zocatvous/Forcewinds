@@ -1,0 +1,505 @@
+﻿Force Heal
+Cost: (Up to Alter)d6  FP, 
+Activation Time: 7 ticks to activate
+Targets: Single Target
+Defenses: Target must spend 1 WP to resist
+Range: self/arms reach
+Prereq: S1A1C0
+Effect: Heals (up to alter) d6 of any health levels 1 to 1 for d6 FP spent on power
+Duration: One action
+
+
+Force Balm
+Cost: 5d6  FP, 
+Activation Time: 7 ticks to activate
+Targets: Single Target
+Defenses: ------------
+Range: 10xAlter feet
+Prereq:S1A1C1
+Effect: This can cure any negative ailment the target is experiencing, this includes effects from dark side powers. However, it does not heal wounds
+Duration: 7 ticks
+
+
+Inspire (Light I)
+Cost: 2d6 FP + 1 Channel
+Activation Time: Reflexive
+Targets: Single Target
+Defenses: 1 WP to reject benefits
+Range: Scene
+Prereq: S4A2C3
+Reflexively target a single character in the scene with this ability and designate to assist a  single Mental Status roll. You designate yourself as part of the target of a status or ailment that is mental in nature and you roll a resistance to it 
+
+
+Peer
+Cost: 1d6  FP, 
+Activation Time: 7 ticks to activate
+Targets: Area inside your range
+Keywords: Concentration
+Defenses: MDV
+Range: Sense^2 miles
+Prereq: S2A1C1
+Effect: Detect life forms within your range of sensing and become aware of each creatures attunement towards light or dark.You may roll Wits+Sense to detect WP, FP, 
+Duration: Until no longer concentrating or interrupted
+
+
+Force Project Protection
+Cost: 4d6  FP, 
+Activation Time: Instantaneous
+Targets: Single Target
+Defenses: Target must 1 willpower to resist.
+Range: 10xSense Feet
+S1A2C2
+Effect: Protects (up to the higher of your Alter or Control) Lethal and Bashing damage. Subtracts dice from damage roll for a single attack against the designated target equal to the higher of your alter or control on a target in range.
+Duration: Lasts for a number of attacks equal to your control
+
+
+Force Protect
+Cost: 1 WP + 5d6  FP, 
+Activation Time: Instantaneous/Reflexive
+Targets: Single Target
+Defenses: N/A
+Range:Self
+Prereq: S1A3C3
+Effect: A shimmering barrier of protective energy envelops the caster as this power sets your Lethal and Bashing Hardness equal to the product of your Alter and Control and applies a soak against Lethal and Bashing damage up to the higher of your Alter or Control. Additionally, all damage is reduced by a factor or your Alter after Soak rounded down. 
+Duration: Lasts for a number of incoming instances of damage/attacks equal to your control
+ 
+Force Deflect
+Cost: 3d6 FP
+Activation Time: Instant
+Target: Self
+Keywords: Defensive
+Defenses:---
+Range:---
+Prereq:S2A2C3
+Redirect a force attack from an opponent onto a new target, target is chosen at random from available targets. Effects of the attack roll onto that new target.
+
+
+Force Pass Nature
+Cost: 4d6 + *Channel Virtue (GM choice)
+Activation: 5 TIcks
+Targets: Self
+Keywords: Until Cancelled
+Defense: None
+Range: Self
+Prereq: S2A2C1
+Effect: Allows one to supernaturally appear as an ally to all wildlife in nature for one scene. Also guarantees die Force sensitivity in automatic successes to checks involving Survival.  
+
+
+
+
+Force Absorb (Light II)
+Cost: 1WP + 2d6  FP per absorbed power
+Activation Time: Reflexive/Instantaneous/Defensive
+Targets: Self
+Defenses: N/A
+Prereq: S1A2C2
+Effect: When you are targeted with a Force Power that targets you, You may roll a d10 for each d6 of the opponents cost spent to cast that ability up to your control, each success allows you to regain 1d(Alter/Max(6)) FP from a force attack as FP. You must successfully cast this power in order to benefit from its effects. You do not take damage from damaging forceful attacks while this power is active. This power only provides protection from a single cast incoming force power that targets you. 
+
+
+Absorb II  (Light III)
+Cost: 1 WP + (4d6  FP per absorbed power at the instant of casting)
+Activation Time: Instantaneous/Reflexive
+Targets: Self
+Duration: Instant
+Defenses: ------------
+Range: Any force power in physical contact range
+Prereq: S2A4C4, Force Heal, Force Protect, Force Absorb
+Effect: Absorb the damage/affects from a force based attack with no other effects. For damage,The caster Makes a  wits+alter roll to use the absorbed energy to regain Aitizen or HP, or a Wits+Control roll  heal damage dice or to Regain the damage dice done to you in Force Points (1 to 1). The difficulty of this roll is the highest prereq of the force power targeting you. 
+
+
+Failures deal damage dice equal to the d6 of FP used to cast the ability targeting you. Botches roll Stigmata of the appropriate type. (See Rituals)
+
+
+Make a successful Wits+Alter roll (Diff equal to Attacker Die Pool) to use the absorbed energy to heal damage instead of FP. 
+Make a successful Wits+Control (Difficulty equal to the highest of the prereqs for the ability cast at you) to send the attack back at your opponent.  Failures to control the ability targeting you result in taking dice of damage equal to the Botches roll Stigmata of the appropriate type. (See Rituals)
+
+
+The effects of this attack are resolved normally and are resolved on your normal turn order. Does not prevent breaks in form or any other after affects from the reflected ability.
+
+
+Duration:(Absorb effects are resolved on the instant of the cast, reflected. )
+
+
+Absorb III (Light IV)
+Cost: 8d6  FP + 1 WP
+Activation Time: Reflexive
+Targets: Self
+Defenses: N/A
+Range: Self
+Prereq: S3A4C5, Absorb II
+Effect: You absorb all incoming damage from force based attacks and heal Aitizen and Health an amount equal to the damage taken as well as regaining FP equal to the damage taken (. Force Drain now costs your opponent the number of FP they would otherwise extracted from you. Make a successful Wits+control roll to send the attack back at your opponent (Difficulty equal to the highest prereq for the incoming attack) Failure to control the attack simply cancels the attack. You cannot botch or fail this roll. 
+Duration: Until Cancelled , Concentration
+
+
+
+
+Force Teleblock (Light II)
+Cost: 1d6 FP per attack
+Activation time: Instant Reflexive
+Target: incoming attack
+Prereq: S4A2C2
+Effect: Intercept one incoming melee attack with a telekinetic shield that functions the same as a parry with the appropriate weapon.
+
+
+
+
+Force Barrier (Light II)
+Cost: 5d6 per 7 ticks
+Activation Time: Reflexive, requires concentration
+Range: Control Meters
+Targets: N/A
+Defenses: N/A
+Prereq: S2A2C3
+Effect: The caster erects a barrier of soft blue force energy on a length of Alter Continuous hexes that intercepts and prevents incoming Physical attacks, This barrier can be no more than Control Meters in height and once formed into a shape at activation, cannot be reshaped. Incoming projectiles and attacks react as though they were striking an impenetrable wall. Active until concentration is cancelled. Barrier is treated as impassable terrain
+
+
+Calm Beast (Light II)
+Cost: 2d6
+Activation time: 7 Ticks
+Targets: One Non sentient creature
+Defenses:-----
+Range: Sense Meters
+Prereq: S2A2C2
+Effect: Can calm a single non sentient beast in the range of your affect
+
+
+Force Stun (Light I)
+Cost: 2d6  FP + Light Side Virtue Channel, 
+Activation Time: Reflexive/Instant
+Targets: Single Target
+Keywords: Interrupt
+Defenses: Stamina+Res (Diff Alter)
+Range: 10xControl Feet
+Prereq: S0A2C2
+Die Pool: Wits+Alter
+Effect:Caster rolls the die pool for this effect and targets up to Alter distinct targets as a channel of blue pacifying energy leaps from their fingertips in a flash, affected targets lose the ability to make any action for the duration of this effect. If they successfully save against the effect there is no effect.
+Duration: 7 ticks
+
+
+Force Minor Stasis
+Cost: 2d6 FP
+Activation time: 3 ticks
+Targets: Single Target
+Defenses, Interrupt Force Powers
+Range: 10 meters
+Prereq: S1A2C2
+Effect: Target freezes in place as a shimmering film envelops their body slowing their movement to close to nothing. Lasts for 7 ticks
+
+
+Force Major Stasis (Light II)
+Cost: Xd6  FP, 
+Activation Time: Instant, Reflexive
+Keywords: Interrupt
+Targets: Single Target
+Defenses: Interrupt Force Powers or cancelling effects, Force Absorb.
+Range: 10xControl Feet
+Prereq: S1A3C3, Stun
+Effect: Caster, Target is unable to act for the duration of this effect
+Duration: 7X ticks
+Prerequisite: Stun
+
+
+Force Stasis Field (Light III)
+Cost: 6d6  FP, 
+Activation Time: 7 ticks to activate
+Targets: AOE  (control+alter radius)
+Defenses: Target must spend 1 WP and roll Sta+Res Diff=Caster control to resist.
+Range: 10xControl Feet
+Prereq:S2A3C4
+Effect: Targets are unable to act for the duration of this effect
+Duration: 14 ticks
+Prerequisite: Stasis
+
+
+Force Valor (Light II)
+Cost: 1d6  FP per target, 
+Activation Time: 3 ticks
+Targets: AOE,Scene
+Defenses: ----------------
+Prereq: S1A3C2
+Range: AlterX10 Feet
+Die Pool: Charisma+Valor
+Effect: You and up to Alter allies add your Valor to their Defensive or Contested rolls, Up to Alter Turns and Up to Control Allies are boosted by this ability
+Duration: One Scene
+
+
+Force Blinding (Light II)
+Cost: 2d6  FP, 
+Activation Time: 5-Alter ticks to activate (min 1)
+Targets: Alter AOE
+Defenses: Target must spend 2 willpower to resist.
+Range: 10xAlter Feet
+Prereq: S0A2C2
+Die Pool: Wits+Alter
+Effect: the caster rolls the die pool resisted by a roll of Sta+Res. If this attack succeeds its effects sears the senses of the targets for its duration both in the mundane and in the force (details and penalties). If the target pays the willpower required to resist and fails - The target is unable to dodge or parry for the duration of the effect, on a successful save against this effect nullifies the effect.
+Duration: 7 ticks
+
+
+
+
+Force Battle Meditation 
+Cost: 7d6 FP + 1 WP Plus a virtue channel of your choice.
+Activation Time: 5 ticks
+Targets: self
+Keywords: Concentration, Meditation
+Defenses: This can be interrupted through normal interrupt means.
+Range: 10xAlter Miles 
+Prereq: S3A3C3, (FS>5), 
+Effect:The caster Closes his eyes for the duration while concentrating, and applies his Force Sensitivity as a Buff to all of his allies die pools for the duration of this power, for every action they take that the caster deems the buff appropriate. (It should be noted that the range of this effect  limited to one planet, unless the user has FarSight in which case the effects are done on the target planet and simultaneous) This effect boosts both offense and defense.
+Battle Meditation is an ancient and advanced force technique that allows a single jedi to project his connection to the Force to his allies, while you are in Battle meditation you may treat every 7-Alter ticks as a session of meditation by rolling Wits+sense. In that same tick you may identify up to Control allies to roll your Alter in d10 to regain your rolled Successes in d6 of a resource (FP or Ability) instantly instead of yourself.
+Duration: Effect is instantaneous and must be interrupted on the same tick that it is activated.
+
+
+Revitalize (LIght IV)
+Cost: 6d6  FP + Channel (GM discretion)
+Activation Time: 21 ticks to activate
+Targets: Single Target
+Defenses: None
+Range:  Touch
+Prereq: S3A4C3, Khunmal 1, Force Heal
+Effect: Influence the Medichlorians to restore life to a target. Heals 10d6 of any health levels and return a being to Incapacitated. Can be used to heal all but the most grievous of wounds and bring a being back from death, Restores 1 WP to target. 
+Duration: N/A
+
+
+
+
+Projection/Similfuturus (Light II)
+Cost: 9d6  FP, 
+Activation Time: 17-Control ticks to activate
+Targets:Self
+Defenses: N/A
+Range: (10xcontrol)^2 miles 
+Prereq: S3A3C3
+Effect: Allows you to project Up to Control-3 insubstantial copies of yourself or others across     great distances making a doppelganger of sorts. Your doppelganger is insubstantial and has[a] 1 HP and is apparently insubstantial if they are touched.
+Duration: Until conActive until interrupted by a skill designated as an interrupt.
+
+
+Force Austerity (Light II), Morichiro
+Cost: 3d6 FP + (1,2) wp
+Prereq:S0A2C2
+Targets: Self
+Defneses:---
+Range:self
+Effect: Allows the caster to forgo Normal sustenance (food or water) for
+ (Stamina)^(Alter) Hours. Subsuming themselves to the force and sacrificing one willpower which may not be regenerated in that time. This power may be cancelled by consuming sustenance. A Second willpower can be submitted to negate the need for fluid as well but the cost associated with this cast increases by 1 WP.
+
+
+Purging Light (Light II)
+Cost: 3d6 FP + 1 wp
+Activation time: 5 Ticks
+Targets: Single Target[b]
+Range: (Sense*10 feet out)
+Defenses: Resisted by Dodge MDV 
+Die Pool: Wits+Alter
+Prereq: S2A2C3, Force Calm, Mind Trick
+Effect: With a gesture, Cast Force Calm (core) on the AOE, All Targets in AOE who fail their passive resistance must spend a channel or they are pacified
+
+
+
+
+Force Augur (Light I)
+Cost: 2d6 FP + 1 wp
+Target: Self
+Activation time:3 ticks 
+Duration: 14 ticks
+Activation Time: (6-Alter) ticks[c]
+Prereq: S1A2C1
+Add your sense control or alter to a single roll as automatic successes. Spend the cost for this a second time to add another of these[d]
+
+
+
+
+Force Bravura (Light II)
+Cost:3d6 FP
+Target: Single Target
+Activation time: 3 ticks
+Defenses:----
+Duration: 21 ticks
+Range: 5*sense feet
+Prereq:S2A2C2
+Activation time: Instant
+Add your sense or alter as automatic successes to any mundane skill roll
+
+
+
+
+Force Bravura (Light III)
+Cost: 4d6 FP
+Activation Time: 3 tick
+Target: Sense*Alter AOE
+Defenses: Dodge MDV or spend one willpower
+Effect: Determine the outcome of one mundane roll for each person attempting that roll in the AOE.     
+         
+Force SweepWind
+Cost: 3d6 (every 7ticks) 
+Activation Time:Reflexive Instantaneous
+Duration: 3 ticks
+Target: Any incoming attacks
+Die Pool: Sense+Awareness
+Prereq:S4A4
+Effect: Until cancelled,  a Telekinetic wind intercepts incoming physical attacks directed at the caster. Ranged attacks are redirected to new targets, while melee attacks must pass Str+Ath check at a difficulty equal to the casters Control+Alter to hit the caster. 
+        
+        
+Force Nywither Diamond (FS >4, Light III)
+Cost: 4d6 (pay every 7 ticks active)
+Activation time: 14 ticks
+Duration: Until cancelled
+Target: Self
+Prereq:S0A5C5
+Effect: The caster is surrounded by a host of kyber crystals that grow to maturity and hover just above his skin. The caster is immune to piercing attacks and all lethal and aggravated damage is met with a kyber-metal skin that has infinite hardness. Force powers directed at the caster while this “skin” is active have their FP cost spent at cast absorbed into the skin of the armor which may be accessed by the caster at will - adding to their FP pool. Any temporary FP must be used before the skin is dispelled or all of it is released in an uncontrolled manner. These crystals are free floating and may be telekinetically controlled or interacted with by casting Telekenesis. While the crystals are active the film protecting the jedi is sealed to metabolic hazards and impenetrable to weapons. 
+
+
+Force NetherSweep
+Cost:4d6
+Activation Time: 4 ticks (can be interrupted)
+Duration 7 ticks
+Target: Selective Area
+Prereq: S0A3C2
+Effect: Every target you specify in an 3*Control AOE around your character suffers a Dex+Athletics check Difficulty = (FS+Alter) every tick For the next 7 ticks. If they fail they are lifted into the air upside down Control Meters (max FS) 
+
+
+Force Dilation
+Cost 3d6 (repay every 14 ticks power is active)
+Prereq:S2A3C4
+Activation time: 7 ticks
+Effect:The caster absorbs the latent force energy in the creatures around him like a performer draws on the energy from a crowd. The creatures and beings around cause his margin of success to increase his die pool for any mundane action. They make the same mundane check     
+
+
+
+
+Force Enrich (Light III)
+Cost: 10d6 FP
+Activation Time: 14 ticks
+Target: Self and Allies
+Prereq: S3A4C4
+Defenses: None
+Range: Alter AOE
+Effect: You have uncovered one of the sacred Tython rituals of Anil Kesh, For Control Turns the the caster creates an aura that ensures all force abilities that are cast at minimum cost. This technique also increases the Force Saturation (sanctity) of your surroundings by the sum of Alter+Control Per minute spent to cast (Up to the limit of your FS). (used in calculation of meditation rolls).Lasts for Alter Turns
+
+
+Plant Surge
+Cost: 5d6  FP, 
+Activation Time: 5 ticks
+Targets: Single Target
+Defenses: Strength roll to break free, Force interrupt
+Range: 10xcontrol feet
+Prereq: S2A3C2
+Effect: The user can instantly grow plants under the feet of their opponent to entangle them in the plants. The user can also just grow plant s at an accelerated pace or cause plants to move out of their way.
+Duration: While concentrating
+
+
+Force Phantom Demesne (Light III)
+Cost: 5d6 FP
+Activation Time: 5 ticks
+Target: Self 
+Defenses: Resisted by Wits+Awareness to not be fooled
+Range: self
+Die pool: Wits+Alter
+Prereq: S2A3C1
+Effect: the caster is surrounded by (Alter) alter ego phantoms who pantomime their actions in perfect harmony and synchronization. Onlookers are unable to discern which is the real caster if their Dodge MDV is exceeded by the casters Wits+awareness roll. Phantoms stand in any orientation around the caster and every movement and subtly copied exactly for every 14 ticks that the cost is paid.
+
+
+Force Sanctuary (Light IV)
+Cost: 7d6
+Activation Time: 7 Ticks
+Range: Control Meters in radius barrier
+Targets: AOE 
+Defenses: N/A
+Prereq: Force Barrier, S2A3C2, FS>5, Khunmal 2[e]
+Duration: Alter Turns
+The caster creates a buoyant barrier of light side energy that protects all those inside from all incoming attacks of all types, pouring their virtue into their fellows. All friendly targets Including the caster inside the barrier cannot be brought below incapacitated health levels, all damage taken that brings a person below Incapacitated health levels is ignored, All targets inside the barrier who have a Dark Virtue (Gm Discretion) must channel those virtues with every action taken while inside the barrier. Allies who have perished have the fibers of their life woven back together with the force and are brought to incapactitated health levels, In order to repulse enemies from passing the protective barrier the caster must channel 1 appropriate virtue per turn this affect is active (GM discretion).
+While the barrier is active, The DR and Hardness of this barrier is effectively infinite and even protects those inside from hard vacuum and metabolic hazards. Targets that have perished and are exhausted of Dying health levels are brought to incapacitated. The caster may similarly channel a virtue to supplement the barrier with up to Sense of the following effects.
+* Force Heal to be cast every turn on all friendly targets
+* Mundane meditation to be cast every turn on all friendly targets to replenish FP
+* Each friendly target rolls your meditation dice to regain AP
+* Each friendly target rolls your meditation dice to regain Aitizen
+* Each friendly target regains 1 WP
+* Make the barrier impassable to enemies
+
+
+Force Tremor (Light IV):
+Cost: 5d6 FP (Control 2 Alter 2)
+Activation time, 5 Ticks
+Targets: Single Target
+Keywords: Interrupt
+Defense: Str+Athletics (Movement Impairing), Perception+Resistance (Sensory Impairing)
+Range: 10*Control meters
+Prereq: S2A3C3
+Effect:The caster calls upon the force to vibrate the matter in the ground beneath the feet of a single opponent to cause them to slow to a fraction (alter rounded up) of their movement speed, The target must also make a Dex+Athletics Check to retain their feet or stay in full control of their movement and position. This affect also creates a thunderous ripping vibration in the air stifling the senses of the target unless they make a Perception+Resistance Roll at the difficulty of the successes of the caster. Can be used to interrupt or disrupt form stance.
+
+
+Force Matterquake
+Cost: 8d6 (Control 3, Alter 3)
+Activation: 5 Ticks
+Targets: AOE Control meters
+Defense: Str+Athletics (Movement Impairing), Perception+Resistance (Sensory Impairing)
+Keywords: Simple, Interrupt 
+Range: 10*Control*Alter Meters
+Prereq: S1A3C3
+Effect: THe Caster causes a colossal earthquake that impairs the senses, disrupts those in the AOE and causes them to fall the the ground and lose control of their movement. This technique is incredibly loud and can be heard for miles around the caster disrupting wildlife and causing breakable substances to vibrate or shatter if they are too weak to withstand this cast. 
+
+
+Force Ephemeral Vigil (FS>5) (Light III) 
+Cost: 10d6 + 2 WP
+Prereq: S3A5C54
+Target:Self
+Range: Self
+Activation: 1 day
+Duration: Until Cancelled
+Effect: Allows to caster to suspend their dependence upon the Material world until further notice. The FP Cost associated with this cast may be regenerated. The Caster negates their need For Sleep, Food, Water and even Sleep. As their needs are fully satisfied by their connection to the force. This effect cannot  be cancelled and represents a complete disconnection from the exterior world to subsume oneself if the immaterial world of the force. This may be used to negate the need for resources during Force Sensitivity increase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power Name
+Cost: (can the user spend some multiple for extra effect? Is there some way to reduce cost? Is this cost singular or recurring?)
+Activation Time: (is it an action to activate the power? If so, how many ticks, what DV penalty? Is it reflexive? Is it “supplemental”, in that it aids some mundane action (force jump)? Can it be used during the same action as other force powers? Does it break Kai Kan? Can the user take extra time to gain an advantage on his roll, or reduce cost? Can the user activate the power for multiple consecutive actions in order to allow for an extended roll?)
+Targets: (Who can be targeted? How many? If you can target more than one, does that require a better roll? Increased Cost? Is it only self-target? Only allies? Only enemies? Does it work on Droids?)
+Defenses: (Does the target need to be willing? For unwilling targets, is there some way for them to avoid it? Is there an attack roll involved? Can it be dodged or blocked, or both, or neither? Does the target get a resistance roll? What die pool is it? What is the difficulty? Can the user affect the difficulty by taking extra time/spending more energy/rolling well? Does soak apply? Cover?)
+Range: (Touch? Sight? Some fixed range? Is there a die roll, and range adds difficulty/subtracts from die pool? Does the user need to be able to sense the target? Is it an AoE? How big? How can the user affect the size (points/time/roll)?)
+Die Pool: (What does the user roll to activate the power? Is any roll necessary, or does it automatically work? Does it automatically work, but need a roll to be effective (throwing lightning at someone)? What Virtues might be channeled on this, and which are forbidden? Can the user Stunt? Spend Willpower? Can the user spend extra force points for extra dice/successes? Take extra time? If a roll is required, what is the difficulty? What does failing mean? Botching? What do extra successes do, if anything?)
+Effect: (Does the effect scale with successes on the roll? Energy spent? Force Traits? Or is it somehow cosmically constant? Is there anything the user can do to affect the effect? What can the target do to mitigate the effect?)
+Duration: (Is the effect instant? Does it require concentration from the user? Does it require periodic maintenance in the form of spending more energy or making more rolls? Is there anything the target, or a third party, can do to stop the effect? Can the user stop the effect once it starts? Does it require the user win a series of contested rolls, like a Clinch? Or maybe the user makes one roll, and the target gets a periodic opportunity to beat that roll with resistance.)
+
+
+[a]this appears to be unfinished
+[b]description talks about this being AOE
+[c]2 seperate activation times listed for this ability
+[d]Unavilable
+[e]not a req

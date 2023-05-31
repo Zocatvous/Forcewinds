@@ -1,0 +1,425 @@
+﻿Drain Knowledge (Dark I)
+Cost: 2d6  FP, 
+Die Pool: Control+Manipulation
+Activation Time: 5 ticks
+Targets: Single Target
+Defenses: MDV
+Range: control + sense meters
+Prereq: S1A1C1
+Effect: By reaching into the target's mind and while making eye contact, the force allows you to  gain knowledge known by the target.Targeted knowledge cannot be too complex (e.g any knowledge that would require a skill roll above the user to execute like learning to fly an exotic aircraft)  Each use of this ability allows the user to gain knowledge from one memory of the target. The target loses one temporary willpower and experiences great pain through the process. A purchase of a second level of this power allows you to perform this technique on up to Sense opponents in Control Meters around the user. 
+Duration: Scene (lvl 1), 12-Sense Ticks (lvl 2)
+
+
+Envenom (Dark I)
+Cost 2d6
+Activation Time: 7-control ticks
+Targets: Single Target
+Defenses: Stamina+Resistance (Diff Alter)
+Range: Control Meters
+Prereq: S2A2C1
+Effect: You create a channel of poisonous force energy within the life essence of the target prompting them to take up to Alter aggravated dice (d10) of damage at any time after they fail a resistance roll against this force power.
+Duration: 3 ticks
+
+
+Sychopant’s Viel (Dark II)
+Cost: 1 WP + 4d6 FP
+Activation Time: Reflexive, Defensive
+Targets: Self and one offending target
+Defenses: Detection roll Sense+appropriate, Interrupt Force Power required to cancel affects
+Range: N/A
+Keywords: Defensive
+Prereq:S2A2C2
+Effect: Viel yourself in the force after a coercive action as been taken against the caster resisted by thier MDV or forcing them to spend a resource. You do not suffer the penalties or spend any resources except the activation cost of this ability giving the impression that the coercive action made against the caster was successful. Can be used to implant the idea that a particular social attack against the caster was successful.
+Duration: 2 ticks
+
+
+Drain Life (Dark I)
+Cost: 2d6 FP per target
+Activation Time: 3 ticks
+Targets: Up to one Single Target
+Defenses: Stamina + Resistance, Interrupts
+Range: control + sense meters
+Prereq:S2A2C2
+Die Pool Wits + Control
+Effect: Drain AlterD6 Points of Life from any 1 target within Sense meters. This cannot be soaked.
+Duration: 3 ticks
+
+
+Force Drain (Dark II)
+Cost:1 WP + 1d6
+Activation time: Reflexive
+Targets: Alter Cone (Alter Hieghtx1/2 Alter Width)
+Defenses: Interrupt, Force Absorb
+Prereq: S2A2C3, Drain Life
+Die Pool: Wits+Control
+Effect: Drain Alter D6 points of life and FP from all targets within an Alter meters cone at a difficulty equal to the FS/Potency of the target. Can be used to drain FP from the caster of a persistent Forceful effect. I.e (Sanctuary, Protect, Storms, GM Discretion) at difficulty equal to the FS of the caster 
+Duration: 6 Ticks
+
+
+Shock (Dark I)
+Cost: 1d6  FP, 
+Activation Time: 1 tick
+Targets: Single Target
+Defenses: None
+Range: alter^2 meters
+Prereqs: S0A2C3
+Effect: Discharge a weak pulse of lightning from your hands doing 2d6 Aggravated damage to target.
+Duration:3 ticks
+
+
+Chain Lightning (Dark II)
+Cost: Xd6  FP (Minimum 2), 
+Activation Time: 1 tick
+Targets: Up to your Alter
+Defenses: None
+Range: alter^2 meters
+Prereq: S0A2C2, Shock
+Effect: Chain an electrical discharge through multiple enemies doing (Alter)d6 to the first and dropping in damage by 1d6 for each successive target down to 1d6, May target up to X targets where X is your Control.
+Duration: 3 ticks
+
+
+Force Maelstrom (Dark III)
+Cost: 5d6 FP + 1 Channel of GM Discretion Virtue 
+Activation Time: Reflexive
+Targets: Self
+Keywords: Defensive
+Defenses: None
+Range: 1 Hex AoE/Self
+Prereq: S3A3C3, Force Repulse, Force Lightning
+Effect: You surround yourself in a ball of defensive lightning that strikes out at enemies casting Force Shock on any selected targets within 1 hex of you for the duration of the effect for free. You are protected by a barrier of forceful energy from projectiles, melee attacks, lightsabers and forceful attacks with a HP value of 25*(FS+Alter).
+
+
+ All uses of Force LIghtning while the barrier have their active cost reduced by 1d6 for each level of the casters control to a minimum of 1d6. 
+
+
+All instances of forceful energy from Force Storm, Shock or Lightning that pass through the barrier heal the barrier for the value of the damage that they inflict on their target for no additional cost rendering the caster effectively immune to incoming force based Lightning attacks.
+
+When the barrier of the Maelstrom is dispelled it casts a repulse that does the specified damage of Force Repulse as aggravated damage instead of lethal.
+Effect Duration: 7*Control ticks
+
+
+
+
+Force Hoarfyre (Dark II)
+Cost: 3d6 + 1 WP
+Activation Time: 3 ticks
+Targets: 9 hex AOE
+Defenses: Stamina + Resistance. 
+Range: Alter+Sense Meters
+Prereqs: S1A3C3, Matter I
+Effect: The ancient sith alchemists flame is conjured to the casters hands and threatens to envelop him, On passing a Stamina + Resistance with 2 successes or more, The caster may hurl the ball of furious destruction at his enemies dealing 5d6 Aggravated damage to any caught in its blast. Any Force Powers used to resist the effects of this attack grant the caster 1d6 FP for every forceful action used as a defense.
+Duration: 4 ticks
+
+
+Force Bileflux (Dark III)
+Cost: 6d6
+Activation Time: 3 Ticks
+Targets: Alter Distinct Targets
+Defenses: Stamina + Resistance (Diff Alter), Roll to Save once per turn at the top of the turn.
+Range: Alter x 10 meters
+Prereqs: S3A3C3, Force Envenom, Matter I
+Effect: The caster manifests a foul bilge in the stomachs and internal organs of the target causing them to make a Sta+Res check to perform any actions until they successfully make their first successful “save” against the effect, Targets who fail wretch blood and toxic ooze in the hex they occupy and any they pass through that deals (AlterD6) damage to all those who come in contact with that hex. Every Failed defense or save roll causes each hex around the target to flip a coin for each adjacent hex from them. Each hex with a “heads” result causes the hex to be plagued with toxic sludge. 
+      
+Force Lightning (Dark III, Anger/Hate III)
+Cost: 4d6  FP
+Activation Time: Reflexive/Instant
+Targets: Single Target
+Defenses: None
+Range: alter^2 meters
+Die Pool: Dex + Alter
+Effect: Unleash deadly lightning on a single target doing 6d6 Aggravated damage, If this attack were to kill a target you may choose to incapacitate them instead.
+Duration: 5 ticks
+
+
+Force Storm (Dark V)
+Cost: 8d6  FP + 1 Channel*
+Activation Time: 3 Ticks
+Targets: AoE Alter meters
+Defenses: Interrupt, Force Absorb, Sta+Resistance (Diff Control+Alter)
+Range: Control^2 meters
+Prereq:S5A5C5
+Effect: Feel the unlimited power flow through you. Unleash a storm of lightning doing 8d6 Aggravated damage to everyone in range. Roll successes on Perception+Control equal to the number of targets in the AoE to not damage yourself. 
+Duration: 7 Ticks
+
+
+Force Rage (Dark III, Hate III/Anger III)
+Cost: 4d6  FP, 1 channel of Hate or Anger
+Activation Time: Instant
+Targets: Self
+Defenses: None
+Range: Self
+Prereq: S0A2C2
+Effect: Tap into your fears, pain, and hate to temporarily increase your Strength, Dexterity and Stamina by your Alter, You flux a blood red pulsing aura as your add the higher of your Hate or Anger as auto successes to all attack or damaging rolls for the duration of the effects. and shorten all actions by 2 ticks. For the Duration of the effect you are immune to all non-aggravated damage and weakening or status altering effects. You enter a weakened state after the effects wear off suffering a -1 to all die pools to all die pools for 14-Control Ticks after the effects wear off for each instance of damage taken while in Rage.
+Effect Duration: 7*Control Ticks
+
+
+Force Grip (Dark I)
+Cost: 1d6  FP, 
+Activation Time: 3 ticks
+Targets: Single Target
+Defenses: Stamina + Resistance (Diff Control)
+Range: alter^2 meters
+Prereq: S1A2C2
+Keyword: Interrupt
+Effect: Reach out with the force to grab your enemy by the throat dealing 1d6 of bashing damage per round. The target is unable to breathe or speak until they make a successful defense roll to break free.
+Duration: While concentrating
+
+
+Force Choke (Dark II)
+Cost: 2d6  FP, 
+Activation Time: 3 ticks
+Targets: Single Target
+Defenses: Stamina + Resistance (Diff Control)
+Range: alter^2 meters
+Prereq: S0A2C2, Grip
+Keyword: Interrupt
+Effect: Reach out with the force to grab your enemy by the throat dealing 2d6 of bashing damage per turn. The target is unable to do anything until they make a successful defense roll at (- Control) penalty Diff Alter to break free. 
+Duration: While concentrating
+
+
+Force Kill (Dark III, Hate III)
+Cost: 1 WP + 4d6
+Activation time: Instant
+Targets: Up to Control Targets
+Defenses: Stamina + Resistance (Diff Control), Interrupt
+Range: Alter^2 meters
+Prereq: S2A3C3, Choke
+Keyword: Interrupt
+Effect: The caster wrenches shut the windpipes of all targets, suffocating them to death. The Target takes (Alter)d6 Lethal Damage every Turn. Additionally, the target suffers a cumulative -1 penalty to all die pools for each turn after your first failed attempt to lift the effect. 
+
+
+Force Scream (Dark II, Anger I)
+Cost: 3d6
+Activation time: 1 ticks
+Targets: Alter AOE
+Defenses: Stamina + Res (Diff Alter). 
+Keywords:Interrupt
+Range: Alter AOE
+Prereq: S1A3C2
+Effects: Channel your rage into an intense scream that does (Alter+1)d6 Aggravated damage to All targets that fail their defenses, And weakens or destroys weak structures in front of the caster. 
+
+
+Force Shriek (Dark III, Anger II)
+Cost: 5d6 + Channel Anger
+Activation Time: 1 Tick
+Targets: Scene, Alter AoE
+Defenses: Stamina + Resistance (Diff Alter), Att + Virtue Roll (Diff Control)
+Keywords: Interrupt
+Range: Scene
+Prereq:S0A5C5, Force Scream
+Duration: 7 ticks
+ Effects: Channel your rage into a ear piercing shriek that shatters brittle substances and petrifies wildlife in the area. All targets in the Scene must pass a Sta+Resistance Check or take Alter Dice of Unsoakable bashing damage from the kinetic force of the scream. All Targets in the Scene must pass a Wits + Integrity Check (Diff Alter) in order to continue being hostile towards you. Failing targets have their current action cancelled as the shriek supernaturally saps the area of natural energies 
+________________
+
+
+Force Crush (Dark V, Hate V)
+Cost: 6d6  FP + Dark Channel
+Activation Time: 3 ticks
+Targets: Single Target
+Defenses: Target mus make a Strength+Resistance roll against the caster, Interrupt Force Powers
+Die Pool: Wits+Control
+Range: Alter^2 meters
+Prereq: S0A4C4, 
+Effect: Encompass the target in the force and crush it. This attack deals (Alter+Control)d6 damage per turn beginning on the first tick after activation time. The target is unable to do anything until they make a successful defense roll at a -Control penalty to break free. Penalty is imposed to break free not during the initial first contest. This power negates the protection of armor if it hits.
+Duration: While concentrating
+
+
+Force Plague (Dark V, Hate V, Anger V)
+Cost: 7d6 + 3d6 per turn active
+Activation Time: 3 Ticks
+Targets: Alter AOE
+Defenses: Target Must make a Difficulty Alter Stamina+Resistance Roll. 
+Range: Alterx10 Meters
+Prereq: S3A5C5, Force Bileflux
+Effect: Using the last stanza of an ancient Sith purging ritual, the caster manifests a foul toxin within the spirits of all in his targeting area afflicting them with a -(Control+Number of Active Turns) penalty to all die pools and passives. Additionally, Each target inside the AOE must make take a Bendukizu Stigmata roll (See Rituals) or move at least the casters Alter in hexes in a d6 random direction as their minds and body are shredded by the foul throughs of the toxin within them. All hexes touched by the infected now contain motes of the plague which  immediately transmit the effects of the Plague to those passing through as it persists in the area until the end of the scene or beyond. All infected targets suffer the effects of BileFlux.
+ (If the Caster spends a Channel of Anger the Plague may persist as long as Alter xControl minutes.) 
+(Affects triggered by passing through infected hexes cannot be mitigated unless the hex is cleansed)
+      
+Force Fear (Dark II)
+Cost: 3d6 FP
+Activation Time: 5 Ticks
+Targets: Single Target
+Defenses: MDV
+Range: 10xAlter meters
+Prereq: S1A2C2
+Effect: The target is beset with an overwhelming sense of doubt and fear, Caster rolls their Manipulation+Control resisted by Targets MDV,  They must roll their Cha+Resistance to successes equal to the caster’s FS at a difficulty of their Control to break free, retries are a 3 tick action. 
+
+
+Horror (Dark III)
+Cost: 4d6
+Activation Time: 5 Ticks
+Targets: Control Single Targets
+Defenses: MDV
+Range 10*(Alter+Control) Meters
+Prereq: S2A2C2
+Effect: The Targets mind is burrowed for their most intimate secrets and fears which are then manifested in their mind and associated with their immediate surrounding reducing them to an incoherent stuttering mess. Caster rolls their (Manipulation + Alter + Control). This number are the successes needed to break free on Cha+Resistance roll, Retries are every seven ticks at a difficulty equal to the casters Control to break free.
+
+
+Insanity (Dark IV)
+Cost: 4d6 as per needed
+Activation time: 5 Ticks
+Targets: Everyone in Scene (Selective AOE)
+Defenses: MDV
+Range: Scene/Map
+Prereq:S2A3C4
+Effect: A Manifestation of hallucinogenic proportions is created in the mind of the target driving them to abject madness for the duration that the caster desires.Caster rolls (Man+Control) against all targets in the scene (Selective AOE) which sets the difficulty and threshold successes needed to break the affect. Further, the targets must roll their Cha+Resistance to not attempt to harm themselves and scream uncontrollably every 7 ticks and must roll successes equal to the difficulty set by the casters successes during the cast and spend 1 WP for each attempt to break free of the effects of this force power. Effects of this power are permanent if the targets fail to break free by being reduced to Zero WP. Caster must spend (6-Control Min 1) d6 FP for each target that attempts to break free.
+
+
+Mind Control (Dark III)
+Cost: X WP + 4d6  FP, 
+Activation Time: Instant
+Targets: Single Target
+Die Pool: Control + Manipulation
+Defenses: Target MDV or Spend X in WP to resist.
+Range: Control Meters
+Prereq: S3 A2 C3
+Effect: Target is a docile servant for 14 ticks or 1 minute out of combat.
+Duration: 14 ticks/1 Min OOC
+
+
+Dominate Mind (Dark IV)
+Cost: 7d6  FP + XWP, 
+Activation Time: (14-Control) Ticks
+Die Pool:Control + Manipulate + X
+Targets: Single Target
+Defenses: Target MDV Or Spending X WP
+Range: control^2 meters
+Prereq: S3A1C3
+Effect: The target’s mind is dominated by the caster and bent to their will. The caster can block off memories and can even change the targets virtues by using other Force Abilities or means. The target will do the bidding of the caster. The effect stacks and becomes greater when more than one caster performs this in unison on a single target. Caster may increase the difficulty of the defense by X, by increasing the cost to cast by X WP.
+Duration: Permanent or until broken. Memories will return by being triggered through “reexperiencing” the events. Virtues can be changed if truly convinced the other way is better. 
+(14 ticks to activate) 
+
+
+Force Death Twist (Dark III)
+Cost 4d6 FP
+Activation time: 3 ticks 
+Targets : Single target or body part of target
+Defenses: Strength+Resistance  (to resist trauma), Interrupt Force Powers
+Range: Alter meters
+Die Pool: Wits+Control (size modifier +1/+2/+3 imposes a 2x,3x,4x difficulty modifier per level )
+Prereqs: S2A2C3, Force Choke, Force Concealment
+Effect: The caster reaches out in the force and with razor precision and subtly takes perfect telekinetic hold of a body part by wrenching the  sinews or nerve endings of his target (size modifier limiting) to snap necks, break limbs or otherwise inflict telekinetic trauma proportional to his control dealing his margin of success over his victims resistance roll (Str+Res) in (Control x D12) lethal damage. Damage is dealt to the opponent immediately but may not be lethal damage. Unless the caster is targeting a vital organ. This power circumvents all protections from armor if it “hits”
+
+
+Diremind Web (Dark IV, Anger/Hate III)
+Cost: 6d6 + 1d6 per Turn
+Activation: 3 ticks
+Die Pool: Alter + Wits
+Targets: Up to Control targets within Alter*10 feet
+Defenses: interrupt or soak or force deflection, Resisted by MDV,  Contested Virtue Rolls to cancel persistent effects
+Prereq: S2A2C2, Envenom, 
+Effect: a Web of darkside energy vaults from the mind of the casters eyes as burning red tentacles that extends into the minds of his victims dealing Alter Aggravated damage unless the target successfully resist by MDV. The Target takes 2d6 lethal damage every tick the effect is maintained for at least one tick, Once allowed the target may spends a willpower to cause a quick contest between the attack die pool (Hate/Anger+Control) vs. (GM Discretion Virtue + Alter). All targets with the caster’s chosen Virtue must spend a Channel it to perform any actions or incur a 2d6 Agg Damage attack that can only be soaked. Targets who are reduced to 0 WP by the caster may have a virtue of the casters choosing placed into the spirit of their target by “giving” the target 1 WP. Doing so returns the target to 1 WP. 
+Duration: Concentration 
+
+
+Dominate Mind Field (Dark V)
+Cost: (X Minimum 1) WP + 4d6  FP, 
+Activation Time: Instant
+Targets: AoE, radius of control meters
+Defenses:  MDV or spend X WP 
+Range: control^2 meters
+Duration: Control Ticks
+Die Pool: Control + Manipulate
+Effect: The target’s mind is dominated by the caster and bent to their will. The caster can block off memories and can even change the target’s virtues. The target will do the bidding of the caster. The effect stacks and becomes greater when more than one caster performs this in unison on the area.  Caster may increase the difficulty of the defense by X, by increasing the cost to cast by X WP.
+
+
+Duration: Permanent or until broken
+
+
+Death Field (Dark V)
+Cost: 5d6 FP
+Activation: 4 Ticks
+Targets: Alter Targets in Control Hex Radius AOE
+Defenses: Interrupt, Absorb
+Range: Control Hex AOE Centered on Self
+Prereq: S4A6C6, Force Drain
+Create a Field of Death centered on yourself that deals Alter D6 of unsoakable aggravated damage, You heal for 10% in any health level of the damage dealt to all enemy targets. 
+
+
+Spear of Midnight (Dark VI)
+Cost: 9d6  FP, 
+Activation Time: 5 ticks, 
+Targets: Single Target
+Defenses: None
+Range: Infinite, GM Discretion for Sense+Perception limiting targeting range.
+Duration: 7 Ticks
+Prereq: S6A7C6, (Knowledge of the Infinity Gate on Tython, Or Similar Gree Armory), Force Farsight
+Effect: Call upon The Trapped Spirit within the Jedi planet Tython the Remnants of the Planet Byss and pull from his vast arsenal a single weapon through hyperspace which appears and strikes at the target dealing 20 Lethal guaranteed damage and 10d6 Aggravated damage. 
+
+
+Anddedu’s Gulp (Dark VI)
+Cost: 2 WP + 8d6  FP, 
+Activation Time: Instant
+Targets: Single Target
+Defenses: None
+Range: Alter*100 meters
+Keywords: Concentration
+Duration: 10 ticks
+Prereqs: S6A5C4
+Effect: The Practitioner Taps into the sanctity and forceful potence of his surroundings opening a void in the force consuming their force energy and absorbs all of it into himself, Latent Forceful Energy, Living Souls of wildlife and beings are food for the casters Dark Hunger consuming them entirely body and soul. The Caster swells with force energy up to Alter x his current max force pool. The size of the Contributions to the caster are as follows per target.1d6 = Small: WIldlife or the ambient energy of a Kashyyyk Jungle (No more than 3d6 per hex of wildlife, bugs and insects do not count as a source of energy and are immune)
+
+
+3d6 FP= 1 Sentient Life (Normal Corellian human)
+4d6 FP= 1 Potent Sentient life (Jedi Knight)
+5+ d6 =  1 Powerful Transsentient Life ( Celestial or Gree Shaman)
+
+
+The caster's concentration cannot be broken during the 10 seconds that the caster is executing the force power. Attempts to break the casters' reverie are resisted by Wits+Awareness at the difficulty of the defender's attempt. All attempts that are not attacks to break the casters concentration are three tick actions and must cause the caster to make a Wits+Awareness at the difficulty of their attempt which is imposed by the GM[a], the caster may also spend 1 WP.  The caster must not break concentration during the casting duration of this ability or it may backfire and cause Bendukizu Stigmata (See Rituals).
+
+
+Defenders struck by this ability have all of their die pools for the remainder of their existence reduced by a fraction of the ticks remaining in the force powers duration. (e.g 1 tick after activation - all die pools are reduced by 10% rounded up, 7 ticks after activation - 70% rounded up.)
+
+
+Essence Drain (Dark V)
+Cost: 7d6  FP, Channel Hate/cast
+Activation Time: 7 ticks
+Targets: Single Target
+Keywords: Concentration
+Defenses: Interrupt Force Powers.
+Range: Force Sensitivity^2 meters
+Prereq: S6A6C6, FS 6
+Die Pool: Control + WP (Current)
+Effect: This power allows the force user to siphon the energy of life from their target into a ball of Essence that must be contained as Khunmal or Kyber or suitably potent vessel. If the caster fails to control this Essence it is annihilated and the caster suffers Bendukizu stigmata (See Rituals). Casting this power triggers a contested roll between the caster and target’s (remaining Willpower+Control), each contest takes 7 ticks and the loser of this contest loses 1 point of FS permanently which hovers in front of the caster as a ball of Khunmal. If the caster rolls a failure they suffer stigmata, if the caster botches, they extract a point of their own essence that must be controlled or it is annihilated. Each contest requires a channel of Hate.  If a target is reduced to 0 FS they are snuffed out of existence.
+
+
+
+
+Odium’s Grand Feast[b] (Dark VI)
+Cost: 6 WP + 24d6  FP, 
+Activation Time: Instant
+Targets: Single Target
+Defenses: None
+Range: Alter*100 meters
+AOE: Alter*100 meters
+Keywords: Concentration, Obvious
+Duration: 21 ticks
+Prereqs: S7A7C7
+Effect: The Practitioner Taps into the sanctity and forceful potence of his surroundings opening a void in the force consuming their force energy and absorbs all of it into himself, Latent Forceful Energy, Living Souls of wildlife and beings are food for the casters Dark Hunger consuming them entirely body and soul. The Caster swells with force energy up to Alter x his current max force pool. The size of the Contributions to the caster are as follows per target.1d6 = Small: WIldlife or the ambient energy of a Kashyyyk Jungle (No more than 3d6 per hex of wildlife, bugs and insects do not count as a source of energy and are immune)
+
+
+3d6 FP= 1 Sentient Life (Normal Corellian human)
+4d6 FP= 1 Potent Sentient life (Jedi Knight)
+5+ d6 =  1 Powerful Transsentient Life ( Celestial or Gree Shaman)
+
+
+The caster's concentration cannot be broken during the 21 seconds that the caster is executing the force power. Attempts to break the casters' reverie are resisted by Wits+Awareness at the difficulty of the defender's attempt. All attempts that are not attacks break concentration are three tick actions and must cause the caster to make a Wits+Awareness at the difficulty of their attempt, the caster may also spend 1 WP.  The caster must not break concentration during the casting duration of this ability or it may backfire and cause Bendukizu Stigmata (See Rituals).
+
+
+Defenders struck by this ability have all of their die pools for the remainder of their existence reduced by a fraction of the ticks remaining in the force powers duration. (e.g 1 tick after activation - all die pools are reduced by 10% rounded up, 7 ticks after activation - 70% rounded up.)
+
+
+
+
+Odium’s Grand Feast - Dark VI
+Cost: X WP + 37d6 FP + Dark Side Virtue Channel
+Activation time: Instant
+Targets: Up to X targets in AlterX10 Meters AoE
+Defenses: None
+Range: Alter*10 meters
+Keywords: AOE, Obvious, Concentration
+Duration: 21 ticks
+Prereqs: S9A8C9
+
+
+[a]Successes rolled to break concentration are the difficulty needed on the casters Wits+Awareness to avoid the WP cost.
+[b]AOE version of Andeddu's Gulp that Voom develops. Time to develop it is up to GM. This does not exist unless GM approves

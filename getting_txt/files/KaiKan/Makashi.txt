@@ -1,0 +1,307 @@
+﻿
+
+
+Prodigy’s Thrust
+Cost: 6 FP
+Mins: Makashi 1, Manipulation 4, Melee/MA 4, FS 3
+Keywords: Supplemental
+Duration:N/A
+Prereq: None
+Add your Makashi in bonus successes to hit with any simple attack (includes Flurries).
+Spend a token to double the affect of Prodigy’s Thrust
+
+
+Errant Poise:
+Cost:  5 FP
+Mins:  Makashi 1, Manipulation 3, Melee/Martial Arts 4, FS 3
+Keywords: Simple
+Duration:Instant 
+Prerequisite: None
+Add your Parry DV+Makashi to your “to hit” phase of your next attack.(Spend a token to increase this bonus to Makashi x 2)
+
+
+Errant Beckon:
+   Cost:  5 FP
+Mins:  Makashi 1, Manipulation 3, Melee/Martial Arts 4, FS3
+Keywords: Simple
+Duration:  One action
+Prerequisite: None
+This technique allows you to spend 5 FP and provoke a saberlock without risking willpower, After this saberlock resolves your opponent always loses willpower. During a saberlock you may choose to roll your manipulation instead of your strength.(Spend a token to have your opponent lose 2 wp)
+
+
+Ysalamiri Misdirection: 
+   Cost:  6 FP
+Mins:  Makashi 1, Manipulation 2, Melee/Martial Arts 5, FS 3
+Keywords: Reflexive, Defensive
+Duration:  Instant
+Prerequisite: None
+Practitioner may use this technique to sidestep their opponents attack and place them in any hex within a radius of themselves equal to their level in Makashi. The Attack does not resolve (Spend a token to adjust the orientation of your opponent)
+
+
+*Back Stab:
+Cost: 0 FP
+Mins: Makashi 1, Manipulation 3, Melee/Martial Arts 5, Force Sensitivity 3
+Keywords: Reflexive, Defensive, Telegraph
+Duration: Instant, (Backstab resolves before opponents attack)
+Prerequisite: None
+Instead of blocking an attack from behind you flip your curved hilt behind you and strike at your opponent at the same time that they attack you from behind.  This may only be done when an opponent attempts to attack you from behind and may be declared at any time during turn order when an instance of an attack is being resolved while your back is to an enemy. 
+
+
+*Hilt Flip Counter Slice: 
+   Cost:  6 FP
+Mins:  Makashi 1, Manipulation 2, Melee/Martial Arts 4, FS 3
+Keywords: Reflexive/Counter/Saberlock
+Duration: Instant 
+Prerequisite: Errant Beckon
+During a saberlock, you may activate this technique to bypass the “to hit” phase of an attack that happens immediately after a saberlock ends by twirling your curved hilt to drop the blade of your opponent to the side and placing your blade in a striking position in one swift motion. This attack cannot be blocked but it may be soaked. Damage from this technique occurs at the end of the saberlock regardless of whether you won it or not.
+
+
+
+
+*Whirling Guard:
+Cost:  6 FP
+Mins:  Makashi 1, Manipulation 3, Melee/Martial Arts 4, FS 3
+Keywords: Defensive
+Duration:  N/A
+Prerequisite: Hilt Flip Counter Slice
+During any successfully block, Whirl your lightsaber and place your opponent off guard unless they fail a Dex+Martial Arts roll at a penalty equal to your Makashi. If they fail you Treat your next attack as though you are behind your opponent (i.e they cannot block or dodge). 
+
+
+
+
+You Have Hate, You Have Anger… But you don't use them. 
+Cost:  6 FP + 1WP
+Mins:  Makashi 1, Manipulation 3, Melee/Martial Arts 5, FS 3
+Keywords: Reflexive, Supplemental
+Duration:  5 ticks
+Prerequisite: Whirling Guard
+ When you receive damage from an attack from your opponent you “remember” the amount of damage received and can later in combat during the damage phase “Revisit” that damage upon your opponent assuming that you have rolled successfully to hit them this technique cannot be blocked or soaked. (Spend a Makashi Token to deliver this damage once more in the same scene)
+
+
+Flawless Flurry:
+   Cost:  6 FP
+Mins:  Makashi 1, Manipulation 3, Melee/Martial Arts 5, FS 3
+Keywords: Simple
+Duration:  One action
+Prerequisite: You have hate you have anger but you don't use them
+ With a series of false normal attacks equal to 1+ Makashi you fill your opponents vision with the twists and twirls of your blade making them roll defenses against each of them as though they were a flurry, After all of your attacks have been resolved tell your opponent which of your (1+Makashi lvl) attacks were “real”. Your opponent must roll and pay any resources they used for their defenses against all of these attacks. This technique cannot be paired with any other Makashi Technique. This flurry does not suffer the normal flurry penalties - you may roll each strike of the flurry at your Normal Attack Die pool. Your final attack resolves against your opponents reduced DV value.
+
+
+
+
+Ysalamiri Stinger: 
+    Cost:  10 FP + (2)*(casts of ysalamiri stinger-1)
+Mins:  Makashi 1, Manipulation 2, Melee/Martial Arts 5, FS 3
+Keywords: Reflexive, Interrupt
+Duration:  Instantaneous, Once Per Scene
+Prerequisite: Flawless Flurry
+Cancel any one of your opponents ongoing techniques.
+
+
+
+
+Ysalamiri Vendetta: 
+   Cost:  10 FP
+Mins:  Makashi 2, Manipulation 4, Melee/Martial Arts 5, FS 3
+Keywords: Reflexive
+Duration:  N/A
+Prerequisite: Ysalamiri Misdirection
+When combat against another lightsaber wielding opponent begins (i.e as soon as Makashi stance is adopted and combat against a lightsaber wielding opponent has been declared) this technique allows the practitioner to “state” the following things to the GM. Before any of the following questions are asked, the practitioner must “bet” 1 wp and any amount of Aitizen prior to combat that they will answer the following questions correctly.
+* Whether the opponent has a lower or higher level in Makashi than the practitioner. (Acceptable answers are Higher/Lower)
+* Whether or not the opponent has a lower or higher manipulation than them (Acceptable answers are Higher/Lower)
+* Whether or not the opponent has a lower or higher Aitizen than the practitioner. (Acceptable answers are Higher/Lower)
+* Whether or not the opponent has a lower or higher FP pool than the practitioner. (Acceptable answers are Higher/Lower)
+* Whether or not the opponent has a lower or higher overall Force Sensitivity Number than them (Acceptable answers are Higher/Lower)
+For each of the following questions is answered correctly the Practitioner may…
+* +Makashi to any one of your offensive and defensive rolls for the scene OR -Makashi to your opponents rolls. Acceptable rolls to augment with this option are any one characters (Parry DV,Accuracy,Dodge DV,Technique,Stunt) pools. 
+* Spend a Makashi Token to make this (+2xMakashi/-2xMakashi)
+* Receive a token for each correctly answered question (as long as you have spent a token) 
+In the case when you are equally matched with your opponent the amount of bet Aitizen is not lost but no bonus is gained (but you do have the benefit of knowing the opponents exact die pool and the exact result of each roll for the remainder of combat (remind your GM to message you the results). For each wrong answer you lose the amount of “bet” Aitizen you must bet at minimum your Force Sensitivity. The practitioner may only choose to answer as many of these as he likes, choosing to risk or gain as much as he is willing.(You may spend a makashi token to negate the cost of lost Aitizen)
+
+
+*Ysalamiri SoulCrusher:
+   Cost:  9 FP
+Mins:  Makashi 2, Manipulation 4, Melee/Martial Arts 5, FS 3
+Keywords: Reflexive
+Duration: One action
+Prerequisite: Ysalmiri Vendetta
+On a successful damage roll against an opponent this technique lets the practitioner roll a D6 instead of doing damage in the damage phase of their attack and instead do damage to their token pool, draining their opponent of D6 tokens of whatever style that opponent is using. (Spend a token to roll 2xD6 or to Slash away an opponent's lightsaber to two smoldering pieces)
+
+
+*Ysalamiri Blade:
+   Cost:  9 FP
+Mins:  Makashi 2, Manipulation 4, Melee/Martial Arts 5, FS 3
+Keywords: Reflexive
+Duration:  One action
+Prerequisite: Ysalamiri Soulcrusher
+You must declare this technique and pay its cost before On your next attack that deals damage your opponent rolls a D6. On a roll of 1-2 you follow up your strike with another that must roll to hit but is guaranteed to do the damage of the original strike divided by the result of the toss. On a roll of 3-4 Your original attack lands but does 1.5x damage. On a roll of 5-6. You either receive a free Makashi Token, or you attack your opponent again in the same tick. (Pay a Makashi token to decide the outcome of the original D6 toss)
+
+
+BladeMaster’s Eye
+   Cost:  6 FP per activation - (1 Token)
+   Mins:  Makashi 2, Manipulation 4, Melee/Martial Arts 5, FS 3
+Keywords: Passive
+Duration:  Scene
+Prerequisite: Ysalamiri Blade
+This Technique allows you to know the style that your opponent has adopted without a roll when they activate the Shii-Cho Firm Foundations technique or step into any given style. You may spend a token to give yourself advantage against any one opponent.(Recast per opponent)
+
+
+
+
+*Ysalamiri Smirk
+Cost: 12 FP
+Mins: <1 level in target Form, Makashi 3, Manipulation 5, Me/MA 5, FS 3
+Keywords: Reflexive
+Duration: Instantaneous, effects take place immediately
+Prerequisite: Blademasters Eye, Mind Trick
+Pay for Precognition to begin execution of this technique, While an opponent is rolling a precombat roll against you, activate this technique to reflexively “imitate” a form at the moment that an opponent rolls their perception roll in Kai Kan for advantage against you. The style of this movement is what your opponent will register as your target form if they succeed in their roll. They do not receive the benefits of advantage against you until they attempt the roll again in a different form stance. Opponents who “succeed” in determining your style while this technique is used gain disadvantage instead of advantage.
+
+
+   
+*Ysalamiri Double Take[a]:
+   Cost:  16 FP + Advantage
+Mins:  Makashi 3, Manipulation 5, Melee/Martial Arts 5, FS 3
+Keywords: Simple.
+Duration:  6 ticks
+Prerequisite: Ysalamiri Blade, Mind Trick
+Ysalamiri are the very soul of subtlety and trickery. Hardly knowing their own minds, a practitioner's deceit is all encompassing. feinting so thoroughly and completely as to betray even their own intentions to themselves and allow the most devious parts of the force to guide their blades in combat. Prepare two different actions for your turn in combat and label them 1 and 2. The Duelist adds Their Makashi to a Mind Trick roll, if the duelist succeeds, Their opponent begins to see double as they roll their precognition twice and prepare for two simultaneous incoming attacks. 
+The duelist must now complete two separate offensive techniques/Force Power or attack in combat twice over with all opponents with effective resources that they had at the beginning of the turn, perform all necessary rolls to determine the outcome of each attack down to the damage phase. Your attack may include breaks from style and use of force powers.
+After the practitioner has determined the outcome of each of their attacks the opponent begins to realize that both incoming attacks cannot be real and must in a moment decide to commit their defense to one of these attacks and ignore the other. After both attacks have been rolled to resolution, the opponent flips a coin or rolls a d2 to decide which of the attacks actually make their way into reality and “calls” the outcome. Only the attack, and defense outcome which represents the result of the coin toss is actually resolved, If the opponent calls the wrong side of the coin the attack resolves as if no defense was mounted. 
+ All effects and consequences of the attack that are not chosen are rolled back for the duelist including breaks in form except for the cost of this technique - this includes costs for FP,WP, etc. All resources used by the opponent used to defend against both attacks are lost. Only the “real” attack does damage as a result of this technique. Damage from the non chosen attack may have carry over effects based upon the defenses mounted against the duelists attack(s). The “real” attack that can be seen or interacted with for the purposes of saberlocking or defensive techniques. This technique does not consume advantage. 
+If this technique is saved against it resolves as a normal lightsaber strike, do not refund the cost of this techniques activation.
+(Spend a Makashi token to choose which attack to resolve after your opponent has declared which attack to commit a defense.)
+
+
+*Perfect Ysalamiri Riposte: 
+   Cost:  12 FP
+Mins:  Makashi 3, Manipulation 4, Melee/Martial Arts 5, FS 4
+Keywords: Reflexive,Defensive,
+Duration:  Duration of Riposted attack
+Prerequisite: Ysalamiri Blink, Firm Foundations, Shii Cho 4
+In a perfect counter. You perfectly parry the lightsaber attack and do the damage (assuming you can perform the technique exactly with all associated skill and acrobatics checks) of the exact technique that the opponent has done against you, and at the end of the technique also position yourself behind your opponent. This strike knocks your opponent out of their form stance. Knowing this technique extends the cap on your manipulation by your Makashi. Spend a Makashi Token to negate the skill check.
+
+
+*Ysalamiri Soul Stealer
+Cost:  ----
+Mins:  Makashi 1, Manipulation 4, Melee/Martial Arts 5, FS 3
+Keywords: Permanent
+Duration: Passive
+Prerequisite: None
+You may accumulate Makashi Tokens By Successfully Determining The Stats of your opponent in Kai Kan (Kai Kan Beginning roll rules apply for attempt frequency), Applicable Opponent Stats are,
+* Style Levels (Any Style, and Level)
+* Aitizen (Precise Number)
+* Lightsaber Stats (Acc, Def, Dam)
+ You may also retain 2 more Makashi tokens than your highest level in any style. Makashi tokens may be spent to gain Makashi bonus successes on all attack rolls.
+
+
+*Ysalamiri Glower
+Cost:  8 FP
+Mins:  Makashi 3, Manipulation 5, Melee/Martial Arts 5, FS 3
+Keywords: Telegraph
+Duration: 1 tick activation
+Prerequisite: Ysalamiri Blade
+All resource costs and difficulty thresholds are doubled for one opponent for their next action.
+
+
+
+
+Kouhun Needle Jab
+Cost: 7 FP
+Mins: Makashi 4, Manipulation 5, Melee/Martial Arts 5, Force Sensitivity 4, Force Envenom
+Keywords: Supplemental
+Duration: 5 ticks
+Prerequisite: Some Shii-Cho Style Mastery,
+You may supplement any normal attack with this technique to cause an opponent to make a resistance roll against poison (Stamina+Resistance) if you do lethal damage. Poison does Makashi Damage dice per turn as the midichlorians of the target produce a toxin at your will. At the end of combat opponents affected by this poison may continue to take Makashi Lethal damage as poison (as per the rules of Force Envenom), until cured by a Medicine roll Diff FS.
+
+
+Scouring Slash
+Cost: 12 FP + Channel (GM Discretion)
+Mins: Makashi 4, Manipulation 5, Me/MA 6, FS 4, Force Drain
+Keywords: Simple, One use per scene
+Duration:5 ticks
+Prerequisite: Kohun Needle Jab
+This attack is a simple strike that resolves its damage after hitting as your Makashi in damage, instead of resolving as normal Lethal damage from a strike a Scouring Slash does one of the following according to the duelists wishes:
+* Makashi D6 damage to be resolved against opponents FP pool
+* Makashi dice of Damage resolved against Opponents WP
+* Makashi dice of Damage as permanent reduction to opponents Soak of any type until form is broken.
+This strike has no effect if it does not bypass your opponent's defenses. The Effects of this strike cannot be “soaked”, only prevented by parrying or dodging the incoming strike. Damage against WP and Soak are rolled as a normal damage roll where 7+ are 1 damage which subtract 1 to 1 from the value of that stat. (Spend a makashi token to count 6’s as successes for damage in this attack or to roll D12 instead of D6 for damage against FP pool)
+
+
+
+
+Cnidocytic Stab
+Cost: 15 FP + Channel of Virtue (gm discretion)
+Mins: Makashi 4, Manipulation 6, Me/MA 7, FS 4
+Keywords: Reflexive, Defensive
+Duration: Instant, (Cnidocytic Stab resolves before opponent's attack)
+Prerequisite: Scouring Strike, Backstab
+The duelist waits with the patience of a lethal predator for his opponent to attack, and with a subliminally subtle thrust he slips his blade in front of an attacker. This attack must be performed in response to an attack declared against you against an opponent directly in front of you.
+
+
+
+
+Makashi Sun-Djem
+Cost: 7 FP + 1 Token, (Dex vs. Dex Check), Advantage
+Mins: Makashi 4, Manipulation 5, Me/MA 6, FS 4
+Keywords: Disarming
+Type: Simple
+Duration: Speed of Weapon
+Prereq: Any Kohun Technique
+When a duelist wishes to end his duel and permanently disarm his opponent. He must have advantage and execute this technique to supplement any normal attack to strike directly at the hilt of his opponent’s lightsaber/weapon. A quick contest of Dex vs. Dex is done after which the duelist may make a simple strike resisted by opponents passive defenses. If the strike lands the opponent's lightsaber is cut in two and destroyed. GM ruling on how unique lightsabers are cleft in twain. If this technique fails, all duelists without Mastery lose advantage.
+
+
+
+
+Kohun Sun-Djem
+Cost: 9 FP + 1 Token, (Dex vs. Dex Check), Advantage
+Mins: Makashi 5, Manipulation 5, Me/MA 6, FS 5
+Duration: Speed of Weapon
+Prereq: Makashi Sun-Djem, Any Kohun Technique
+When a duelist wishes to end his duel and permanently disarm his opponent. He must have advantage and execute this technique to supplement any normal attack to strike directly at the appendage grasping   his opponent’s lightsaber/weapon. A quick contest of Dex vs. Dex is done after which the duelist may make a simple strike resisted by opponents passive defenses. If the strike lands the opponent's lightsaber wielding appendage is severed from their body. If this technique fails, duelists without Mastery consume advantage as part of the cost.
+
+
+
+
+Kohun Lethalism
+Cost: 6 FP + 1 WP + (Tokens)
+Mins: Makashi 5, Manipulation 6, Me/MA 6, FS 5
+Keywords: Simple, Hold Action Modifying
+Duration: 5 ticks
+Whenever the duelist holds action they may place a token on up to Makashi hexes around them within their normal move range. Whenever an opponent enters one of these Hexes, they provoke an attack from the duelist that can be any Kohun technique or a simple attack. This attack cannot be blocked if the duelist exceeds their targets MDV with a (Man+Me/MA) roll. If the duelist fails to exceed the target's MDV, the target may attempt to block the strike.
+
+
+Kohun Sinuation
+Cost: 5 FP + (1 WP/1 Token) per counterattack, Advantage
+Mins: Makashi 6, Manipulation 6, Me/MA 6, FS 5
+Keywords: Dodge Supplemental, Reflexive
+Duration: Instant
+Whenever the duelist successfully dodges an incoming attack, they may activate this technique and perform a simple counter strike with their blade that may either do FS+Makashi d10 Lethal Damage Sinuation Strike with the hilt of their blade or Strike with their Lightsaber. Lightsaber strikes from this technique can only be dodged, Sinuation strikes may only be soaked. Use of this technique does not consume advantage. 
+
+
+
+
+Kohun’s Gyve
+Cost: 15 FP + 1 WP + Advantage + 1 Token
+Mins: Makashi 6, Manipulation 6, Presence 5, Me/MA 7, FS 5
+Duration: 7 ticks
+Keywords: Simple, Targets Form and 1 Opponent one orientation.
+The Duelist narrows their eyes as they analyze the form and stance of an opponent, After the duelist has correctly ascertained the style of their opponent via. Precombat roll, the familiar movements betray them as the duelist presses their advantage.
+After determining the target’s Form Stance, If the duelist has at least 1 level in the style of their opponent, they may activate this technique by specifying one one of the following (Offensive/Defensive). 
+For the rest of combat while the duelist and their opponent remain in their current Forms all techniques/actions/rolls made by the targeted opponent while in the targeted style suffer a 2x(Makashi) penalty to all die pools while they occupy the designated form stance as the duelist presses their advantage to cinematically thwart their opponent. This technique's effects may only be cleared by the opponent switching styles but re-applies as soon as the target returns to the specified form. The duelist may only cast this technique up to Makashi times per combat. This Technique consumes Advantage.
+
+
+Makashi Mastery
+Cost: None
+Mins: Makashi 7, Manipulation 8, Melee/Martial Arts 8, FS 6, Presence 5 
+Keywords: Permanent, Mastery
+Duration: Passive
+Prerequisite: All Ysalamiri and Kohun Techniques
+Effect: 
+* You Always begin with advantage against Kai Kan opponents in single combat when stepping into any style.
+*  When opponents attack without advantage against a Makashi Master they must reroll their accuracy, they take the worse of their two accuracy rolls. 
+* Your actions in Kai Kan cannot telegraph in any style. 
+* The reflexive technique limitation of only being able to cast one reflexive technique in Kai Kan without breaking style no longer applies to you. 
+* Switching into Makashi now automatically grants you advantage against all opponents in Kai Kan. Additionally, subtract your level in Makashi from the FP cost of every Makashi technique when casting (Minimum 1 FP), Masters of Makashi may spend Makashi Tokens to add their level in Makashi as Automatic Successes to an attack in any style. 
+ 
+
+

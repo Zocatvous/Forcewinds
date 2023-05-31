@@ -1,0 +1,40 @@
+Djem So
+The Way of the Krayt Dragon
+Shien-so Hybrid Style
+Draagax Style
+
+
+Similar to Ataru, each of the 3 main stance techniques cannot be simultaneously activated until the Form mastery charm.
+
+
+Stepping into Djem So Stance automatically gives you a passive defense and damage bonus.
+
+
+Advantage: When you have advantage against an opponent in Kai Kan, Successes for accuracy and damage are now resolved on a value of 6+. Rolls of 10 still count for two successes during accuracy rolls and not for damage.
+
+
+Disadvantage: When you are striking with disadvantage in Djem So stance, your passive defense value for all purposes becomes the worse of your Parry or Dodge DV. You lose all ties.
+
+
+
+
+Any colored techniques can only be activated if their associated parent style Fists, Steps, or Fire are activated first.
+
+
+Draagax Style
+Draagax style techniques imitate the dominance of the Draagax predator, These techniques are incompatible with the Krayt Dragon techniques. Draagax focuses heavily on the use of a “Heavy Strike”. Heavy Strikes are unique in that any threshold successes against an opponent's defenses allow all successes rolled in the strike to count as threshold successes for damage.
+
+
+
+-Mastery Styles-
+
+
+The Eternal Gazing Predator STYLE
+The Eternal Gazing Predator style is a highly dangerous and advanced hybrid mastery style of Juyo and Djem-so born and known only in the final burial rites of its final remaining master known only as “The Nameless Grandmaster”. Legends told of the maddened blood soaked epitaphs of the master’s tomb sketched by his doomed servants and apprentices who served him in his enclave on Dromand Kaas - the names and creeds required to perform the forbidden styles techniques were painstakingly discovered, decoded and reburied by the early Grandmaster of the Jedi Order Rajivari and only uncovered by the Guardians of the Whills shortly after the end of the Great Hyperspace War.
+
+The death matches and subsequently the techniques borne of the bloodbath between these two rival philosophies of death-dealing Kai Kan whose last survivor was (according to the glyphs) The Nameless Master himself. Were enisigiled in these earliest records of intelligent settlement on the ancient Sith planet. Amongst the desperate and maddened blood soaked scribbles are the Nameless Master’s descriptions of the bloody fate of his many victims - the Masters slaves expended the last of their blood upon their masters epitaph - giving to him a bloody requiem of his masterpiece.
+
+
+
+[a]Matters into my own fists simply rerolls the attack
+[b]Clarification: If you do 4 damage against someone with a Heavy strike, the next time your heavy strike exceeds someones defenses and scores a hit, if you roll a result that deals LESS than 4, it instead does 4 damage.

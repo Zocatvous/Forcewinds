@@ -1,0 +1,374 @@
+﻿
+
+
+Fists of the Krayt Dragon
+Cost:  6 FP
+Mins:  Djem So 1, Strength 3, Melee/Martial Arts 3, Force Sensitivity 3
+Type:  Simple
+Duration:  Until Cancelled
+Prerequisite Charms:none
+Activation: 5 Ticks
+With every step backwards the opponent feels the intensity of the duelist as he strikes with ever increasing strength.  Each of the  attacks that do Aitizen damage also do Djem So bashing damage (soaked normally) .This bashing damage can only be soaked by armor or natural hardness.(Spend a token to make this bashing damage D6xDjem So)
+
+
+
+
+Steps of the Krayt Dragon
+Cost: 6 FP, 
+Mins:  Djem So 1, Strength 3, Resistance 3, Force Sensitivity 3
+Type: Simple
+Duration: Until Cancelled
+Prerequisite Charms: none
+Activation: 5 ticks
+The Duelist moves with resolute fury, To even cross blades with a krayt practitioner is to invite the punishment intrinsic to provoking the ire of such a powerful beast.
+ Every time the opponent successfully blocks an attack from the duelist he forces them back a few steps in the direction of his choosing equal to his threshold successes (min of 0) on Strength+Melee/Martial Arts. vs opponents Strength+Martial Arts”
+Every successive turn that Steps of the Krayt Dragon is active against the same opponent, the opponent suffers a -1 to their defensive die pools to dodge or block the overwhelming assault. Each position that the practitioner places their opponent as a result of this technique must be distinct from the most recent one. The practitioner may initiate saberlocks only if they can continue to push their opponents backwards (Strength vs. Strength) If the opponent succeeds in resisting this contest at any time the debuff is removed and the onslaught ends.
+
+
+Fire of the Krayt Dragon
+Cost: 6 FP per use + Cost of power
+Mins:  Djem So 1, Force Sensitivity 3, any of (Force Push, Pull,Telekinesis, Wave) Melee/MA 4
+Keyword: Telegraph
+Type:  Supplemental
+Duration: Until cancelled
+Prerequisite Charms: none
+This Technique allows the duelist to easily supplement any of his strikes with the basic kinetic force techniques to do damage .(Punching with a Force Push, Using the force to pull an opponent into punches or lightsaber strikes, etc.) without breaking form. But he may not flurry while this technique is active or let his feel leave the ground. Additionally the duelist may spend force points directly to add damage dice to his Aitizen damage (4 FP per D6 of damage) while in this form as long as this technique is active. D6 Damage increases are limited to a maximum of your  Melee/Martial Arts +Djem So. (double the dice of damage for 1 token)
+
+
+The Dragon’s Scales
+    Cost: 5 FP or 1 Djem So Token
+    Mins: Djem So 1, Strength 4, Force Sensitivity 3
+   Duration: Reflexive
+    Prerequisites: Any of Fists, Fire, or Steps
+    Spend 5 FP to negate Aitizen damage from one lightsaber attack and shift it onto the damage that will be done with the next strike that  lands and does damage successfully against the practitioner. (does not protect from techniques that remove limbs or break form)
+
+
+The Dragons Teeth
+Cost: 5 FP
+Mins:  Djem So 1,Strength 3,Force Sensitivity 3
+Type:  Reflexive
+Keywords: Saberlock
+Duration: Duration of the Saberlock
+Prerequisite Charms: Steps, Fire,or Fists
+Add your Djem So to your Saberlock rolls to control the contest. (Spend a token to Kiai and win control of the saberlock that turn)
+
+
+
+
+Dragon’s Embrace
+Cost: 4 FP
+Mins:  Djem So 2,Strength 4, Force Sensitivity 3
+Type:  Reflexive
+Keywords:  Saberlock
+Duration: Duration of saberlock
+Prerequisite Charms: Any of (Fists, FIre, Steps) and Dragons Teeth
+The Practitioner may bet 4 FP instead of willpower to induce a saberlock with their opponent if they are in melee range.*Spend a token to engage at range and leap into the lock (roll str+ath or acr) to close distance. (Cannot spend this token for this benefit if the opponent is more than Force Sensitivity+Djem So meters away.)
+
+
+
+Dragon’s Menace
+   Cost: 9 FP
+   Mins Djem So 2, Strength 4, Force Sensitivity 3
+  Type: Saberlock, Supplemental
+   Duration. Length of the Saberlock
+Prerequisite Techniques: Fire, Steps, and Dragons Embrace
+This Technique allows the practitioner to maintain their saberlock with a single arm and to do damage to their opponent as though they have broken from doing damage directly to their lethal/bashing health pool using their free hand or appendage to do strikes. (Ignores soak)
+
+
+You will die Braver than Most..
+Cost: 8 FP
+Mins:  Djem So 2,Strength 4, Force Sensitivity 3
+Type:  Reflexive
+Keywords:  Saberlock
+Duration: ----------
+Prerequisite Charms: Dragon’s Menace
+Extends Saberlocks to be 7 ticks long as opposed to the normal 5. Your opponent can no longer forfeit saberlocks (Spend a token to extend Saberlock durations to 5+ Djem So against a single opponent)
+
+
+Firm Footed:
+Cost: 12 FP + 1 WP
+Mins:  Djem So 2,Strength 5, Force Sensitivity 4
+Type:  Reflexive
+Keywords:  Saberlock
+Duration: Duration of saberlock
+Prerequisite Charms: Braver Than Most
+While Steps, Fists or Fire is active, This technique can be reflexively used to spend 1wp to allow you to retain your exact position and momentum without breaking form when your position is changed against your will. Does not protect you from damage. 
+
+
+All too easy
+Cost: 15 FP
+Mins:  Djem So 3, Strength 5, Force Sensitivity 3
+Type:  Reflexive
+Keywords:  Saberlock
+Duration: Duration of saberlock
+Prerequisite Charms: Steps of the Krayt
+Can only be used while Steps is Active. 
+While Steps is Active, The Duelist has the opponent right where he wants them. For the duration of this technique (until the victim breaks out or is cancelled) the Saberlock Once Steps has been activated and any number of steps has been taken towards a given direction the duelist deactivates their lightsaber and initiates a grapple (using the force or otherwise) to throw the opponent Strength+Athletics distance if using physical means. Roll (Str/Alter)+(Ath/Wits) contested roll, And if using the force to hurl the opponent. Once the roll has been made and the victim is in the grasp of the practitioner they spend the next 5 ticks being thrown or hurled or otherwise displaced from their location, They must roll Dex+Athletics to maintain their feet (Diff Djem So)  (these do not count as breaks in form if they fail these checks).The practitioner is at a +1 for every successful Steps throw/slam/telekinesis that he completes in a row, stacking for each attack. After each throw the duelist may choose to either do damage, execute a force power, or throw the target again (which may also do damage) none of which count as a break in form. Each attack/power use/throw takes 5 ticks.(Spend a token to increase your bonus to + djem so per successful throw.)
+
+
+
+
+It Is Useless To Resist...
+Cost: 8 FP per activation 
+Mins:  Djem So 3, Strength 5, Force Sensitivity 3
+Type:  Supplemental, Reflexive
+Keywords:  Telegraph
+Duration: Instant
+Prerequisite Charms: Fists of the Krayt
+While Fists is Active, Whenever the opponent blocks one of the Practitioners attacks,The practitioner may choose to activate this technique to do bashing damage directly to the opponent rolling bashing damage equal to your Djem So in D6 bashing damage to Aitizen/Health every time you physically connect with your opponent in any fashion while striking even if it is blocked. Any time an opponent dodges an attack, re-roll the attack to hit with your shoulder/elbow or knee or head (not your lightsaber[a]). Damage may be soaked. (Spend a token to do Djem So D6 + Force sensitivity minimum damage)
+
+
+
+
+Taking Matters into my own Fists
+Cost: 0 FP, 1 WP, Advantage
+Mins Djem So 3, Strength 6, Force Sensitivity 3
+Type: Supplemental
+Keywords: Telegraph
+Duration: Until Cancelled 
+Prerequisite Charms:It is Useless to Resist...
+In a show of absolute dominance, deactivate your lightsaber, Saberlocks are now done with your bare hands grabbing your opponents lightsaber hilt or hands, Every time you attack you treat your “to hit” phase as though it were a saberlock, every time you take or do damage while your lightsaber is off, treat all your open hand accuracy and damage as though it were your lightsabers and every time you successfully do damage to your opponent, gain 1 wp and 1 Aitizen every time you successfully do damage. Using this technique consumes your advantage.
+
+
+
+
+Obliterating Strike
+Cost: 8 FP + (1 Token, Optional)
+Mins:  Djem So 3, Strength 5, Force Sensitivity 4
+Type:  Supplemental, Reflexive
+Keywords:  Telegraph
+Duration: Instant
+Prerequisite Charms: Fire of the Krayt
+This technique can be used to supplement any normal strike with your lightsaber that is successfully blocked by your opponent. This technique is reflexively activated to send your opponent Djem So hexes away as a percussive slam from the force of your strike hits their blade.(Spend a Djem So token to induce a check Dex+Acrobatics (Diff Djem So) to see if your opponent keeps their feet and to see if they lose their lightsaber (Diff 3).
+
+
+
+Riddle of the Doomed Dangling Prey
+Cost: 12 FP + (1 Token, Optional)
+Mins:  Djem So 3, Strength 5, Force Sensitivity 4
+Type:  Supplemental, Reflexive
+Keywords: Disadvantaging
+Duration: Instant
+Prerequisite Charms: Telekinesis (Probably) and Fire of Krayt
+Every time You activate this technique your opponent is sent on an awkward low speed twirl into the air helplessly flailing against your assault. You do not control their trajectory but they are suspended just a few feet in the air and can be grabbed or struck or grabbed with the force. You may spend a token to give your opponent Disadvantage against you. 
+
+
+Become one with your strength
+Cost: 1 Token + 1 WP
+Mins:  Djem So 1
+Type:  Permanent, Negate Disadvantage
+Keywords:  Negates Disadvantage
+Duration: ------
+Prerequisite Charms: Any of (Riddle, Matters or All too Easy).
+Allows you to generate Djem So tokens that can be spent to enhance your techniques. Djem So tokens are generated by any instance of taking lethal damage in or Out of Aitizen. You may also spend One Token + 1 WP to negate Disadvantage. (Note this does not give you advantage merely negates a status of disadvantage)
+
+
+Wipe Them Out... All of them.
+Cost: 10 FP
+Mins:  Djem So 3, Strength 5, Force Sensitivity 4
+Type:  Supplemental,
+Keywords:  Telegraph
+Duration: Scene
+Prerequisite Techniques: Steps 
+Activate this technique at the beginning of combat in conjunction with Steps. This technique alerts yournent to your style and Form. Every Saberlock now costs your opponent 2 wp if the saberlock ends while you are in control of the contest. (Spend a Djem So token to force your opponent to spend your Djem So in wp)
+ oppo
+
+
+Menacing Sabercatch 
+   Cost: 14 FP + Advantage
+   Mins: Djem So 4, Strength 6, FS 4
+   Type: Defensive, Saberlock, Reflexive
+   Keywords: Telegraph
+   Duration: instantaneous
+   After Successfully Parrying an opponents attack spend the cost of this technique and provoke a quick contest of Strength vs. any of (Dex,Sta,Stre, Man) Opponents choice, If the duelist wins the contest activation of this technique counts as a declaration of a saberlock on behalf of the duelist. If the quick contest fails the duelist blocks the attack normally. This technique does not consume advantage.
+
+
+If You Only Knew the Power…
+Cost: 6 FP per use + Cost of power
+Mins:  Djem So 4, Hate or Valor at 5
+Type:  Simple
+Keywords:  Telegraph
+Duration: Scene
+Prerequisite Charms: Fire, Steps, Fists
+This technique activates All three of Fire, Fists and Steps of the Krayt Dragon simultaneously. Choose a single force power, You may use that force power for the remainder of the scene without breaking form.
+
+
+Shien-So Stance 
+Cost: 2 FP
+Mins Djem So 2, Strength 4, Presence 4, Force Sensitivity 3
+Type:Supplemental, Stance
+Keywords:Telegraph, Reflexive
+Duration: Until Cancelled, (1 tick Activation)
+Prerequisite: None
+The Duelist inverts their grip on their lightsaber and adopts the stance of the Shien Variant of Djem So. This variant of djem so is incompatible with charms outside of the Shien-so tree in Djem So.
+* All attacks in this stance are treated as all out attacks,
+* Your lightsabers rate increases by 1,
+* Your Lightsabers Speed decreases by 1,
+* Your attacks/Defenses do not benefit or suffer from “advantage” rules while you are in this stance. 
+* You no longer suffer penalties to initiate saberlocks against flurrying enemies.
+
+
+Shien-so Aurek
+Cost: 9 FP
+Mins Djem So 2, Strength 4, Presence 4, Force Sensitivity 3
+Type:Supplemental,
+Keywords:Telegraph
+Duration:N/A
+Prerequisite:Shien-so Stance
+The Duelist may add their Djem So as Bonus Dice to the damage phase of a Flurry
+
+Shien-so Besh
+Cost: 7 FP
+Mins DjemSo 2, Strength 4, Presence 4, Force Sensitivity 3
+Type:Supplemental,
+Keywords:Telegraph
+Duration:N/A
+Prerequisite: Shien-so Aurek
+The Duelist may declare a Flurry and take the number of threshold successes from any one of their strikes and apply it to up to (Djem So) other strikes in the same flurry. This includes strikes that fail to surpass your opponents defenses.
+ 
+
+Shien-so Backstab
+Cost: 0 FP
+Mins Djem So 2, Strength 4, Presence 4, FS3
+Type: Simple (2 Tick Action)
+Keywords: Simple, Telegraph
+Duration: 2 ticks
+The Duelist Strikes to the hex directly behind them with their lightsaber
+
+
+Shien-so Cherek
+Cost: 8 FP
+Mins Djem So 2, Strength 4, Presence 4, Force Sensitivity 3
+Type: Reflexive, Supplemental
+Keywords: Simple, Telegraph
+Duration: (n/a)
+The Duelist re-rolls any dice for a strike during a flurry that did not roll successes.
+
+ 
+The Sunburst Technique
+Cost: 10 FP
+Mins Djem So 2, Strength 4, Presence 4, Force Sensitivity 3
+Type:  AOE
+Keywords: Simple, Telegraph
+Duration: 3 ticks
+The Duelist spins at incredible speed assisted by the force striking all targets within 1 hex.
+
+ 
+Falling Avalanche Technique
+Cost: 12 FP
+Mins Djem So 2, Strength 4, Presence 4, Force Sensitivity 3
+Type: Reflexive
+Keywords: Simple, Telegraph
+Prerequisite: Shien-so Stance, Any of Fist Fire Steps.
+The Duelist Follows up any Flurry with a falling crosscut that re-rolls the damage dice of the flurry. This damage cannot be blocked, soaked, or interrupted as any attempt to redirect this second wave of damage is cinematically rendered useless. (Spend a Djem So token to perform another Falling Avalanche strike for free)
+
+
+Shien Saberlock Flurry
+Cost: 10 FP
+Mins Djem So 2, Strength 4, Presence 4, Force Sensitivity 3
+Type: Reflexive
+Keywords: Saberlock, Telegraph
+During a Saberlock, the duelist shifts the position of his blade against in the blink of an eye, his opponent reinitiating the opening contest rolls for control of the saberlock, he may attempt this Djem So times per saberlock. 
+
+
+Draagax Heavy Strike
+Cost: 10 FP + 1 Token 
+Mins: Djem So 4, Strength 5, Presence 5, FS 4
+Type: Heavy, Simple
+Keywords: Telegraph
+Duration: 7 Ticks
+Wind up and Deliver a Devastating Blow that does FS in Damage if It is Blocked and adds Your Strength in auto successes to Damage if it resolves. Targets attempting to block this attack must Succeed in a Contested Strength roll to successfully block this attack. All Dragaax Style Heavy Strikes resolving against opponents who failed to attempt to block are resolved with all successes treated as Threshold successes.
+
+
+Dragaax Flurry
+Cost: 14 FP per Flurry
+Mins: Djem So 4, Strength 6, Athletics 5, FS 4
+Type: Heavy Flurry
+Keywords:Telegraph
+Duration: 7 Ticks
+Prereq:Draagax Heavy Strike
+Flurry at your opponent with any number of strikes up to the rate of your weapon. Each Strike is treated as a Heavy Strike. All Heavy Strikes and Flurries take 7 Ticks to Resolve.
+
+
+Draagax Bladeseething
+Cost: 1 Token + 1 WP per modified strike
+Mins: Djem So 5, Strength 6, Athletics 6, FS 5
+Type: Supplemental, Heavy
+Keywords: Telegraph
+Prereq:Draagax Flurry
+Spend a token to modify any attack before it is declared.Your strike is now treated as a Heavy Strike. All Dragaax Style Heavy Strikes resolving against opponents who failed thier attempt to block are resolved with all successes treated as Threshold successes. All Heavy Strikes and Flurries take 7 Ticks to Resolve.
+Duration:7 Ticks
+
+
+Djem-So Quakehymn Strike
+Cost: 10 FP + 1 Token + 1 Channel (GM Discretion)
+Mins: Djem So 5, Strength 7, Athletics 7, FS 5
+Keywords: Telegraph
+Type: Reflexive,Scene
+Duration:Scene
+Prereq: Draagax Bladeseething
+For the duration of the scene after activation, All heavy strikes that successfully do damage against opponents aitizen or health levels can only do at least as much damage as the highest damage roll they have done in combat so far as long as they resolve.[b]
+
+
+Djem-So Saberlock Succor
+Cost: 7 FP + Channel (GM Discretion)
+Mins: Djem So 6, Strength 8, Athletics 7, FS 5
+Type: Saberlock, Reflexive
+Keywords: Saberlock
+Prereq: Djem-So Quakehymn Strike
+As the Duelist presses into a saberlock and analyzes the strength of his opponent he may reflexively activate this technique with a grin, and gain Advantage. 
+
+
+Draagax Heavy Sweep
+Cost: 15 FP + 1 Channel (GM Discretion)
+Mins: Djem So 6, Strength 7 Athletics 7 FS 5
+Type: Simple
+Prereq: Djem-So Saberlock Succor
+In a Flash Orbit your lightsaber Performing a Heavy Strike on every target within 1 hex. If this strike fails to be blocked it resolves as a Heavy Strike.
+Duration: 7 ticks
+
+
+Djem So Mastery
+Cost: N/A
+Mins: Djem So 7, Strength 8 Athletics 8 FS 6
+Type: Mastery
+Prereq: All Krayt, Shien-so, and Draagax Styles
+You have achieved Mastery of the Dominance Form of Lightsaber Combat. Stepping into Djem So from any other Form stance gives you Advantage in Kai Kan. You may now treat all strikes in any style as Heavy Strikes by spending 1 Djem-So Token. All Heavy Strikes now resolve in 5 Ticks. You may spend Advantage in a saberlock to win that saberlock as a reflexive action. 
+
+
+
+The Kata SanguinarIa
+Cost: 1 Lethal Health level + 50 Aitizen + 25 FP + Hate/Anger/Valor Channel + 1 Token + Consumes Advantage
+Mins: Djem So Mastery, Juyo 4, (Dark V or an Equivalent Ensigilment)
+Type: Simple
+Activation Time: 5 Ticks
+Prereq: Force Shatterpoint
+The duelist follows the footsteps of the death knell of a nameless Juyo master who used this technique in a maddened last ditch attempt to slay the Nameless Master. The duelist makes a single strike that must strike the flesh of his opponent and exerts himself expending a health level. After the attack resolves the duelist rolls damage, if the attack does damage - the duelist rolls his Juyo and counts the successes. At the time of the duelists choosing on a subsequent tick - The damage of the attack is doubled a number of times equal to the successes of this roll and resolved then.
+Duration: 7 ticks
+
+
+The Trinity Sigilstroke
+Cost: 20 FP + Must have Advantage + Hate/Valor/Anger Channel + 1 Token (Juyo/Djem-So).
+Mins: Djem-So Mastery Juyo 5, (Dark V or equivalent ensigilment)
+Type: Supplemental
+Activation Time: None
+Prereq: The Kata Sanguinaria
+The duelist repeats the techniques of the Nameless Master as he slew “The Wavewind Master”. Placing any part of his body or figure into the blood of an opponent - the duelist manifests a sigil across the blood of this single opponent with the force who is to be the target of this technique. As long as the duelist can strike the sigil created by this technique - the duelist may physically strike at the sigil with their blade that cannot be blocked or soaked damage. While the duelist is supplementing an attack in this way (Which may include flurries) this target has no defenses and the damage received cannot be soaked. The sigil is expended and the effect is nullified after the duelist has struck it three times - the number of strokes the master needed to slay the master.
+
+
+The Bloodbourne Shattersroke Flurry
+Cost: 1 Lethal Health level + 30 FP + Must have advantage + All Tokens
+Mins: Djem-So Mastery, Juyo 6, (Dark V or equivalent ensigilment), Alter 5, Presence 8
+Type: Simple
+Prereq: Force Mind Trick, Force Concealment, Force Shatterpoint, The Trinity Sigilstroke
+The duelist channels the force into a twist atop two fingers of his blade hand causing them to bleed and rolls (Alter/Strength)+Stealth vs. a single target’s MDV. The duelist expends every token in their pool and vanishes into thin air binding themselves into the blood of their opponent. Only the duelist's blade appears with as he moves through the shatterpoints within the body of an opponent in the Force between the shatterpoints amidst the two duelists . As the duelist strikes - Each of his strikes are surprise attacks, Each strike is unblockable, undodgeable, and unspeakable. After all attacks have resolved the duelist rolls a quick contest of Alter+Stealth vs. Opponents Sense+Resistance if the opponent wins this contest -  the opponent may choose to roll their precognition to hunt for the scent of the duelist in the force. If the opponent successfully wins this quick contest and pays for precog - they reflexively choose to strike themselves and do damage to the duelist and themselves, locking the duelist as a phantom within the very blood of their opponent for seven ticks after which this contest is repeated. If the duelist wins this quick contest they escape their sanguinary prison back into the real world. If the duelist wins this contest and rolls at least their Juyo in threshold successes against their opponent - they receive that many bonus successes to all attacks and rolls against that opponent for the rest of the combat. If the Duelist rolls more successes than dice - the opponent explodes in a bloody cacophony of gore and is instantly killed transferring all their WP, Aitizen and FP to the duelist.
+Duration: 5 ticks
+
+
+
+
+
+
+
+
+

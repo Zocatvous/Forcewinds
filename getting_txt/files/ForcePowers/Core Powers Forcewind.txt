@@ -1,0 +1,361 @@
+﻿Force Push (int)
+Cost: 1d6 FP, Can add your Control level in D6 to the cost to increase the number of targets proportionally and to affect targets with size modifiers above your own proportionally
+Activation Time: 3 Tick Activation, 
+Targets: Any person or objects at or below the size modifier of your character.*
+Defenses: Resisted by Strength+Ath, Force Interrupt Powers.
+Range: Line of sight, Sensex100 Feet
+prereq:S0A1C0
+DiePool: Wits + Alter
+Effect: The target is thrown back by the margin of success beyond the defense roll of the player, This power can be used as an interrupt to any Force Power that requires concentration.
+Duration: Target is thrown back by the margin beyond their defense roll. Targets move at your alter in ticks per second.
+
+
+Force Pull (int)
+Cost: 1d6 FP, Can add your Control level in D6 to the cost to increase the number of targets proportionally and to affect targets with size modifiers above your own proportionally.
+Activation Time: 3 Ticks, The object moves at your level in Control per tick. You must concentrate to complete the action.
+Targets: Any person or object at or below the size modifier of your character.*
+Defenses: Resisted by Strength, Force Interrupt
+Range: Line of sight, Sensex100 feet
+Prereq:S0A1C0
+Effect: Target is pulled towards the user at their level in Control per tick.
+Duration: Duration is determined by distance. Requires concentration, Can be cancelled 
+
+
+Force Punch
+Cost: 1d6 FP
+Activation time: 3 ticks
+Target: any person or object
+Defense: Can be soaked or blocked like a normal punch if you can sense the attack
+Range: Control*Sense meters
+PRereq:S0A1C1
+Effect: You can punch a target at range, Alter is rolled as Strength.
+Duration: instant
+
+
+Force Sense/Precognition
+Cost: 1d6  FP, 
+Activation Time: Reflexive and Instantaneous
+Targets: You
+Defenses: Must be invisible in the force.
+Range:none
+Prereq:S1A0C0
+Effect: The user becomes aware of any surprise attacks or defend against attacks that are otherwise imperceptible or move at speeds unblockable by normal humans. Must be declared to benefit from Precognition
+Duration: Until cancelled or until end of scene.  
+
+
+Force Empathy
+Cost: 1d6  FP, 
+Activation Time: 7 ticks to activate
+Targets: Single Target
+Defenses: Target must spend your Sense In willpower to resist.
+Range: 10xSense Feet
+Prereq: S1A1C1
+Effect: By activating this power the user is able to sense a target's emotions, intent, motivations, desires and even sense if they are in pain. Depending on the degree of success the user can gain insight and some or all of the previously mentioned categories. If the user only wants to know something from one of the categories then a roll is unnecessary.
+Duration: Active until interrupted by a skill designated as an interrupt.
+
+
+      Force Soma Resist
+      Cost:1d6 FP
+Activation Time: 1 ticks
+Target: Single Target
+Defense: N/A
+Range 10xsense feet (until cancelled)
+Prereq: S1A1C1
+Effect: Caster may activate this power to negate any single non-forceful somatic metabolic hazards i.e aerosolized poison gas/asphyxiation/debuffs from disease etc. that have a difficulty associated with it. Much like precog. The force user pays every time they benefit from it. Cannot be used on voluntary actions, only as a reaction to resisted phenomena.
+
+
+Force Calm
+Cost:1d6 FP
+Activation Time: 3 ticks
+Target: Single Target
+Defense: Dodge MDV against (Perception+Alter)
+Die Pool: Perception+alter
+Range 10xsense feet (until 
+Prereq: S1A1C1
+Effect:Pacify a single target into a haze that they must pass Perception+awareness (difficulty of die pool) and spend a willpower to snap out of for seven ticks.
+
+
+Mind Trick 
+Cost: 1 WP + 2d6  FP, 
+Activation Time: 7 ticks to activate
+Targets: One target within range
+Defenses: Target Dodge MDV,
+Range:5 feet
+Die Pool: Wits+Alter
+Prereq:S2A2C2
+Effect: The caster uses the force to persuade the user to act upon a single order or suggestion given by the caster. 
+Duration: Active until interrupted or target acts upon the effect.
+
+
+Force Telekinesis
+Cost: 2d6  FP, Can add your Control level in D6 to the cost to increase the number of targets proportionally and to affect targets with size modifiers above your own proportionally.
+Activation Time: Reflexive, The object moves at your level in Control per tick. You must concentrate to complete the action.
+Targets: You can increase the number and size modifier of your targets by adding your control in D6 to the cost of the power.
+Defenses: Resisted by a Strength Roll, Any Interrupt Force Power
+Range: Line of Sight, Sensex100 feet
+Die Poll: Wits + Control
+Prereq: S0A1C1
+Effect: Target(s) is moved in the direction of the practitioners choice to a maximum
+Duration: Effect requires concentration, Sense+Control must be rolled every 7 ticks to maintain control.
+
+
+Force Repulse
+Cost: 3d6 FP,
+Activation time: 2 Ticks
+Keyword: Cancel
+Targets: AoE
+Defenses: Force Absorb, Interrupt techniques
+Range: in lower of Alter or FS radius sphere around caster
+Prereq:S1A1C1
+Effect: creates a spherical wave of kinetic energy centered on the caster in lower of Alter or FS radius sphere causing a Strength check on all affected targets to stay on their feet (Diff = Alter), failing targets are thrown to the edge of the sphere, deals FS dice of bashing damage that cannot be soaked.
+
+
+Force Speed
+Cost: (3d6 FP + 1d6 per action in combat) or (3d6 FP per Action out of combat.)
+Activation Time: Reflexive, Instant
+Targets: Self
+Defenses:N/A
+Range: N/A
+Prereq:S2A2C2
+Effect: For the duration of the cast, The Caster has;
+Attacks not modified by other techniques or force powers have their speed divided by the lower of their Alter or Control rounded down (min 1). 
+Maximum movement speed is increased by a multiple of your Alter/Control - whichever is higher.
+Perceiving sensations of any kind while speed is active must use Sense as the dominant Attribute.
+While this power is active, Targets who are attacked or who are attempting to attack the caster must make some form of awareness check at the difficulty of the caster’s Alter to perceive the caster. Precognition can be used to substitute this check. 
+     Stealth Actions performed in force speed must roll Sense as the dominant Attribute.
+Duration: Costs 3d6 FP for every 7 ticks of use, or every action outside of combat.
+
+
+Force Concealment
+Cost: 1 WP + 2d6  FP, 
+Activation Time: 3 ticks to activate
+Targets: You
+Defenses: none*
+Range:cast on self
+Prereq:S2A2C2
+Effect: While this effect is active you get a bonus equal to your Alter to your stealth die pool anytime someone rolls to look for you. Footsteps are muffled and the caster passes undetected from all but those who detect him through the cloak of the force. 
+Duration: Active until cancelled or interrupted/detected. Can be interrupted by succeeding against the caster in a stealth contested roll. (Sense+Awareness) vs. (Dex+Alter)
+
+
+Force Sight (FS>3)
+Cost: 3d6  FP, 
+Activation Time: 7 ticks to activate
+Targets: You
+Defenses: Avoiding being spotted by Force Sight can be achieved by masking oneself from the Force, Which is possible but difficult. (Force Vacuum, Be Small)
+Range:2^(Sense) Miles
+Prereq:S3A2C2
+Effect: The Caster peers through the force using the latent energy in the universe around him to peer across great distances. Only those within “sense” of the users Essence can be detected without the more advanced technique. 
+Duration: Active until interrupted by a skill designated as an interrupt. Or stop concentrating
+
+
+
+
+Force Farsight (FS>3)
+Cost: 5d6 FP, 1 WP
+Activation Time: (14-Sense) ticks to activate
+Targets: Self
+Defenses: Avoiding being spotted by Force Sight can be achieved by masking oneself from the Force,
+Range: Alter Grid Squares (Galaxy Map)
+Prereq:S4A2C2
+Effect: The Caster peers through the force using the latent energy in the universe around him to peer across great distances, With this power the user can also use the force to vicariously use the force at tremendous distances, But one needs to spend one willpower for each force power used through this power. Each power can be countered/defended against normally. 
+
+
+Duration: Active until cancelled or interrupted/detected. Can be interrupted by succeeding against the caster in a stealth contested roll. (Per+Awareness), If you are noticed you can be susceptible to psychic attack with no defenses. This effect lasts for (Sense) Minutes. 
+
+
+
+
+Force Telepathy
+Cost: 2d6  FP or 1 WP + 1d6
+Activation Time: 7 ticks to activate recast for every successive set of 7 ticks the effect is active.
+Targets: designate one humanoid target in range.
+Defenses: Target may spend one willpower to drown out the effects of the voice of the caster
+Range:20x(Sense) feet
+Prereq: S3A2C1
+Die Pool: Perception+Alter
+Effect: The Casters voice manifests a message to the target.  
+Duration: Active until interrupted by a skill designated as an interrupt.
+
+
+Force Jump (FS>=3)
+Cost: 2d6 FP, 
+Activation Time: 4 ticks from a standing position, 6 ticks from a prone position.
+Targets: You
+Defenses: Any interrupt
+Prereq: S1A1C0
+Effect: The target jumps 5*alter in meters.
+Duration: Active until the jump ends or interrupted.
+
+
+Force Leap (FS>=3)
+Cost: 6d6
+Activation: 3 ticks activation from any standing position.
+Targets: You
+Defenses: See Jump
+Range: (5*alter)^2
+Prereq: S1A3d6
+1C2
+Die Pool: Dex+Control (two checks, one to initiate jump and one to land)
+Effect: The Caster leaps a great distance and arrives here seven ticks after activation.
+Duration: 4 ticks after activation the caster arrives at their destination or interrupted.
+
+
+Force Psychometry (FS>3)
+Cost: 5d6 FP 
+Activation Time: 7 ticks to activate
+Targets: Any one object at Sense*100ft within line of sight
+Prereq: S2A2C2
+Effect: Provides: Mass, time, energy, distance, concentration, etc. (any scientifically quantifiable information) User can add successive rolls to analyze additional objects in relation to the initial target. One cast per characteristic per object.
+Duration: Active until interrupted by a skill designated as an interrupt or analysis in complete.
+
+
+Force Psychohistory (FS>4)
+Cost: 5d6
+Activation: 7 ticks
+Targets: One object of Potency <= FS
+Die Pool: Perception+Sense
+Prereq:S2A2C2
+Effect: Allows the user to observe the story of an object or surrounding area up to some fraction of its whole existence into the past. Who touched it, what were the turning points in its “life”. This information is destroyed if the object is destroyed or its matter manipulated. The user may “query” the object with a yes or no question up to FS times. (dm the GM)
+
+
+Force Whirlwind (FS>3)
+Cost: 1 WP + Xd6 FP
+Activation Time: 4 ticks to activate 
+Targets: 1 target 
+Defenses: Force Repulse, contested Strength vs Wits+Control every 7 ticks.
+Range:10*Control feet.
+Prereq:S2A2C2
+Effect: The target is immobilized within a cyclone of wind.
+Duration: 7X ticks
+
+
+
+
+Force Barrier (FS>3)
+Cost: 1 WP 3d6  FP for activation and per hit blocked.
+Activation Time: Reflexive/Instant
+Targets: You
+Defenses: Any force based interrupt or effect that breaks concentration.
+Range:self
+Prereq:S1A2C3
+Effect: The caster produces an invisible force barrier that redirects force powers into a semi-circle around the barrier.  Blocks kinetic and damaging effects specifically targeting the caster’s hex or designated Hexes. Must spend 1 WP to repel Forceful attacks.
+Duration: Active until dispelled or interrupted.  Requires concentration.
+
+
+Force Wave (FS>4)
+Cost: 1 WP + 6d6 FP
+Activation Time: 7 ticks
+Targets: Everyone within range of user
+Defenses: Strength+Res check to mitigate knockback Difficulty is casters FS, Force Barrier
+Range: 10*alter in feet.
+Die Pool: Wits+Control
+Prereq:S1A3C2
+Effect: Targets are knocked back in a massive concussive wave of force energy. Targets take Alter in d6 bashing damage.
+Duration: Active until interrupted by a skill designated as an interrupt or until effect is resolved.
+
+
+Force Shatterpoint (FS 5)
+Cost:5d6  FP, Must channel a specified virtue***
+Activation Time: 7 ticks to activate
+Targets: You
+Defenses: Being spotted or by perturbing in your analysis by an interrupt or other GM discretion Force Power that would substitute for the causing the caster to not be able to see echoes in the force by rolling Sense+*Attribute.
+Range:2^(Sense) Miles
+Prereq: S4A5C5, Precog
+Die Pool: Perception+Sense* (Others)
+Effect: Caster learns the intricate patterns that hold together the integrity of a target through the echoes it creates in the force. The caster learns how each of these echoes gather into vortices called Shatterpoints,  After casting this ability the GM assigns a threshold difficulty for detecting some weakness associated with the target the caster specifies.
+Targets for this ability can technically be anything. But this also means that the difficulty in perceiving said echoes can be infinitely difficult. Regardless ruling how to create rolls and rules for Shatterpoint can be challenging
+Example: If Shatterpoint were cast upon a sith sorcerer, the difficulty to detect a weakness in his mind. The GM might assign a series of extended rolls for different die pools to detect something specific about his personality. The first might be a Sense+Perception roll to bypass his natural MDV, then a Sense+Virtue at the difficulty of his Force Sensitivity roll to understand something about a murdered loved one that lies at the center of his hatred for the jedi. 
+The caster must be neutral in their presence in the force in order to use this power. This means that you cannot channel any virtues during the extended rolls, this is due to the subtle nature of detecting how the force moves through life, minds and objects. Shatterpoint extended die pools must include at least one Sense+Perception roll, at a difficulty that will be  at least at the difficulty as the action would require if it was attempted normally. 
+There may be more than one shatterpoint for a particular target, the GM must assign at least one Sense+Perception (and potentially more) roll per shatterpoint. 
+Once the caster has been told what extended rolls must be made to detect These “shatterpoints” glow in the caster's vision and he becomes immediately aware that each of these nexuses. These shatterpoints are always delivered to the caster as knowledge, whether it be that force to exert on a piece of glass, or the name of a family member of the target. Once the shatterpoint has been identified. The knowledge may be used to any ends that the caster desires. But every shatterpoint has a Difficulty associated with it, and it MAY NOT used unless the caster can successfully meet the die pool associated with the difficulty of the shatterpoint.
+For Example: simply Knowing the name of a deceased family member does not necessarily mean that saying it aloud will unwind the will of the target. In this case the GM might assign a Difficulty 3 Man+Performance roll.
+Duration: Active until interrupted by a skill designated as an interrupt.
+
+
+
+
+Force Suppression 
+Cost: 9d6  FP, Must channel a specified virtue***
+Activation Time: 7 ticks to activate
+Targets: All Force affects in the area of effect
+Defenses: This effect cannot be defended against unless you have some ability that can absorb or redirect active force effects.
+Range: 5xAlter Meters AOE
+Prereq:S2A4C4
+Effect: Caster mutes the dynamic force energy around him as every force power within the radius of the effect suffers a penalty equal to the casters level in alter to the die pool to cast. All enemy force powers or die pools used to attempt to call on the force in the radius suffer a penalty equal to the casters Alter
+Duration: Field persists for 7*FS ticks or until it is canceled by the caster. Requires Concentration.
+
+
+Force Breach 
+Cost: 7d6  FP, Must channel a specified virtue***
+Activation Time :Reflexive
+Targets: Any shatterpoint detected through Shatterpoint
+Defenses: This effect cannot be defended against unless you have some ability that can absorb or redirect active force effects.
+Range: 20xAlter Feet
+Prereq:S3A3C3
+Effect:The Caster ruptures any shatterpoints he has identified perfectly with an effect representative of the virtue channel he spent to do so, Targeting a shatterpoint automatically counts as a “3 die stunt” and the GM specifies a difficulty check to target the specific shatterpoint. Use of Breach makes each die rolled against a shatterpoint a double success. Gain all xp appropriate. Use of breach can only be done on an identified shatterpoint with a declared difficulty.
+Duration: Effect is instantaneous and must be interrupted on the same tick that it is activated. 
+
+
+Force Phase 
+Cost: 10d6 FP + 1 WP + (Xd6 FP where X is size of object)
+Activation Time: 7-Alter ticks (min 1)
+Targets: self and any Control hex target within Alter miles
+Defenses: This can be interrupted through normal interrupt means.
+Range: Alter Miles
+Prereq: S4A4C4, Matter 2, Entropy 2*, FS>5
+Effect:The caster ceases to exist and allows himself to be swallowed by the force and transplanted somewhere else of his choosing.
+Duration: The time for the travel is instant on the last tick of Activation time.[a]
+
+
+
+
+Force Harrowind
+Cost: 10d6
+Activation Time: 14 Ticks
+Target: AOE (Cone, Square, circle) - Can be centered or placed anywhere in line of sight, Targeted attacks. Target types of attacks must be narratively justified by description.
+Prereq: S4A4C5
+Defenses: Defensive Force Techniques (Protect,Absorb, Sanctuary)
+Range: Line of Sight
+Effect: You call upon the force to change to weather from violent storms to calming the raging seas you reach out into the heart of nature and mate chaos with harmony or harmony with chaos. Attacks can be made by the Harrowind. You may describe up to Control seperate attacks per turn. Attacks can be different or identical and affect up to Sense targets. Each attack by the Harrowind can have a
+*  (Target Type (Targeted/AoE)
+* A Single Effect (Stunning, Weakening, Confusing etc.) Resisted by a specified Roll ( e.g Str+ Sta)
+* An Attack Profile (Damage and Accuracy specified below)
+
+
+* The difficulty of resisting all effects described by the Harrowind as well as the accuracy of the attack(s) made by the Harrowind is equal to your Control+FS.
+* Targeted Attacks using this ability do FS+Control damage dice
+* Attacks are guaranteed to do at least your FS in damage this cannot be soaked. 
+* AoE radius/length is limited to your Alter,
+* AoE Damage is FS damage dice.
+* All attack speeds are 5 tick Simple Actions 
+* The damage can be of any type. (Lethal/Bash/Agg) and must be narratively justified.
+* Attacks are not dodgeable or blockable except by use of other Force abilities (specified above)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- EOD ---
+Power Name
+Cost: (can the user spend some multiple for extra effect? Is there some way to reduce cost? Is this cost singular or recurring?)
+Activation Time: (is it an action to activate the power? If so, how many ticks, what DV penalty? Is it reflexive? Is it “supplemental”, in that it aids some mundane action (force jump)? Can it be used during the same action as other force powers? Does it break Kai Kan? Can the user take extra time to gain an advantage on his roll, or reduce cost? Can the user activate the power for multiple consecutive actions in order to allow for an extended roll?)
+Targets: (Who can be targeted? How many? If you can target more than one, does that require a better roll? Increased Cost? Is it only self-target? Only allies? Only enemies? Does it work on Droids?)
+Defenses: (Does the target need to be willing? For unwilling targets, is there some way for them to avoid it? Is there an attack roll involved? Can it be dodged or blocked, or both, or neither? Does the target get a resistance roll? What die pool is it? What is the difficulty? Can the user affect the difficulty by taking extra time/spending more energy/rolling well? Does soak apply? Cover?)
+Range: (Touch? Sight? Some fixed range? Is there a die roll, and range adds difficulty/subtracts from die pool? Does the user need to be able to sense the target? Is it an AoE? How big? How can the user affect the size (points/time/roll)?)
+Die Pool: (What does the user roll to activate the power? Is any roll necessary, or does it automatically work? Does it automatically work, but need a roll to be effective (throwing lightning at someone)? What Virtues might be channeled on this, and which are forbidden? Can the user Stunt? Spend Willpower? Can the user spend extra force points for extra dice/successes? Take extra time? If a roll is required, what is the difficulty? What does failing mean? Botching? What do extra successes do, if anything?)
+Effect: (Does the effect scale with successes on the roll? Energy spent? Force Traits? Or is it somehow cosmically constant? Is there anything the user can do to affect the effect? What can the target do to mitigate the effect?)
+Duration: (Is the effect instant? Does it require concentration from the user? Does it require periodic maintenance in the form of spending more energy or making more rolls? Is there anything the target, or a third party, can do to stop the effect? Can the user stop the effect once it starts? Does it require the user win a series of contested rolls, like a Clinch? Or maybe the user makes one roll, and the target gets a periodic opportunity to beat that roll with resistance.)
+
+
+
+
+[a]unavailable

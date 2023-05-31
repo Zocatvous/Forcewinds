@@ -1,0 +1,19 @@
+Makashi
+Ysalamiri Style
+Kohun Style
+
+
+The Way of the Ysalamiri relies on careful and controlled strikes. It is excellent in duels against other lightsaber stylists.
+
+
+Form Bonus: Accuracy, Defence and Damage Bonus.
+
+
+* All (*) techniques cannot be performed without a curved disruptor hilt.
+* All Lightsaber combatants who roll perception to determine that this style is being used must also have at least one level in Makashi.
+
+
+Advantage: Striking from advantage in makashi allows you to reroll your Accuracy die pool for any offense and take the better of the two rolls.
+
+
+Disadvantage: When in disadvantage in Makashi, opponents who successfully land strikes that do Aitizen damage against you gain advantage. 

@@ -1,0 +1,177 @@
+﻿Whispers of the Dyad 
+Cost: 1 Channel of each Virtue per target (GM Discretion), 1 Twinned Crystal (Consumed at the Time of the Ritual)
+Activation Time: >6 hours
+Targets: 1 Twin (Echo)
+Defenses: N/A
+Range: Control Radius Hexes, Alter Duration in Hours
+Prereq:FS 4, Twinned Kyber, Kaiben Hok
+Duration: Sense Hours
+The Twinned Kyber can be breathed into the environment to give its twinned soul near perfect perception of a particular area for a period of time. Area prepared with Twinned Kyber dust gives FS automatic successes to any roll to perceive any quantity or phenomenon in the area. The kyber consumed to perform this ritual slowly reconstitutes into the original crystal used to prepare the area reducing the automatic successes granted to the cast accordingly, Rolls to perceive must utilize “Sense” and take one hour to perform but provide near perfect clarity as to the nature of any natural or Forceful phenomenon if the difficulty threshold and total successes for the analysis succeeds.
+
+
+
+
+Echostep of the Dyad
+Cost: 1 Channel (GM Discretion), 1 Twinned Crystal (Consumed at the Time of the Ritual)
+Activation Time: >6 hours
+Targets: 1 Twin (Echo)
+Defenses: N/A
+Limitations and Range: Up to Alter Days into the Future, Up to Control Distinct Targets to travel through the Echo
+Prereq: FS 5, Twinned Kyber, Kaiben Hok Ritual, Twin Siblings at FS 5 or greater, 
+Duration: Until Cancelled or Echo is Reached
+Effect: This deeply ancient and occult ritual is a staple of ancient knowledge known only to the echoes of time that harbor it in the hearts of those who can understand its power. The consequences of repeated use of this technique have never been discovered and may even be beyond the scope of any possible inquiry. The twinned souls of siblings are “seams” in the force that can be used to subvert its would-be rulership over life, death, time and all manner of superlatives. Those twinned souls attuned to the Force, When they are aware of their rare affinity for the Force’s “errors” when accounting for the position in time or space of “like forms” may discover this technique allowing them to interchange themselves between each other and slip past the omniscient gaze of the Force allowing the twins to warp reality itself.
+
+Once a Night during sleep, A twin may use their dreams to commune with their sibling and relay to them the place of the placement of a Twinned Kyber Crystal the position of which can be used to center an echo of themselves in the past or future in the Force, allowing their consciousness of the twins to trade places once the consciousness of the other twin reaches out and consumes the echo, or the effect is cancelled by retrieving and reconstituting the kyber using Kaiben Rituals. Performance of this ritual is done by performing Kaiben Hok on a Twinned kyber crystal and communing with one’s sibling during sleep or meditation as to the time when the Echo of their spirit is to return to this kyber’s current position in time and space at the time of the rituals inception. Consumption of an echo reconstitutes the crystal consumed during casting.
+
+
+ This Echo functions as a “relay” in time and space that allows one twin to place their siblings consciousness at some point up to Alter days into the future. With up to Control other distinct conscious Force Sensitive targets as an Echo. These targets travel with you through time and space, awakening from a deep sleep at the time and place of the ritual's inception when the Echo is consumed. 
+
+Consuming the echo takes place when the position or time is reached in time or space the caster of the Echo reawakens at the time of the ritual’s inception.  
+
+If The Echo is never consumed by the caster the Twinned Kyber remains consumed until the Echo’s trigger condition is satisfied. Echo Trigger Conditions may be Times or Places, Echoes may be triggered successfully even after the death of the caster. ***Force Echoes of this type are delicate and arcane objects highly sensitive to perturbation of the casters spirit; Channeling Conviction or any Dark Virtues of any kind after usage of this Ritual annihilates any and all placed Echoes.
+
+
+
+
+Ritual of the Ephemeral Mirror (LIght III)
+Cost: Xd6  FP, 1 WP
+Activation Time: (dependant on Targeted force power)
+Targets: Single Force Power
+Defenses: None
+Range:  N/A
+Prereq: S4A4C4,
+Effect:THe Caster uses a brilliant knowledge of the inner workings of the force to wreathe themselves in and expertly redirect or reconstitute the energies of a single force power to reflect or replicate a force power cast within eyeshot of them. Does not allow the caster to learn the force power. If cast on Ephemeral mirror this results in no effect.
+Duration: 1 minute
+
+
+Flashburn Ritual
+Cost: 5d6 FP
+Activation Time: 5 ticks
+Targets: Single target or Self
+Defenses: 1 WP, MDV
+Range: Physical Contact
+Prereq: S5A5C5, Medicine 5, Ritual Knowledge
+Die Pool: Control + Medicine 
+Target a Memory, Virtue or Mental Status Affecting a single target, This technique allows you to reach into the spirit or mind of a single willing target and sear remove a single Mental effect, Virtue, Memory or Piece of Information. Perform an extended roll at a GM prescribed Difficulty and threshold success total. Difficulty will vary depending upon the importance of the feature to the character (i.e) - Motivation being more difficult than negative temporary status effect like Mind Trick to remove - 
+The number of successes achieved by the effect when being placed should usually factor into the difficulty of the roll to remove.
+ Personality traits and memories are always at least rolled at the Difficulty of the FS or highest Virtue of the Target with threshold successes should scale with the number of XP invested in a Virtue. Motivations may be many times harder as they may be linked to a composition of Memories and Virtues that must all be uprooted and replaced to remove. 
+Duration: Each attempt to uproot a Memory/Virtue/Affect on a target will take at least 1 minute. Botches Roll Bendukizu associated with the Alignment of the Target
+
+
+Force Severing Ritual
+Cost: 5d6 FP + 1 WP
+Activation Time: 1 Hour per attempt.
+Targets: Single Target
+Defenses: None
+Range: Galactic Radius*
+Prereq: S6A5C9, Farsight, Flashburn Ritual Knowledge
+Reach through the Force to sear shut a user's connection to the force permanently Using Flashburn.
+Duration: Permanent
+
+
+
+
+Essence Flux (Light III)
+Cost: 3d6 + Channel (GM discretion)
+Prereq: S3A3C3
+Activation Time: 7 Ticks
+Targets: Single Target
+Defenses:N/A 
+The caster transfers 1 point of their Force Sensitivity/Essence into a vessel of suitable potency. The difficulty of this roll is the potency of the vessel.
+
+
+
+
+
+
+DARK RITUALS
+
+
+Dire Brooding (Dark I) 
+Cost 5d6 FP, 1WP, 1 Channel of Hate***
+Targets: Self
+Defenses: N/A
+Range: N/A
+Prereq: S2A2C2  Ritual Knowledge
+Effect: The caster glows red with Hatred and bathes in the dark side of the force; awash with its power the caster points the energies they muster from their brooding into themselves and takes Sense+Alter Dice of Aggravated Damage, After which they gain xp equal to their successes on Control dice, Botching cause you to incur Dark Bendukizu (see Rituals)
+
+
+Ancient Dak’un Destruction (Dark III)
+Cost: 6d6  FP, 
+Activation Time: 7 ticks
+Targets: AOE with radius of Alter
+Defenses: N/A
+Range: alter AOE centered on self meters
+Prereq: S1A2C2  Ritual Knowledge
+Effect: You delight in ultimate destruction of all things, Create a large sphere of dark energy that does 8d6 Aggravated damage to anyone within the radius
+Duration: 7 ticks
+
+
+The Coming Grasp of Lotek’k 
+Cost: 7d6 FP,
+Activation Time: 14 ticks Uninterrupted
+Targets: up to Alter distinct Targets
+Defenses:N/A
+Range: N/A
+Prereq: Ritual Knowledge, Force Farsight
+Effect: The Terror from Beyond was sealed away outside the known galaxy. A force Weilder withy sufficient knowledge of the dark side may overcome the guardians of the sanctum of Lotek’k placed their before the formation of the republic and gain access to the sanctum where it resides. This ritual allows Lotek’k to reach onto the battlefield through the hypergates outside his sanctum and places 4 large tentacles that will attack all targets Indiscriminately target anyone in their range, the attacks are (S2,ACC 10) and ignore soak.
+
+
+
+
+Galan’s Echostep of the Dyad
+Cost: 1 Channel (GM Discretion), 1 Twinned Crystal (Consumed at the Time of the Ritual), 10d6 FP + 2 WP
+Activation Time: 15 min
+Targets: 1 Twin (Echo)
+Defenses: N/A
+Limitations and Range: Up to Alter Days into the Future, Up to Control Distinct Targets to travel through the Echo
+Prereq: FS 5, Twinned Kyber, Kaiben Hok Ritual, Twin Siblings at FS 5 or greater, Ephemeral Vigil
+Duration: Until Cancelled or Echo is Reached
+Effect: Allows Galan Harn to use Echostep of the Dyad in a greatly reduced manner of time.
+
+
+
+
+BENDUKIZU
+
+
+-Wounds of “the middle”-
+
+
+Effects tend to be magnified in subjects who are attuned to one side of the force.
+
+
+Curouscating Bendukizu
+1-10: You Must wait 2 days before attempting this ritual again
+11-20: You suffer a -1 Die penalty for 24 Hours
+21-30: You Suffer a -2 Die penalty for 24 Hours
+31-40: you lose a channel of your virtues
+41-50: you lose 1 WP
+51-60: you lose 2 WP
+61-70: you lose 3 WP 
+71-80: You lose a -1 health level
+81-90: You lose a -2 health level
+91-100: A virtue of your choosing reverts to the standard template. 
+
+
+Penumbric Bendukizu D100 results
+1-10: You must wait 3 days before attempting This ritual again
+11-20: You suffer a -2 Die penalty for 24 hours
+21-30: You immediately take Alter Aggravated Damage
+31-40: You and all your equipment are struck with dark lightning from the aether, roll 1d10 for each item in your inventory, on a success that item is destroyed, and you take a level of aggravated damage
+41-50: You And all fellows around you are struck for Alter Aggravated damage.
+51-60: You Permanently Lose one -1 Health Level.
+61-70: you Permanently Lose one -2 Health level.
+71-80: you Permanently Lose one -4 Health level.
+81-90: you lose 1 dot in an Ability as darkness devours a piece of you. (GM)
+90-95:you lose 1 dot in an Attribute as darkness devours a piece of you. (GM)
+96-100: You lose 1 dot in Force Sensitivity
+
+
+Pale Bendukizu (Grey)
+1-10: You must wait 1 day before attempting this ritual again
+11-30: You suffer a -1 die penalty for 24 hours
+30-50: you lose a virtue channel in your highest virtue
+51-70:  You lose a willpower
+71-90: you lose 2 Willpower
+91-100: you are brought to Incapacitated for hours equal to the margin of error

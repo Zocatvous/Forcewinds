@@ -1,0 +1,15 @@
+FORM IV ATARU
+The Way of the Hawk Bat
+
+
+Most of the techniques in the Ataru form require significant acrobatic skill. Failure or botching an acrobatic stunt will cause you to sacrifice Aitizen equivalent to 1-3D6 or the difficulty of the failed stunt depending on GM ruling. *Asterisk marked techniques must be stunted. 
+
+Ataru provides a passive buff to Speed.
+
+Advantage: While striking with advantage Ataru Duelists add their Ataru to their DDV while acrobatically stunting.Ataru duelists win ties while they are in stance for All purposes. Ataru Duelists striking from advantage ignore soak of opponents with Disadvantage while stunting. 
+
+Disadvantage: Ataru duelists with disadvantage lose the passive bonus to their Speed and all techniques proceed at default speed according to their keyword.
+
+Form Bonus: Ataru Stylists have a passive increase to their speed and DDV in form stance.
+
+Tokens are generated in Ataru by successfully dealing Aitizen Damage to  opponents with Disadvantage.

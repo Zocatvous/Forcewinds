@@ -1,0 +1,371 @@
+﻿S H I I -  C H O
+
+
+Advantage: When Shii-Cho Stylists Strike from advantage they regenerate Tokens for any style at or below their level in Shii-Cho when they successfully roll >1 success on Shii-Cho dice after successfully Parrying or Soaking. 
+
+
+Disadvantage: When You are striking from disadvantage in Shii-Cho You lose one Token from one of your token pools of your opponents choice whenever you take Aitizen or Lethal Damage. 
+
+
+*Asterisk powers require training in Heavy Lightsaber Combat, and a special Heavy Lightsaber
+
+
+**These styles require or allow you to use heavy armor.
+
+
+Yashma Sho - Aurek
+Cost:  3 FP
+Mins:  Shi Cho 1, Dexterity 2, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  5 ticks
+Prerequisite Charms:none
+ This technique allows the practitioner to Flurry with their bladewith bonus dice equal to their Shii Cho for each strike as a simple attack.
+    
+Yashma Sho - Besh
+Cost:  4 FP
+Mins:  Shi Cho 1, Dexterity 2, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Yashma Sho - Aurek
+   This technique allows the practitioner to flourish their lightsaber and perform a thrusting attack with a bonus equal to their Shii Cho. (Spend a Token to double your bonus)
+
+
+Yashma Sho - Defensive Stance
+Cost:  4 FP
+Mins:  Shi Cho 1, Dexterity 2, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Yashma Sho - Besh
+   This Technique must be activated one “Turn” prior to its use relative to the practitioner and allows for a penalty to the practitioners Offensive roll Up to your Level in Shii Cho in exchange for a Bonus to your Defense on your Next Normal attack (Spend a shii cho token to double your bonus)
+  
+________________
+Yashma Sho - Fierce Stance
+Cost:  4 FP
+Mins:  Shi Cho 1, Dexterity 2, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Yashma Sho - Defensive Stance
+  This Technique must be activated one “Turn” prior to its use relative to the practitioner and allows for a penalty to the practitioners Defense Up to your Level in Shii Cho in exchange for a Bonus to your offense on your Next Normal attack (Spend a shii cho token to double your bonus)
+
+
+ Yashma Sho - Hammering Strike
+Cost:  4 FP
+Mins:  Shi Cho 2, Dexterity 3, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Yashma Sho - Fierce Stance
+The Practitioner uses this technique to follow up a Normal Flurry with a hammering Blow that has a chance to knock their opponents blade from their hand and potentially break their form (Strength + Martial Arts vs. Strength,Dex, or Stamina + Martial Arts) 
+The attacker has the chance to stunt their Strike to (wrapping their opponents blade in a twirling knot for dexterity, overwhelming smashing overhead strikes for Strength and Striking the wielding limb with a bashing openhand strike for Stamina)
+
+
+Yashma Sun Djem
+Cost:  7 FP + 1 Token, Advantage
+Mins:  Shi Cho 2, Dexterity 3, Melee/Martial Arts 5, Force Sensitivity 2
+Type: Supplemental
+Duration: 5 Ticks
+Prerequisite Charms: Yashma Sho - Hammering Strike.
+When a duelist wishes to end his duel and permanently disarm his opponent. He must have advantage and execute this technique to supplement any normal attack to strike directly at the hilt of his opponent’s lightsaber/weapon. A quick contest of Dex vs. Dex is done after which the duelist may make a simple strike resisted by opponents passive defenses. If the strike lands the opponent's lightsaber is cut in two and destroyed. GM ruling on how unique lightsabers are cleft in twain. If this technique fails you lose advantage.
+
+
+   Name: Yashma Sho - Mastery
+Cost:  ------------
+Mins:  Shi Cho 2, Dexterity 3, Melee/Martial Arts 4, Force Sensitivity 3
+Type: Permanent, Passive, Meditation
+Duration: -----------
+Prerequisite Charms: Yashma Sho -Hammering Strike
+Allows you to gain the ability to gain Shii Cho Tokens by meditating instead of regaining Force Points. 
+
+
+
+
+Feylon Sho -Aurek
+Cost:  5 FP
+Mins:  Shi Cho 1, Dexterity 1, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: None
+The Practitioner may perform a flurry with any ordinary attack and supplement their attack with a single melee technique i.e kick or punch. 
+The Practitioner may headbutt/knee/hilt check or otherwise bludgeon their opponent for bashing damage during a saberlock.
+The Practitioner may parry bludgeoning attacks using their Parry DV
+
+
+Feylon Sho - Besh
+Cost:  4 FP
+Mins:  Shi Cho 1, Dexterity 2, Melee/Martial Arts 3, Force Sensitivity 2
+ Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Feylon Sho - Aurek
+The Practitioner may use this technique to force an opponent to reroll their damage during an attack against the practitioner and take the worse of the two rolls. 
+
+
+Feylon Sho - Cresh
+Cost:  5 FP
+Mins:  Shi Cho 1, Dexterity 2, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Feylon Sho - Besh
+The Practitioner raises their lightsaber horizontally across their head and centers themselves in the force. As the practitioner stands immobile for 7 ticks they roll their join battle against their opponent (who also re-rolls) The practitioner then regains the result of their margin of success in a D10 roll to their Aitizen.*Spend a Shii Cho Token to reduce the time of this technique to 5 ticks without warning.i.e may be done up until the fifth tick 
+
+
+Feylon Sho - Cherek
+Cost:  4 FP
+Mins:  Shi Cho 1, Dexterity 2, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Feylon Sho - Cresh
+Use this technique in combination with a saberlock to do Aitizen damage equal to your margin of success in the saberlock quick contest
+
+
+Feylon Sho - Dominance
+Cost:  5 FP
+Mins:  Shi Cho 2, Dexterity 2, Melee/Martial Arts 3, Force Sensitivity 2
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Feylon Sho - Cherek
+Use this technique in combination with any attempt to begin a saberlock and guarantee control of the saberlock on the second turn that it is maintained. 
+
+
+Feylon Sho Mastery
+Cost: ----------
+Mins:  Shi Cho 2, Dexterity 3, Melee/Martial Arts 4, Force Sensitivity 3
+Type: Permanent, Passive, Meditation
+Duration:  ------------
+Prerequisite Charms: Feylon Sho - Dominance
+Allows you to regain Shii Cho tokens outside combat by running through the Feylon Sho Kata (Takes 3 Hours per token/Shii Cho). 
+
+
+Lightsaber Throw
+Cost:  8 FP
+Mins:  Shi Cho 2, Dexterity 4, Melee/Martial Arts 4, Force Sensitivity 3
+Type: Reflexive
+Duration:  Instant
+Defenses: DDV
+Prerequisite Charms: Feylon Sho Mastery or Yashma Sho Mastery
+Allows you to throw your lightsaber and use the force to return it to your hand, Double the FP cost if the blow is blocked (or spend a Token to cancel the cost) ** Lightsaber throws can be intercepted and are ruled according to special rules in Kai Kan (see kai kan)
+
+
+
+
+
+
+Veyl Sho - Aurek 
+Cost:  8 FP
+Mins:  Shi Cho 3, Dexterity 4, Melee/Martial Arts 4, Force Sensitivity 3
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Lightsaber Throw
+Allows you to overhand throw your lightsaber and immediately follow up the strike with an overhand strike. Cannot be done at less than 4 hexes away. Add your Shii Cho to damage (Spend a Token to double damage)
+
+
+Veyl Sho - Besh
+Cost:  8 FP
+Mins:  Shi Cho 3, Dexterity 4, Melee/Martial Arts 4, Force Sensitivity 3
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Veyl Sho - Aurek 
+Allows you to throw your lightsaber at a telegraphing attack from your opponent and provoke an acrobatics check against the attacker to prevent the force of the impact from your lightsaber from knocking them prone or airbourne. and return the lightsaber to your hand
+ Add your Shii Cho to damage (Spend a Token to double damage)
+
+
+Veyl Sho - Cresh
+Cost:  8 FP
+Mins:  Shi Cho 3, Dexterity 4, Melee/Martial Arts 4, Force Sensitivity 3
+Type: Reflexive
+Duration:  Instant
+Prerequisite Charms: Veyl Sho - Besh
+Allows you to throw your lightsaber in a boomerang pattern at up to Shii Cho distinct targets. Add your Shii Cho to damage (Spend a Token to double damage for each target), Cost doubles as each successive target blocks this attack. You may also choose to let go of your lightsaber in the force and break form as well as lose your lightsaber. 
+
+
+Veyl Sho -  Cherek
+Cost: 3 FP per deflected Attack
+Mins: Shii Cho 3, Dex 4, Melee/MA 3 Force Sensitivity 3
+   Type: Reflexive
+  Duration: 6 ticks
+Allows the Practitioner to Release your lightsaber into a disk-like shielding twirl using just a bit of the force and prolonged concentration. This Twirling blade is a physical barrier that cannot be easily passed without going around. Passing through the barrier which is a disk with the radius of your blade provokes Shii-Cho normal Lightsaber attacks against those who come in contact with the Disk. The Practitioner may not leave their concentration on the 
+
+
+
+
+
+
+Firm Foundations Style
+Cost: 10 Aitizen or One Token from target Style
+Mins: Shi Cho 2, Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+Type: Reflexive
+Duration: ------------ 
+Prerequisite Charms: Some Mastery
+Knowing this beginning style Technique allows you to
+(I) Spend a Shii Cho Token to switch instantly from any other style into Shii Cho without breaking form, This includes during execution of a technique as a free action. 
+(II) Switch from Another style into any other style you know for the associated styles token cost as a (7-X) tick action where X is your level in that Style.
+(III) Perform any “Hojo Undo” technique from a different style without leaving that style for the same cost.
+
+
+Back Parry
+Cost:  4 Aitizen
+Mins:  Shi Cho 2, Dexterity 5, Melee/Martial Arts 4, Force Sensitivity 3
+Type: Reflexive, Hojo-Undo
+Duration: Instant
+Prerequisite Charms: Firm Foundations
+Allows you to reflexively spend a Shii-Cho token and block an attack coming from directly behind you while you are in stance
+
+
+Hojo Undo Aurek
+Cost: 10 Aitizen or 1 Shii Cho token
+Mins: Shi Cho 2, Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+Type: Reflexive, Hojo-Undo
+Duration: Instant - (7/ShiiCho) Ticks (for lost lightsaber)
+Prerequisite Charms: Some Mastery, Firm Foundations
+ This technique allows the practitioner to spend a Shii Cho token and prevent a break in their form from an opponent's attack even if knocked from your feet or with a loss of your weapon. And if necessary use some means (including use of the force) to recover their lightsaber if it has been lost without risking a break in form. If you have to recover your lightsaber using this technique it takes at least (5/Shii Cho) ticks recovering your lightsaber, Uses of Force techniques to retrieve your lightsaber while this technique is active do not count as a break in form. 
+
+
+Hojo Undo Besh
+    Cost: 2d6 Aitizen or FP, 1 Shii Cho Token
+Mins: Shi Cho 2, Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+Type: Reflexive, Hojo-Undo, Supplemental, Defensive
+Duration: Instantaneous
+Prerequisite Charms: Some Mastery, Firm Foundations
+    This technique allows the practitioner to spend a Shii Cho token to negate a damaging Force attack with their lightsaber that is targeted at them. If the damage negated by this technique is greater than (Shii-Cho*Saber Def) your lightsaber deactivates and you must Dex Check to retain control of it. Reactivating or retaining your lightsaber is at minimum a 3 tick action.
+
+
+Firm Foundations Mastery
+Cost: --
+Type: Passive
+Mins: Shii Cho 3, Dex,Sta 5, Me/Ma 5 FS 4
+Prereq: Hojo Undo Besh
+Activating Firm Foundations techniques to switch styles no longer costs tokens, and is instead an action that takes (5  - Your level in the target Form) ticks to a minimum of 1 tick. Switching styles now counts as re-entering Aitizen and clears all rolling debuffs that rollover i.e Voxyn Freefall, Krayt Dragon Style. 
+
+
+
+
+
+
+Sarlacc’s Style
+Sarlacc’s Carapace
+Cost:  1 FP
+Mins:  Shi Cho 3, MA/Melee 4, Stamina 3, Force Sensitivity 3
+Type:  Simple, Stance
+Duration:  One Scene
+Prerequisite Charms:none
+The Duelist adds (Bashing+Lethal Soak)*Shii-Cho from his armor to his Aitizen score. Add this bonus as a negative damage value as soon as you step into Form Stance. This Technique may be used to step into Shii-cho stance.
+(spend a token to multiply this bonus by your Shii-Cho)
+
+
+Sarlacc’s Stone
+Cost:  10 FP
+Mins:  Shi Cho 3, MA/Melee 4, Stamina 3, Force Sensitivity 3
+Type:  Simple
+Duration:  5 ticks
+Prerequisite Charms: Sarlacc’s Carapace
+Gives you a guaranteed block against a single technique that is done against you. Can only be used once for every time you enter Shii Cho Form. Does not protect you from any aftereffects from blocking. (i.e krayt dragon Djem So Styles) This Technique cannot be cancelled or interrupted. The practitioner is restricted to half of their movement speed for (3-Shii-Cho) turns as crystalized force energy wafts away from them. 
+
+
+Sarlacc’s Menace
+Cost:  8 FP
+Mins:  Shi Cho 3, MA/Melee 4, Stamina 3, Force Sensitivity 3
+Type:  Supplemental
+Duration:  5 Ticks
+Prerequisite Charms: Sarlacc’s Stone
+Causes every enemy engaged in melee combat with the practitioner to make a Strength+Athletics (Shii-Cho Difficulty) check after each attempt to attack the practitioner, If they fail they are drawn one hex closer to the practitioner and must make the same check if they attempt to move away by any means while still in Form. 
+
+
+Sarlacc’s Perfect Resilience
+  Cost: 7 FP per soaked strike
+   Mins: Shii Cho 3, Dex,Sta 5, Melee/Martial Arts 5, Force Sensitivity 3
+   Type: Reflexive, Perfect Soak
+Prerequisite Charms: Some Shii-Cho Mastery, 
+   Duration: Instant
+ This Technique allows the duelist to Soak any attack and incur no Aitizen damage while in form. Pay the Cost for every incoming attack that is soaked. Does not negate any Damage that would not be done to Aitizen, Does not allow you to soak aggravated damage to Aitizen. 
+
+
+Sarlacc Devourer
+Cost: 4 FP per Supplemented strike
+Mins: Shii-Cho 3, Str 5, Me/MA 5, FS 3
+Type: Supplemental
+Prerequisite Charms: Sarlacc Perfect Resilience
+This Technique is used to supplement any strike made while in Shii-Cho stance. Your opponents armor is supernaturally devoured by your ferocious strikes opening cracks in whatever protection provides soak against your attacks that do damage. Every successful strike that does damage permanently removes 1 point of any type of soak for every attack against your opponent that successfully applies lethal damage. 
+(Spend a token for each strike to remove your level in Shii-Cho of soak with each strike under the same conditions) 
+
+
+The Sarlacc’s Gurgling Belly
+Cost: X*[8 FP + (1 WP/1 Token)]
+Mins: Shii-Cho 3, Str 5 Sta 5 Me/MA 5 FS 3
+Type: Simple
+Duration: 10-Shii-Cho ticks - (Min 5)
+Prerequisite Charms: Sarlacc Devourer
+This technique allows the duelist to center themselves and regain the result of X*Shii-Cho*D6 Aitizen, The Duelist is motionless and glows with orange and green energy as they steel themselves in the force, You may overheal to a maximum of your maximum (Aitizen*Force Sensitivity)
+
+
+
+
+Hoth’s Steel Style
+
+
+Requires at least two Shii Cho Masteries and a Heavy Lightsaber
+    * Hoth’s Stamp: 
+   Cost: 10 FP
+Mins: Shi Cho 4, Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+Type: Simple (to Activate)
+Duration: Until Form is broken
+Prerequisite Charms: 2 Shii-Cho Masteries, Heavy Lightsaber
+The Duelist Is a sconce of resilience. Entering an open stance and sets his shoulders. The Duelist may now add his soak from any 1 piece of equipment to his Parry DV against other styles Except Makashi and Juyo. 
+
+
+     *Hoth’s Reel:
+   Cost: 10 FP + 1 WP + 1 Shii-Cho Token per target
+Mins: Shi Cho 4, Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+Type: Reflexive, Defensive, Soak
+Duration: Instant 
+Prerequisite Charms: Hoth’s Stamp 
+ The Duelist Sets his Jaw and may Treat any Equipment Soak as a Hardness for every opponent he marks with a Shii-Cho token.
+
+
+ * Hoth’s Steel: 
+   Cost: 10 FP
+Mins: Shi Cho 4, Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+Type: Simple  
+Duration: Instant 
+Prerequisite Charms: Hoth’s Reel
+For the Next Seven Ticks + Shii Cho you cannot be broken from form as long as you are in Shii-Cho Form Stance. You are at a penalty equal to your Shii Cho to your technique die pools (Spend a shii cho token to negate this penalty) Can only be used once per scene.
+ 
+    *Hoth’s Fury:
+   Cost: 15 FP + 1 WP
+Mins: Shi Cho 4, Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+Type: Reflexive  
+Duration: Instant 
+Prerequisite Charms: Hoth’s Steel
+ For the next 14+Shii-Cho ticks you do not take Aitizen Damage While in Shii-Cho form stance, Cannot stack with Hoth’s Steel.
+
+
+Hoth’s Mastery
+Cost: 12 FP
+Mins: Shi Cho 4, Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+Type: Passive  
+Duration: Instant 
+Prerequisite Charms: Hoth’s Fury, >1 in Target Style
+Purchase of this technique allows you to activate Hoth’s Fury while in any other Form you have at level>1
+ 
+
+
+Grandmaster Feylon’s Opus
+Cost: 10 FP
+Prerequisite: Any 2 Shii-Cho Masteries. Firm Foundations, >2 in another style, Any mastery in that same style. 
+Mins: Shii Cho 4, >3 in another style , Dexterity 5, Melee/Martial Arts 5, Force Sensitivity 4
+You may activate this opus to allow you to create variant stances the bridge between styles you know. You may only create 1 new technique per week of ingame time. Your new style must fall into one of the seven forms of lightsaber combat. And it must be at least 5 techniques long. 
+* Your Variant 
+
+
+Grandmaster Rajivari’s Opus
+Cost: 10 FP
+Prerequisite: Any 3 Shii-Cho Masteries,One Pinnacle/Mastery charm from another style, Firm Foundations 
+Duration: Instant
+Mins: Shii Cho 4, >3 in another style, Dexterity 5, Melee/Martial Arts 5, Force Sensativity 4
+The practitioner drops into a stance that is unmistakably a mark of mastery and alerts their opponent as their spirit creates a tidal wave in the force converting any of their Existing Tokens (up to a limit of your highest lvl in a scene) from any lightsaber style into any other style that you know in any permutation. This Technique must be done before combat has commenced and cannot be done subtly. Anyone observing this technique in combat who has been trained in Shii-Cho immediately becomes aware of its existence since the movement is so elegant and has the ability to purchase it, assuming they have the prerequisites. You may also use Hoth’s Steel and Hoth’s Fury at the same time and their duration is doubled.
+
+
+Grandmaster of Kai Kan
+Cost: --
+Mins: Shii-Cho 7, Makashi 7, Soresu 7, Ataru 7, Djem-so 7, Niman 7, Juyo 7, Dexterity 8, Melee/Martial Arts 8, Force Sensitivity 5
+(I) You no longer need to adopt a form stance to benefit from the passives and techniques of any style.
+(I) You no longer can be forced to lose control of your lightsaber. 
+(I) Entering and leaving saberlocks no longer cost you willpower.
+(I) You always begin combat with Advantage and you never can lose or be forced to lose advantage. Targeting the duelist with a technique that so has all of the normal effects of the affecting technique

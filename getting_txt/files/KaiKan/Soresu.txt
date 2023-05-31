@@ -1,0 +1,276 @@
+﻿Soresu
+The Way of the Mynock
+
+
+
+
+The Way of the Mynock is a form that concentrates on defense in close quarters combat. Reflexive Technique Limitations do not apply to Soresu stylists in Soresu stance.
+
+
+Soresu Gives Duelists a passive bonus to Def and Acc
+
+
+Advantage: Soresu Duelists with Advantage hit with all Reflex Attack rolls with 0 threshold successes. Additionally the speed of Reflexive attacks is rounded down instead of up. 
+
+
+Disadvantage: Soresu Duelists Striking from disadvantage have all their Passive Defense values for all purposes set to the worse of their PDV and DDV. 
+
+
+Mynock Alacrity
+   Cost:  7 FP
+Mins:  Soresu 1, Stamina 3, Melee/Martial Arts 4, ForceSensitivity 3
+Keywords: Reflexive
+Duration:  Soresu Turns
+Prerequisite: None
+Add your Soresu to your Parry DV for Soresu turns as long as you are in Soresu stance and taking Guard Actions. Breaking form or attacking cancels the effects of this technique.
+
+
+Mynock’s Pocket
+Cost:----
+MIns: Soresu 1, Sta 3, Me/MA 5, FS 3
+Keywords: Passive
+ You may now generate Soresu Tokens by entering Kai Kan combat in Soresu form. Every time you ‘enter” combat in this stance you gain your Soresu in tokens. 
+
+
+SaberLock Finesse: 
+   Cost:  10 FP per use.
+Mins:  Soresu 2, Stamina 4, Melee/Martial Arts 5, ForceSensitivity 3
+Keywords: Reflexive
+Duration:  Instant
+Type: Saberlock
+Prerequisite: Mynock Pocket
+The duelist twists their lightsaber unpredictably forcing even a stronger opponent to reassess their offense in saberlock. When In a saberlock you may use this technique to force your opponent to reroll any of their rolls for control of the saberlock for a maximum of Soresu total rolls or  for a single saberlock instance and take the worst of the results. (Spend 1 Token to force your opponent to disengage, Cancelling the saberlock by striking your opponent with your hilt. you may perform this at any time after a saberlock has been declared against you)
+
+
+Mynock Melee: 
+   Cost:  8 FP per attack
+Mins:  Soresu 2, Stamina 3, Melee/Martial Arts 5, ForceSensitivity 3
+Keywords: Reflexive Attack/Counterattack
+Duration:  Instant/1 tick
+Prerequisite: Saberlock Finesse
+As a reflexive attack you may hilt thump to the head of an opponent attacking you for D6 x Soresu or a minimum of your Force Sensitivity in damage. Must land to have effect. (Spend a Token to provoke a contested Dex+Awareness, if you win the roll you gain advantage against your opponent)
+
+
+diMynock Blur: 
+   Cost: (6 FP/1 Token) per Reflexive Attack against Flurry
+Mins:  Soresu 2, Stamina 3, Melee/Martial Arts 4, ForceSensitivity 3
+Keywords: Reflexive, Defensive
+Duration:  Instant/ 1 Tick
+Prerequisite: Mynock Alacrity, Force Precognition
+For the remainder of the scene you may spend the cost of this technique and initiate a reflexive attack against any opponent whose attack you successfully parry including flurried attacks as you perfectly predict and place your lightsaber in ways that allow precise attacks of opportunity. 
+ *Spend a Soresu token to negate FP cost*
+
+
+
+
+Mynock’s Winding Stance:
+Cost:X FP
+Mins Soresu 2, Mynock
+Keywords: Reflexive, Defensive
+Duration: Until Leaving Soresu Stance. Until Cancelled. 
+Prerequisite: Mynock Melee
+Duration: Instant
+After a successfully Blocked strike while in form. You may spend X FP and Roll XD(Soresu) and regain the result of that roll in Aitizen Immediately. May be stacked with another Soresu Technique. You may only use this technique Soresu times per scene.
+
+
+
+
+Soresu Perfect Defense
+Cost: 5 FP per use
+Mins: Soresu 2, FS 4 Me/MA 5
+Prereq: Mynock Winding Stance
+Duration: Instant
+Keywords: Perfect Defense
+Type: Reflexive
+Block any incoming non forceful attack while you are in Soresu Stance by spending 5FP and stunting defense. This Technique does not suffer from the Reflexive Limitation Rule. (you may spend a Soresu Token to ignore onslaught penalties until after your last perfect defense)
+
+
+
+
+Mynock Boogaloo[a]:
+   Cost:  3/6 FP
+Mins:  Soresu 2, Stamina 3, Melee/Martial Arts 5, ForceSensitivity 3
+Keywords: Reflexive
+Duration:  Instant
+Prerequisite: Soresu Perfect Defense
+ Spend 3FP to reflect any non-LIghtsaber attack back to its aggressor. Reroll Damage. (yes including non-ranged attacks), Spend 6 FP to direct the damage (if it is a blaster) directly back at the weapon itself and do damage to the weapon. (does not work against a lightsaber) *Spend a Soresu token to stack this with another Soresu Technique
+
+
+
+
+Mynock’s Fortune
+Cost: (1D6 + 3) FP
+Keywords: Opportunity attack, Defensive Reflexive
+Mins: Soresu 3, Me/MA 5 FS 4, Awareness 5, Sense 3
+Prereq: Mynock Boogaloo
+Duration: Instant
+While you are in stance and taking guard action, If up to Soresu enemy(s) make a movement action into or out of any space within 1 hex of your position you may pay the cost of this Technique to resolve an attack of opportunity against them as a Reflex Attack.  
+
+
+
+
+
+
+Hero’s Beckoning Glance
+Cost: 8 FP
+Mins: Soresu 3, Melee/Martial Arts 5 FS 3
+Keywords: Standard
+Duration: until cancelled, can only be cast once per scene.
+Prerequisite: Mynock Boogaloo
+The Duelist lowers their lightsaber to a point at up to 2*Soresu Opponents and beckons them into combat or they pay forcing all those opponents to Roll Wits+Soresu,  (Resisted by MDV) Targets may spend 1 WP to resist.  (Duelist can spend 1 WP to cause resistance to cost targets 2 WP)
+
+
+
+
+
+
+Formlicking Kick
+Cost: 9 FP + 1 Token + 1 Virtue Channel
+Mins: Soresu 3, Melee/MA 5, FS 4
+Keywords: Disadvantaging, Supplements Technique
+Duration: 1 tick
+Prereq: 
+This technique may be used to Supplement a kick or strike that causes an opponent to strike with disadvantage against you if it lands and does damage.If it lands you may spend a Soresu Token and mark a single target as having disadvantage against you in Kai Kan.
+
+
+
+
+Formlicking Parry
+Cost: 8 FP+ (1 Token/1 WP)
+Keywords: Disadvantaging, Defensive
+Mins: Soresu 3, Me/MA 5, FS 4
+Keywords: Supplemental Defensive
+Upon successfully parrying an opponent, declare this technique and roll your Perception+Soresu at a difficulty equal to your opponent’s Level in their current form stance. If you have Threshold successes greater than or equal to the difference in your levels in your current Form stance, You gain advantage against your opponent.
+
+
+
+
+FormShattering Kick:
+Cost: 5 FP + 1 Token +1 WP
+Mins: Soresu 3, Melee/MA 5 FS 3
+Keywords: Reflexive, Interrupt
+Duration:Instant
+Prerequisite: Mynock’s Winding Stance
+This Technique may be used as an interrupt as a response to an attack against the practitioner. You must have held action or taken defensive actions before activating this technique. You throw a single kick (which must connect with its target) to stagger an opponent. If the kick lands against the opponent their form is broken. 
+
+
+
+
+The Mind Bending Asymmetry Parry
+Cost: 10 FP + 1 WP + Advantage + Token
+Mins: Soresu 4, Me/MA 6
+Keywords: Reflexive, Interrupt
+Duration: Instant
+Prerequisite: Form Shattering Kick
+Use this Technique to reflexively cancel any technique or action with a lightsaber pommel strike to a pressure point of your choosing against an opponent in an adjacent hex. They still move forward however many ticks in the turn order that their action would have moved them. The technique your opponent would have executed goes to almost completion and is cancelled. They still pay the cost of their technique.
+
+
+Stunning Parry
+Cost: 5 FP + Advantage or (1 WP/1 Token    )
+Mins: Soresu 4, Stamina 5, Me/MA 5, FS 4
+Keywords: defensive, reflexive, Stunning
+Duration:n/a
+Prerequisite: Formlicking Parry
+After successfully parrying an incoming attack, provoke a quick contest of (Sta vs. Sta) if successful you may perform one of the following:
+
+    - Spend advantage to provoke a quick contest Dex vs. Dex, If the duelist wins, their opponent is disarmed and their lightsaber is sent Soresu hexes away breaking their form. 
+
+
+* Spend 1 WP/1 Token to “Stun” your opponent by moving them back Soresu ticks in the turn order.
+
+
+
+
+I’ve Got a Bad Feeling about this...:
+   Cost:  10 FP
+Mins:  Soresu 4, Stamina 4, Melee/Martial Arts 5, ForceSensitivity 3
+Keywords: Reflexive, Advantage
+Duration:  One Simple Action
+Prerequisite: Mynock Boogaloo
+Identify a single opponent at the beginning of combat. You may roll a D6, The result is equal to a number of incoming attacks from a single opponent you must successfully block to gain Advantage, After you have parried up to the result’s number of incoming attacks from that opponent and if you have remained in Soresu Stance throughout taking only defensive action or Soresu Techniques, You gain advantage. (Spend a token for every additional opponent for the same effect) This may be used once per scene.*Spend a Soresu token to stack this with another Soresu Technique
+
+
+Not One Step Back...:
+   Cost:  6 FP
+Mins:  Soresu 4 Stamina 4, Melee/Martial Arts 5, ForceSensitivity 3
+Keywords: Scene
+Duration:  Until defensive posture is abandoned
+Prerequisite: I’ve Got a Bad Feeling About This...
+ Adopt a Defensive posture, For every turn you take nothing but defensive actions you gain a +1 to your Defensive rolls and Parry DV. Up to a maximum of (Force Sensitivity+Soresu+Martial Arts) 
+________________
+
+
+Mynock’s Drop: 
+   Cost:  10 FP
+Mins:  Soresu 4, Stamina 4, Melee/Martial Arts 5, ForceSensitivity 3
+Keywords: Reflexive
+Duration:  ~Instantaneous
+Prerequisite: Not One Step Back...
+When an attack is incoming wristlock or Drop sweep an opponent and with one aikido-like movement throw them to the ground potentially breaking their form, Provoke a Dex+Athletics check for your opponent that cannot benefit from any Force Techniques or abilities. If they fail they have broken form. Each successive time this technique is used add your Soresu to the Dex+Acrobatics Penalty.
+
+
+Grand Deflecting Slash
+Cost: 5 FP + (1 WP/1 Token for Lightsaber Redirection, Channel for Redirection of Forceful Attacks) + (Advantage, Optional)
+Mins: Soresu 5, Me/MA 5 FS 4
+Duration: 5 ticks
+Prereq: Mynock’s Drop
+Keywords: Defensive, Reflexive Parry-Strike
+After having held for defensive action a Soresu duelist may reflexively execute a slash that redirects an attack to another target within range, if the incoming attack is a lightsaber strike the cost of the technique may be modified to redirect the attack of a number of different “types” of attack into a different target where it resolves as whatever attack it was intended as by the opponent. This technique may be used to redirect Forceful attacks for a similar modified cost. The Redirected strike may be sent back to its attacker if the duelist wins a quick contest of Dex+Soresu vs. Perception+Awareness. (Masters may spend a token to win this contest, All others may consume advantage to return attack to sender)
+
+
+The Everwinding Parry
+Cost: 9 FP + 1 wp
+Mins: Soresu 4, Sta 5, Me/MA 6, FS 4
+Keywords: Defensive, Reflexive, Combo-OK
+Duration: Instant
+Prerequisite: Mynock Drop
+You may declare this technique as soon as one enemy has decided to target you. This legendary technique is used to gather all the incoming attacks against you into a single channel in the force. Once the duelist has their senses attuned to the shimmer of this conduit they allow their blade to be guided to an aplomb arc or position in the force that intersects all the incoming attacks in an entire turn. Roll a single defense to the highest margin of success of all incoming attacks against you on the final tick of the turn, if you successfully parry this attack, all damage from all other strikes is ignored that turn. You do not suffer onslaught penalties. (this technique does not protect against forceful attacks)
+
+
+
+
+The Master Swallows the Whirlwind: 
+   Cost:  8 FP
+Mins:  Soresu 5, Stamina 2, Melee/Martial Arts 5, ForceSensitivity 4
+Keywords: Simple, Scene
+Duration:  5 Ticks
+Prerequisite: Everwinding Parry
+Adopt this stance (takes 5 ticks) and raise your lightsaber to a high position near your head and be prepared to deflect all incoming attacks including ones from behind. While this technique is active (and after the five tick activation) , all your movement is halved. You add 1+Soresu to each of your Parry DV for this scene. For every successful block spend 1 FP to immediately counterattack with a normal strike *Spend a Soresu token to stack this with another Soresu Technique
+
+
+* 
+
+The Mind Bending Asymmetry Strike:
+   Cost:  15 FP
+Mins:  Soresu 6, Stamina 5, Melee/Martial Arts 5, ForceSensitivity 4
+Keywords: Simple
+Duration:  Until flurry is complete
+Prerequisites: The Master Swallows the Whirlwind
+ This technique allows the practitioner to strike a group of closely packed enemies and attack each of them at a penalty equal to the number of enemies in the group with one single physics-defying attack that makes a bizarre whipping noise through the air simultaneously striking each enemy in the time it takes to strike one of them. While the practitioner is attacking the group he will have a bonus to blocking attacks coming from the group equal to + the number of members of the group. This strike is made against all enemies within one hex of each other and can affect up to Soresu targets.
+
+
+
+
+Soresu Mastery
+Cost:N/A
+Type: Passive, Mastery
+Mins: Soresu 7, Melee/Martial Arts 7, FS 4,
+Prereq: All Soresu Techniques
+Duration: Passive
+Soresu Mastery Allows the Soresu Duelist to roll a Perception Checks for Saber style against any and all saber-wielding opponents who rolled into initiative this combat as a free action once per turn. Learning their style this way means you gain Advantage. You may make opportunity attacks against opponents who move within 1 hex of you while you are in stance as a reflexive action. You may also cast Mynock’s Winding Stance and Form-shattering Kick from any other style. While in Soresu you do not suffer from Onslaught penalties to your PDV. Soresu Masters do not suffer from the Reflexive Technique limitation in any style. Soresu masters may perform Reflexive Attacks against any opponent who attacks them without suffering an onslaught penalty. Soresu Masters do not need to pay FP to activate Mynock Fortune or Mynock Blur.
+
+
+
+
+Soresu’s Form-licking Riddle
+Cost: 18 FP + 1 WP + 1 Token
+Type: Riddle, Reflexive, Supplemental, Saberlock*
+Mins: Soresu 7, Shii-Cho 7
+Prereq: Soresu Mastery, Shii-Cho Mastery
+Duration: Instantaneous
+A Perfect Block from a Master of the Soresu and Shii-Cho forms of Kai Kan Allows the Duelist to absorb advantage or disadvantage of their opponent upon a successful block of an attack. This technique may be used during a saberlock. (Use of this technique on non-opponents must be stunted.)
+
+
+
+
+[a]anti cheese name change:   kiinteä

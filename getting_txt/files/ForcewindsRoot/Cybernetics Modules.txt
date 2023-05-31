@@ -1,0 +1,32 @@
+﻿All modules can be crafted with some form of extended roll and cost experience to install into your body. 
+
+Executables are considerably more expensive and require WP to activate. All Executables require a harness and a module to install. Each executable harness can be slotted in whatever part of the body has cybernetics to support it. 
+
+Crafting Harnesses and Executables.
+Each roll to craft these take a minimum to 1 hour and consume a number of component packs equal to the TL (Tech Level) of the harness they are being installed into. You may not install cybernetics with non matching TL’s to one another.
+
+You cannot install more cybernetics harnesses than you have FS points. Harnesses installed in a number exceeding your FS reduce your FS proportionally.
+
+Skill Executables are minimum difficulty of the level in your skill to install with your 3xlvl equal to the number of total successes .
+
+
+Attribute executables are the minimum difficulty of the level in your skill to install with your 3xlvl equal to the number of total successes . 
+
+
+Crafting executables to lower this difficulty are simply not allowed. This is what engineering stations are for. 
+
+
+What is an executable/module?
+
+Executables are a technological device normally installed into the firmware of a droid to assist in tasks normally accomplished by biological life forms. Executables however offer a uniquely refined augmented set of instructions to its installed harness that offer far more precision and predictability to whatever task they were designed for, allowing for the user to receive Automatic successes equal to the TL of the Harness and installed executable. 
+
+XP Costs
+
+All Attribute Harnesses cost 3*FS*Level XP to Install to the body.
+All Skill Harnesses cost FS*Level XP to install to the body. 
+
+Damage to Executables and Modules
+Instances of Damage to implanted electronics occur whenever you receive an instance of aggravated damage. Implants have HP equal to their total difficulty to construct, Crafting may be modified to increase the HP of a specific module by increasing the quality of the consumed materials or by increasing the total successes needed to craft by Difficulty*(Desired HP increase), all cybernetics and installed modules have a base HP of their difficulty and take damage according to GM discretion.  
+
+
+Note: While you have Cybernetics installed and are taking damage from an electrical source you treat that damage as aggravated.

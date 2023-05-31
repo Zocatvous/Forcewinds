@@ -1,0 +1,86 @@
+﻿KAIBEN RITUALS
+
+
+Since Kyber crystals are living beings, they effectively have a character sheet. While Essence they contain can be pliable their Potency is effectively their FS. All of their effects can be changed in the same way and using the same Iloan Sorcery Rituals that would increase the stats of a normal character.Crystals with diametrically opposed force alignments will negatively effect one another's performance if they are implemented side by side. Side-by-side implementation of a crafted kyber crystal is when the crystals are in physical contact or when they are being used in the same device or their power is being channelled in any way towards a singular purpose.
+
+
+However, the different aspects of a crystal may not all be accessed at once unless you have particularly attuned the crystal for that effect. There several types of Kaiben Ritual that you may perform to change, attune, or enhance the crystals power. All uses of Kaiben must begin with some form of attunement before any further crafting or changes can be done to the crystal. Rituals requiring attuned kyber are marked with *
+
+
+Kaiben’Saithu (Attunement)
+Attuning a crystal can be done by rolling the respective die pool as an extended roll each cast costs Potency FP and can be done one of two ways Perceptive and Coercive (Bleeding). The type of attunement must be declared before interacting with the crystal for attunement purposes.
+
+
+Perceptive
+ (Sense+Awareness) or Force Empathy uncover the Virtues in a Crystal and roll Sense+awareness. Difficulty is Equal to Potency TS Equals Potency. Force Empathy can be used to determine the Virtue and Level of a crystal, Costs for knowing both may be distinct.
+
+
+Coercive (Bleeding)
+(Control +Awareness) or Force Drain Knowledge may be used to receive knowledge of the Virtue within the Crystal AND its potency. The difficulty for all rolls and total successes is equal to potency. Upon final Bleeding of the Crystal the Kyber will glow a distinctive red, and may be rewritten with a virtue of your choosing up to a maximum of your level in that virtue, that virtue becomes the Potency of that crystal. 
+
+
+Once either of these rolls has been performed the crystal is prepared to be crafted according to the crafter's will or the will of the crystal. Each has alignment implications for the crafter. And once the crystal has been Attuned it may be used in crafting or subjected to further alteration.
+
+
+Attempting to rewrite the virtues within a crystal is a dark side action (Any of Control, Alter etc.).
+Attempting to utilize the crystal’s innate virtues is a light side action (Any use of Sense, Perception) 
+
+
+Kaiben Crafting*
+Once a crystal has been Bled or Attuned it’s properties may be focused into a specific purpose for either Artifact construction or other purposes. The following is a table of crafting rolls that may be used to focus kyber into uses for lightsaber construction or modification.
+
+
+FP effects (Sense+Craft) Diffuculty = FS of Crystal (potency) w/ FP pool total successes
+Aitizen Effects (Alter+Craft) Difficulty = Alignment of Crystal w/ FP pool total successes
+Attribute Effects (Wits+Craft) Difficulty FS of Crystal w/ Bonus Desired*FS total successes. 
+Damaging/Defensive Effects (Control+Craft) Difficulty Potency of Crystal w/ (Bonus 
+Desired)*FS Total Successes for a minimum bonus of 1d(Caster FS+Craft-Failures) Bonus increase
+Virtue Effects (Virtue+Craft) Difficulty Potency w/
+
+
+Other effects such as can be described with a static contested or given die pool are computed as such.the die pool for this crafting roll is (GM discretion+Craft) 
+
+
+Difficulty FS Total successes = (die pool desired for roll limited by Casters FS+Craft)*Potency
+
+
+Kaiben Khun*
+Increasing the potency of a crystal must be done with this Ritual after attunement. The cost is (Potency)D6 FP and (Potency)WP per cast to enrich. Difficulty is equal to potency and total successes are equal to Potency. The crafting Die pool is equal to the Attunement die poll used for the Crystal - If Force Empathy is used the  and a bled crystal will not submit to any Khunmal weaker than its virtues if you wish to use a different die pool to craft your crystal and preserve its essence
+
+
+Kaiben’Hok*
+Reducing attuned Kyber to dust in the ritual of Kaiben’Hok is incredibly difficult and Consists of a number of Crafting rolls equal to the Potency of the crystal.The Ritualist must complete Potency Difficulty Bouts where the Threshold of Difficulty is equal to the Potency of the Crystal. if the crafter fails to achieve the number of successes in the maximum allowable rolls, the ritual fails and the crafter either incurs a roll on the respective stigmata table (See Rituals) OR they risk the reduction in the Potency of their crystal based upon their margin of failure, Ritualist’s Choice. Any Botch or failure that is rolled during the course of the ritual causes a failure of the ritual and a loss of 1 Level of Potency of the Crystal and causes the number of consecutive successful Bouts to Zero. Additionally, the Ritualist may choose to reset the Bout count of a crystal to Zero by channeling a virtue into the crystal in the opposite of its force alignment.
+
+
+Each Successful bout of this Ritual Reduces the Potency of the Crystal by 1 Level and generates approximately Potency^(Successful Bouts) of Kyber dust. 
+
+
+One Successful Performance of the Kaiben’Hok Ritual constitutes Successfully rolling (Wits/Int)+Craft (Potency) Times,  making at least (Potency) Successes per Round.
+
+
+The Difficulty Associated with the Rolls Does Not Decrease Each Round, If you choose to record stop performing Kaiben’Hok mid Ritual - you must notate the original Potency and how many Successful Bouts have been performed on it. Otherwise a Crystals Bouts are Zero. 
+
+
+Threshold successes remain pinned at the original potency of the crystal. Channels may be declared to supplement your die pool during Kaiben’Hok, You may only channel Virtues Whose force alignment Aligns with the Attunement Type of the crystal you are performing a ritual on. (I.e Hate for a Bled Crystal, Valour for an Attuned Crystal)
+
+
+Each Roll Takes an Hour of In Game Time.
+
+
+Example of a Fully Successful Kaiben’Hok on a Potency 7 Kyber
+Potency 7 Crystal Round 1, Rolling >7 Successes = 59 Kyber Dust
+Potency 6 Crystal Round 2  Rolling >7 Successes = 443 Kyber Dust
+Potency 5 Crystal Round 3  Rolling >7 Successes = 3,375 Kyber Dust
+Potency 4 Crystal Round 4 Rolling >7 Successes = 25,725 Kyber Dust
+Potency 3 Crystal Round 5 Rolling >7 Successes = 196,070 Kyber Dust
+Potency 2 Crystal Round 6 Rolling >7 Successes = 1.4 M Kyber Dust
+Potency 1 Crystal Round 7 Rolling >7 Successes = 11.3 M Kyber Dust
+
+
+Example of a Partially Successful Kaiben’Hok on a Potency 5 Kyber
+Potency 5 Crystal Round 1, Rolling >5 Successes = 47 Kyber Dust
+Potency 4 Crystal Round 2, Rolling >5 Successes = 321 Kyber Dust
+Potency 3 Crystal Round 3, Rolling <5 Successes = 0 (Set Potency Equal to 3, Bouts Equal 0)
+Potency 3 Crystal Round 1, Rolling <3 Successes = 37 Kyber Dust
+Potency 2 Crystal Round 2, Rolling <3 Successes = 221 Kyber Dust
+Potency 1 Crystal Round 3, Rolling <3 Successes = 1,331 Kyber Dust

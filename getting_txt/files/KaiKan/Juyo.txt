@@ -1,0 +1,315 @@
+﻿
+
+VOXYN STYLE
+Voxyn’s Grin:
+Cost: 5 FP + 1 Token per targeted opponent 
+Mins: Juyo 1, Dex 5, Melee/MA 5, FS 4
+Type: Passive, Reflexive
+Prereq: None
+The duelist is best suited to combat scenarios where they are surrounded. The duelist marks up to Juyo combatants with tokens. For the remainder of combat the duelist has up to Juyo automatic successes against each marked opponent during their attack phase.Tokens effects are cancelled and tokens are lost if your form is broken. 
+
+
+Predator Slash
+Cost: 8 FP
+Mins: Juyo 1, Dex 5, Melee/MA 5, FS 4
+Type: Supplemental Flurry, Dual Bladed
+Prereq: Voxyn Grin
+The Duelist deactivates their lightsaber and may reactivate it at any time during the course of a flurry that meets the rate of their weapon. The duelist provokes a contested Per+Awareness vs. Man+MA/Melee, if the duelist wins the contest the final strike in the flurry is resolved as a surprise attack and cannot be blocked or dodged. 
+
+
+*Voxyn Slash
+Cost: 15 FP + 1 WP
+Mins: Juyo 1, Dex 5, Melee/MA 5, FS 4
+Type: Simple, Dual Bladed
+Prereq: Voxyn Grin
+The Practitioner executes a deceptive attack flourishing their blades to provoke a contested Per+Awareness roll against the Practitioners Dex+MA, Making one of their blades appear to be an attack while secretly following up the attack with a second attack that is Unblockable, Unsoakable, and Uninterruptible.
+
+
+Voxyn Freefall: 
+Cost: 5 FP per (-1)
+Mins: Juyo 1, Dex 5, Melee/MA 5, FS 4
+Type: Supplemental,
+Prereq: Voxyn Slash
+For every Successful strike that applies lethal damage against an opponent while in Juyo form stance. The practitioner may choose to give a -1 to a particular opponent's active defense up to their Juyo. May only be activated once per opponent. Applies to all opponent defenses. This debuff is cancelled if an opponent breaks the duelists form or is removed by the opponent breaking form.
+
+
+Voxyn Bladesinger:
+Cost: 12 FP
+Mins: Juyo 1, Dex 5, Melee/MA 5, FS 4
+Type: Dual Bladed, AOE Strike
+Prereq: Voxyn Freefall
+The duelist windmills their lightsaber around their body and flurries up to their weapons rate at every opponent within 1 hex of their position. 
+
+
+Voxyn Weaving Strike
+Cost: 10 FP
+Mins: Juyo 1, Dex 5, Melee/MA 5, FS 4
+Type: Normal/Alternative Strike, Dual Bladed, Passive
+Duration: 5 Ticks
+Prereq: Voxyn Bladesinger
+The Duelist may perform a flurry on many foes in single path distributing strikes at their pleasure in any combination so long as: 
+- the enemies are separated by no more than Juyo hexes,
+- they are limited to the rate of their weapon.
+The duelist may place themselves in any adjacent hex to the enemy at the end of their path. 
+
+
+
+Vornskyr Striker
+Cost:  12 FP/strike
+Mins:  Juyo 2, Strength 3, Dex 3, Melee/Martial Arts 5, Force Sensitivity 4
+Type:  supplemental
+Keywords: Supplemental
+Duration: N/A
+Prerequisite Charms:none
+This technique will allow you to exchange the successes any damage roll that successfully hits the opponent while the form is still active to roll on a d(Juyo) and have the result of that roll become the damage dealt for that attack. (Spend token to reroll this damage)
+
+
+Vornskyr Cunning
+Cost:  10 FP
+Mins:  Juyo 2, Dexterity 3, Melee/Martial Arts 5, Force Sensitivity 4
+Type:  Supplemental
+Keywords: Reflexive, Telegraph
+Duration:  Instant
+Prerequisite Charms: Vornskyr Striker
+This charm lets you reroll all damage done in Kai Kan as a reflexive action as long as the form is still active to apply a second time after any attack. This may only be activated once per scene. (Reroll your damage phase again for every additional blade you are wielding.)
+(Spend a Token to roll to stack existing advantage rolls for a maximum of 3 rerolls for damage)
+
+
+The Dwelling Blades
+Cost:  12 FP
+Mins:  Juyo 2, Strength 4, Melee/Martial Arts 5, Force Sensitivity 4
+Type:  
+Keywords: Supplemental, Passive (allows you to use Juyo while using a dual bladed saber)
+Duration:  One action,second strike 1 Tick after first strike
+Prerequisite Charms: Vornskyr Cunning
+This charm allows you to supplement any attack made while Juyo form is active. And also allows you to wield a double bladed lightsaber whose blades are on opposite ends of the hilt. This technique will allow you to (after having successfully made a damaging attack) replicate the damage of that attack in the next tick.(spend a token to perform this attack again).  
+
+
+Vorynskyr’s Teeth
+Cost : (X)*(Aitizen +FP) per application to a strike or (X)Juyo Token per where X is the number of casts.
+Mins: Juyo 2, Me/MA 6, Wits 5, FS 4
+Type: Supplemental
+Duration: N/A (lasts for a single strike)
+Prerequisite Charms: Dwelling Blades
+This technique can be cast as many times as the practitioner likes to increase the number of damage dice for a single attack by Juyo x (number of casts of Vornskyr’s teeth). You are limited to a maximum 2 x Juyo applications of the technique per strike.
+
+
+Vornskyr’s Cackling Vengeance
+Cost: 10 FP
+Mins: Juyo 2
+Type: Passive
+Duration: Duration of Juyo Stance
+Prerequisite: Vornskyr’s Teeth
+This technique can be activated as long as the practitioner is in Juyo Stance as a reflexive action. For every kill that the practitioner makes in the 
+
+
+Exmun’s Perfect Kata
+Cost:  12 FP
+Mins:  Juyo 2 , Wits 5, Melee/Martial Arts 5, Force Sensitivity 5
+Type:  Scene
+Keywords: --------
+Duration:  Juyo* Turns, 2 tick activation
+Prerequisite Charms: Vornskyr’s Thrice Bourne Axiom 
+This technique allows you to take your Weapon’s base accuracy as bonus dice for the damage phase each attack for (Juyo) turns. The kata can only be activated once per scene.
+
+
+Leaping Massacre: 
+Cost:  12 FP
+Mins:  Juyo 3, Dexterity 5, Melee/Martial Arts 6, Force Sensitivity 4
+Type:  
+Keywords: Reflexive
+Duration:  Instant
+Prerequisite Charms: The Dwelling Blades
+This charm allows you (upon successfully killing an opponent in a single blow) immediately make an Acrobatics+Dex check to leap towards where the next opponent is. The opponent must be within (Acrobatics+Dex)*(Force Sensitivity) yards. (Spend a token to instantly kill your next opponent if they are not in an active form charm and do not break your form before you land your strike.)
+
+
+Become Vornskyr’s Writhing Tail:
+Cost:  12 FP
+Mins:  Juyo 3, Dodge 5, Melee/Martial Arts 6, Force Sensitivity 4
+Type:  Defensive
+Keywords: Reflexive
+Duration:  Instant
+Prerequisite Charms: Leaping Massacre
+ This charm can be used to perfectly dodge an incoming attack as long as the number of successes on a roll of (Perception+Juyo) exceeds the number of attacks incoming in a single tick. 
+
+
+The Vornskyr’s Slither: 
+Cost:  16 FP
+Mins:  Juyo 3,  Wits 5, Melee/Martial Arts 7, Force Sensitivity 5
+Type:  Saberlock
+Keywords: Reflexive
+Duration:  Instant
+Prerequisite Charms: Become Vornskyr’s Writhing Tail
+This charm allows the practitioner to blindly dislocate themselves from the intense focus of the saberlock. If ever a saberlock is initiated by an opponent. This charm allows the Juyo practitioner to at any time during the saberlock inexplicably “phase” through their opponent and place themselves behind them in a position to surprise their opponent with their a and make a single normal attack. If the attack does damage, You have broken your opponents form.You must NOT be in control of the saberlock to attempt this technique. If you enter a saberlock and gain control you cannot “choose” to lose control of the saberlock without prompting a Per+Awareness roll from your opponent (Diff Juyo). If they succeed in this roll, this attack does not break your opponent's form.
+
+
+Vornskyr’s Thrice Bourne Axiom
+Cost:  16 FP
+Mins:  Juyo 3, Strength 3, Melee/Martial Arts 7, Force Sensitivity 4
+Type:  Simple
+Keywords: Reflexive
+Duration:  One Scene, 1 tick activation
+Prerequisite Charms: Vornskyr’s Slither
+   Must be activated before any combat begins. This technique alerts your opponent to a Juyo stance at the beginning of combat. This Technique can have one of three affects
+* Nullify the effects of any one Soresu or Ataru Technique Instantly and without warning at some point during the combat 
+* Add your Juyo in bonus successes to Damage phase of an simple attack
+* Add your Juyo in bonus successes to Accuracy phase of an simple attack
+You are limited to one activation of the thrice bourne axiom per scene.
+(Spend a single token to apply one of the three axioms again during combat and ignore this limitation)
+
+
+
+
+The Vornskyr’s Malevolent Maw: 
+Cost:  8 FP
+Mins:  Juyo 3, Wits 5, Melee/Martial Arts 7, Force Sensitivity 5
+Type:  Passive
+Keywords: --------
+Duration:  ------------
+Prerequisite Charms: Vornskyr’s Thrice Bourne Axiom 
+This charm allows the practitioner to accumulate Juyo Tokens by killing opponents with their lightsaber in combat. Tokens are accumulated immediately and are increased to 2 x Level in Juyo. 
+
+
+Vornskyr’s Grin
+Prerequisite Charms: Vornskyr’s Malevolent Maw
+You are immune to the effects of Blademaster’s Eye,  and your Juyo is added to your Dodge MDV to conceal your style from prying opponents.
+
+
+
+Sujinu Stance
+Cost: 12 FP per activation
+Mins: Juyo 4, War 4, Awareness 4, Martial Arts 5
+Prereq: All Vornskyr and Voxyn Tech. 
+Keywords: Reflexive
+Duration: N/A 
+Step into Juyo style by rolling your Join Combat without alerting anyone. Once you have activated this technique, you may spend a token to reroll your Join Combat, you may do this up to Juyo times per combat as a Reflexive action. Does not bypass the Reflexive technique limitation rule.
+By executing technique you are placed on the turn order for combat but you cannot make offensive
+
+
+Kanku-Dai Jinju
+Cost: 7 FP
+Mins: Juyo 4, War 5, Awareness 5, Martial Arts 5, Stealth 5
+Prereq: Sujinju-Aurek
+Keywords: Advantaging, Reflexive, Triggering
+Duration: Until Triggered
+Activate this technique by designating an opponent with whom you suspect you will enter Kai Kan against. If they execute the first offensive technique against you while you are both in Kai Kan. They Gain Disadvantage, Your next offensive Technique that does Aitizen or Lethal Damage grants you Advantage. 
+
+
+Sujinju Soulshatter Strike
+Cost: 7 FP + Advantage
+Mins: Juyo 4, War 5, Awareness 5, Martial Arts 6, Stealth 6
+Prereq: Kanku-Dai Jinju, Force Precognition, Force Sight
+Keywords: Advantage, Unblockable, All out
+Duration: 4 Ticks
+The duelist executes an unblockable strike as an all out attack against an opponent as a simple action by rolling their blade at the last moment into the body of their opponent. (Optionally Spend a Token to Double the Damage Dice of your attack.)
+
+
+Shadowstep Footwork
+Cost: N/A
+Mins: Juyo 4, War 6, Awareness 5, Martial Arts 6, Stealth 6
+Keywords: Advantage, Passive
+Prereq: Sujinju Dai Khun
+You are an Adept of the Shadowstep Style of Lightsaber Combat, While you have advantage and are in Sujinju Style Stance with a Full Token Pool, Opponents must pass a (Wits/Sense)+Awareness at Difficulty Juyo in order to Parry your attacks this includes reflexive techniques and perfect defenses. 
+
+
+Shadowstep Bladework
+Cost: N/A
+Mins: Juyo 4, War 6, Awareness 6, MA 6, Stealth 6
+Keywords: Advantage, Passive
+Prereq: Shadowstep Footwork
+While you have advantage and are in Sujinju Style Stance with a Full Token Pool, Opponents must pass a (Wits/Sense) + Awareness check at Difficulty Juyo in order to Dodge your attacks. 
+
+
+The Gaze of Black
+Cost: 1 WP + Channel* + 1 Token (Optional)
+Mins: Juyo 5, War 6, Awareness 6, MA 6, Stealth 6, Presence 5
+Keywords: Advantage, Saberlock (May be used out of Saberlocks)
+Prereq: Shadowstep Blade, Force Fear/Simulfuturus
+The Askaji Sorceresses taught subtle uses of Illusion during the Dance to ensnare their opponents. While you have advantage and while in Saberlock or after having parried an opponent's attack, you manifest an illusion of a black veil of unlight descending over your eyeballs. Your opponent must spend 1 WP or roll their Wits + Valour (no other virtues apply)  (Diff 5) to resist shutting their eyes for Juyo Turns. Opponents with their eyes shut during Kai Kan must make a Sense+Awareness roll difficulty of their opponents Form Style level to dodge or parry any incoming attacks. Blind Opponents are immune to The Gaze of Black (Spend a Token to Double the WP cost of defending against this technique)
+
+
+The Deathstep Lullabye
+Cost: 10 FP + (Optional, 1 Token)
+Mins: Juyo 5, War 6, Awareness 6, MA 6, Presence 5
+Keywords: Advantage, Targeting, Reflexive
+Prereq: The Gaze of Black, Force Speed, Force Horror
+Duration: Instantaneous
+ A shimmering veil surrounds your body as you step into perfect alignment within one hex of your opponent catching their gaze while singing the tune of the Deathstep Lullabye, The Lullabye can only be heard by a single opponent. Your opponent makes a Sense+Awareness check at Difficulty Juyo to close their eyes otherwise you make eye contact. Opponents may not look away as the notes of the Lullabye mutate the streams of the force surrounding the opponent. Whenever you make eye contact with an opponent for the rest of the combat scene as long as you have not broken form they make a Wits + Integrity Diff Juyo, if they fail they lose 1 WP. You may attempt this technique reflexively as long as you have advantage. (Optionally Spend a token when activating this technique to double the WP cost for your opponent.)
+
+
+The Dance of Blind Everhence
+Cost: 15 FP 
+Mins: Juyo 6, War 6, Awareness 6, MA 6, Presence 6
+Prereq: The Deathstep Lullabye
+Keywords: Flanking, Advantage, Reflexive, Defensive
+Duration: Instantaneous
+While you have advantage, when you dodge any attack you may Roll your Dex+Stealth+Juyo at a difficulty equal to your opponent's active Form level.
+If you succeed you flash step to the hex behind your enemy and make your threshold successes in attacks to your opponent instantaneously as surprise attacks, The number of attacks are not limited by the rate of your weapon.
+
+
+Secret of the Whisperwoken Abyss
+Cost: N/A
+Mins: Juyo 6, War 6, Awareness 7, MA 6, Presence 7
+Prereq: Dance of Blind Everhence
+Duration: Until Eyes are Opened
+To utilize this technique, Close your eyes while in Kai Kan. While your eyes are closed you must make (Wits/Sense) + Awareness checks at a difficulty equal to your opponents Current Form Level to Defend or attack opponents. While your eyes are closed and In Juyo Stance, Successfully Dodging, Blocking and Striking to do damage grants you advantage in Kai Kan. Additionally any active debuffs to your die pool are counted as bonuses to all your die pools while in Juyo Stance.
+
+
+
+
+Juyo Mastery
+Mins: Juyo 7, War 7, Awareness 7, Martial Arts 7, Presence 7, Stealth 7, Dex 7, Manipulation 7, FS 6
+Type: Mastery
+Prerequisites: All Voxyn, Vornskyr, Sujinju-Sho Techniques
+You Have mastered the Ferocity Form of Lightsaber Combat. You may now pay 1 WP at any time during Kai Kan against a single opponent to initiate a quick contest of Wits+Presence against an opponents in Kai Kan as a free action against your opponents to cause them to lose 1 WP, Lose saberlocks, and/or gain Advantage in any combination. While you have advantage your strikes cannot be dodged while in any other style, While you are in Juyo Stance with advantage your Strikes cannot be blocked or dodged. While you are in Juyo stance with Advantage, Full WP, Tokens and Aitizen. You cannot be sensed in the Force while in Juyo stance, You are completely silent and may add your Juyo in dice to any attempt at stealth. 
+        You no longer suffer from the consequences of All-Out Attacks. Your Style is Always concealed from opponents who lack any Mastery with a precombat roll Diff 100. 
+
+
+Juyo Master Strike
+Cost: 35 FP + 1 WP + 1 Token
+Mins:Juyo Mastery
+Prereq: Force Breach
+Type: Supplemental
+Keywords: Stealth, Maximum Damage
+When executing a single stealthy attack against an unsuspecting opponent. In Juyo stance, You may supplement any single attack as a Maximum-damage attack where the damage you make against your opponent is calculated as if all dice came up as 10.
+
+
+
+
+Juyo’s Innerwinding Riddle
+Cost: 10 FP + 1 WP + (Disadvantage/Advantage)
+Mins: Juyo Mastery
+Duration: Scene
+Prereq: <1 in all Forms of Kai Kan
+Type: Disadvantaging, Advantaging, Riddle
+Masters of the Assassin’s Form of Kai Kan view disadvantage and advantage more as a point of view. While in Juyo stance you may pay the cast of this technique to convert Disadvantage to Advantage for yourself at will as a reflexive technique. Or for an opponent by triggering a quick contest of Wits vs. Presence after paying the cost of the technique to give Either to a single other target in Kai Kan.
+
+
+
+
+Vaapaad Stance:
+Cost:  25 FP + 1 WP to activate
+Mins:  Shii Cho 4, Makashi 2, Ataru 2, Niman 2 Juyo 5, Wits 7, Melee/Martial Arts 7, Force Sensitivity 6, Non-Gray Force Alignment
+Type: Stance, 
+Keywords: Stance, Meditation, Vaapaad
+Duration:  5 tick activation
+Prerequisites: Jar’Kai Attunement, Battle Meditation, One Juyo Mastery
+The duelist steps into a rare form of Juyo that allows the duelist to cross into several other styles as well as draw upon both sides of the force in combat. All of the Duelists Token Pools are drained to Zero except Niman, and you are unable to generate tokens for 24 Hours. This Kai Kan stance counts as a form of normal meditation as the eyes of the duelist adopt the color of their lightsaber; You may roll every 7-Juyo Turns to regain FP. Additionally the duelists force alignment and polarity count as both Light and Dark for the duration of the form stance allowing the duelist to purchase Force abilities from either alignment.*[a]
+
+
+
+
+Vaapaad Conniption:
+Cost: 1 Valour/Hate*[b] Channel 
+Mins: at least Dark I/Light I
+Type: Scene
+Keywords: Scene, Reflexive, Vaapaad
+Prerequisite Charms: Vaapaad Stance
+This technique allows the practitioner to use techniques from the Niman Jar’kai Attunement style, This technique allows the user to spend A virtue channel instead of force points to execute their techniques or force powers.
+This cost negates any FP cost associated with a technique/force power and does not ignore costs not associated with FP. Does not ignore Sphere costs for casts within Form. 
+* With every force power cast this way Roll your Force alignment in d10.
+ Additionally , if you ever deplete either your virtue channels, FP pool, or Aitizen after using Vaapad Techniques in Juyo Stance, Roll your alignment.
+On a failure, the GM Rolls Stigmata according to your alignment or its opposite, GM discretion (See Rituals)
+On a botch your channelled Virtue subsumes your spirit and flips your alignment while your channelled virtue becomes its natural opposite according to GM discretion, Hate to Valour, Anger to Compassion, etc.  
+[a]You may not be able to cast your abilities once this stance is abandoned
+[b]Other virtues may be used at GM descretion

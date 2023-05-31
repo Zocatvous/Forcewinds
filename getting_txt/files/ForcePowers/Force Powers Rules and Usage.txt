@@ -1,0 +1,13 @@
+﻿All Force Powers can only be cast as A single action. All Force power activations count as a simple action and their effects are felt immediately. 
+
+
+
+
+Iloan Sorceries Must all be practiced and learned and require the prerequisite “realms” in Jiigo to execute. 
+
+Gol-Kai
+Transfer your Alter*Alignment in FP to saturate a target area with Dark or Light side energy, allowing a bonus for powers of that alignment to be cast using the saturated energy of the area as a resource as long as the caster succeeds on a perception+sense roll at the beginning of the cast and the cannot benefit 
+
+
+Ennea-Kai
+Split the confluent aligned forces within your own spirit and manifest them into a Jiigo vessel prepared to Accept it on a Alter+Life>=Essence, and the Control+Matter>=Essence. Roll of  designed to receive it. Roll to create the Ennea

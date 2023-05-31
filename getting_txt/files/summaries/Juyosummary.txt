@@ -1,0 +1,30 @@
+Juyo
+
+
+The Way of the Vornskyr is the most aggressive and vicious form of lightsaber combat. It is often only taught to a select few jedi, and favored by Sith.
+
+
+Techniques marked by * must be stunted.
+
+
+Juyo practitioners should have 75% of their normal Aitizen in combat
+
+
+* All Lightsaber combatants who roll perception to determine that this style is being used must also have at least one level in Juyo to learn that it is their opponent's stance.
+* Juyo Confers a substantial increase to your passive damage and accuracy when in stance.
+* Practitioners generate their level in Juyo tokens by killing their first  opponent per scene while in stance. 
+
+
+Advantage: Rolling with advantage in Juyo allows the duelist to reroll their Accuracy or Damage as they attack and take the better of the two. When you have advantage against an opponent in Kai Kan, Successes for accuracy and damage are now resolved on a value of 6+. Rolls of 10 still count for two successes during accuracy rolls and damage rolls.
+
+
+Disadvantage: Rolling with disadvantage in Juyo forces all of your attacks to be All out Attacks forfeiting your opportunity to block or dodge.
+
+
+
+
+Sujinju-Shadowstep Style 
+The Dance of the Askajian Sorceress
+
+
+The Unrelenting Shadowstep Dance of the Askajian Sorceress gave birth to this Style of Juyo Lightsaber combat they are renowned for their association to the Assassins who co-opted the Jinrai Ataru Variant Style. It’s complex footwork makes its techniques notoriously difficult to defend against and Its techniques are a mixture of dominant stances and unblockable attacks. Relenting while in Sujinju stance by blocking attacks breaks the rhythm of the dance and Breaks your Form. All techniques in the Sujinju style are invisible in the force rendering interrupts and precog inapplicable for detecting their movements.

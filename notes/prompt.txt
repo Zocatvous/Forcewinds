@@ -1,0 +1,101 @@
+Hey GPT - I need your help adapting my 'run_combat' method on my turntracker object so that I can associate the strings passed to the players field into have a series of features that they dont have yet. lets start with the TurnTracker object code i just sent.
+
+
+
+
+
+I need to create two different "Objects" that will create an object that will have a number of attributes and affect this 
+TurnTracker object and affect a number of "player" objects
+
+
+Power objects can have two types - and Im really not sure If I should have these be seperate objects or different versions of the same object or if Im thinking too hard about that. I need them to be able to be consumed by the "turn tracker" Objects "run_combat" method.
+
+a "technique" power object will have these attributes:
+
+cost:
+minimums
+Keywords:
+duration:
+activation_time:
+prereqs:
+effect:
+
+a "force power" object has 
+prereqs:
+Cost: 
+Die Pool:
+Activation Time:
+Targets: 
+Defenses: 
+Range:
+Effect:
+
+a Player object has 
+
+hp: calculated field
+aitizen: calculated field
+fp: calculated field
+
+St: int
+Dx: int
+Sa: int
+Cha: int
+Man: int
+App: int
+Per: int
+Int: int
+Wits: int
+
+xp: int
+
+Marksman: int
+Martial Arts: int
+Melee: int
+Thrown: int
+War: int
+Integrity: int
+Performance: int
+Presence: int
+Resistance: int
+Survival: int
+Science: int
+Investigation: int
+Lore: int
+Medicine: int
+Astrogation: int
+Athletics: int
+Awareness: int
+Dodge: int
+Larceny: int
+Stealth: int
+Bureaucracy: int
+Linguistics: int
+Drive: int
+Pilot: int
+Socialize: int
+Computers: int
+Engineering: int
+Craft: int
+MDV: calculated field
+DDV: calculated field
+PDV: calculated field
+
+
+
+Sense: int
+Alter: int
+Control: int
+
+Alignment: string
+Force Sensitivity: string
+
+
+Shii Cho: int
+Makashi: int
+Soresu: int
+Ataru: int
+Djem So: int
+Niman: int
+Juyo: int
+
+techniques - a nested dict of "techinque" objects that will have all the attributes of a "power"object. 

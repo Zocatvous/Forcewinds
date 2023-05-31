@@ -1,0 +1,172 @@
+﻿The Art of Kai Kan 
+
+
+There are a number of mechanics that make Kai Kan different than normal combat in Storyteller 2e. Both Combatants must have Precognition and a form appropriate lightsaber in order to even participate.Since both combatants are precognitive and aware that their opponent is precognitive, combat is subject to many subliminally subtle details in technique. 
+
+
+Aitizen - The Aitizen is your “poise” or resilience score analogous to HP while in Form stance that is only available to practitioners of Kai Kan  which is eroded by taking damage of different types throughout the combat. All damage is subtracted from this “duel score”, so long as the character is in a stance unless otherwise specified. This includes all damage from sources outside of your duel, including explosions and blasters etc. Beware: some techniques allow Kai Kan opponents to bypass Aitizen. 
+
+
+If a person is reduced to 0 Aitizen they will take damage directly to health instead. Switching styles mid combat does not heal you for any lost Aitizen but you switch from a style you know less to a style you know more to greatly increase your effective pool. Aitizen is tracked separately for each Form and changes depending on what style you are using. Think of taking damage in Aitizen as a sort of “jostling” of your character’s confidence in their martial prowess rather than actual damage. 
+
+
+Breaking Form - Both Jedi and sith practice the sacred right of Kai Kan which is fundamentally the reenacting of a major lightsaber battle from history. When lightsabers clash between agents of light and dark, all of the ancestors of both sides are watching. The force very much guides the blades of each wielder to its will leading to beautiful “seemingly choreographed fights. When form has been broken, it requires a full 5 tick action on the part of the duelist to regain it. Their opponent may make full opportunity in the intervening time to perform normal strikes or techniques against their base health. Unprotected by the poise of Kai Kan.
+
+
+IF YOUR FORM IS BROKEN YOU WILL LOSE ALL THE BONUSES OF AITIZEN!
+
+
+Being blown off of your feet will often cause you to break form. So always be sure to have your lightsaber fights in a stable, safe, non-explosive environment free of bottomless pits. Most of the time the GM will be in charge of what outside explosions, earthquakes or free falling anvils will cause a break in form.
+
+Reflexive Limitation Rule: Using more than one Reflexive Technique in a turn will cause a break in form. 
+
+
+You will not be able to use any techniques when you are out of form. Breaking form will cause you to reroll your join combat roll in order to redirect incoming damage to your Aitizen point pool, or you can just run away. Every time you break Aitizen a rolling cumulative penalty will be incurred equal to n*(your opponents current Form Style level) where n is the number of times Aitizen is broken in this scene. This penalty is applied to the join battle roll. You do not regain any lost Aitizen by rejoining Kai Kan after breaking form.
+
+
+Switching Styles Once you have purchased the technique “Firm Foundations” up to level 2. Switching styles can be done during combat by spending Tokens for a style that you have at least one level in. Switching to that style allows you to perform techniques in that style.
+
+
+Strikes from Behind Having an opponent behind you is a severe disadvantage as you are unable to block*. There are several exceptions to this but in most cases if someone is positioned directly behind you you will not have an opportunity to block or dodge if the opponent is directly behind you. 
+
+
+Knowing Your Enemies Style. When in Kai Kan, There are a number of different scenarios that allow you to roll to determine your opponents style. Rolling a Wits+Awareness at the  Difficulty of your Opponents Dodge MDV will allow you to deduce the style of your opponent and to strike from advantage. These are: 
+
+
+Saberlocks: during a saberlock both opponents may roll for advantage.
+
+
+Pauses in combat out of turn order: while in stance
+
+
+At the beginning of Combat: whenever stepping into combat you may roll for advantage against one of your opponents.
+
+
+Certain Specific Techniques: some techniques give a duelist the ability to roll for advantage.
+
+
+When you have correctly deduced the Form of any of your opponents your insight allows you to sheathe your opponents aggression within the insight of your control over the battle. While you rightly know the style of your opponent during kai kan,You may follow the Advantage rules for the style stance you are in. Advantage is not mutually exclusive between opponents- two duelists may both have advantage against one another as rolling with advantage means different things for different styles.
+
+
+Switching styles mid Kai Kan will provoke a Perception+Awareness roll on behalf of your opponent Difficulty Dodge MDV for gaining advantage against them (unless a technique says otherwise)
+
+
+You may not roll for advantage against more opponents than your level in the style stance you are in.
+
+
+
+
+Saberlocking Saberlocking is an inherent component of Kai Kan. Either practitioner may attempt to force a saberlock which can be an opportunity to do huge damage to Aitizen, Switch styles, Launch Social attacks/draw additional weapons, or to use force powers without breaking form. An attempt to initiate a saberlock is not an attack but rather a quick contest that is either won by the initiator (at which point the contest begins) or lost in which case there is a momentary clash of blades and the initiator loses 1 wp.
+
+
+Initiating Saberlock: 
+To initiate a saberlock you must keep the following in mind:
+1. Offensive attempts to perform a saberlock must start with a strike and must successfully “hit” the opponent(s) lightsaber with which you wish to engage in a saberlock.
+2. Saberlock initiations are incompatible with flurries unless a technique says otherwise.
+3. You must declare which opponents you are Saberlocking prior to your “to-hit” rolls.
+4. You must be within melee striking distance of your opponent unless otherwise specified by a technique.
+5. If you are on defense you may reflexively declare a saberlock against an incoming attack by declaring your intentions before the strike has been rolled to hit and you must successfully parry that attack to begin the contest, if you are flurried against you may attempt to initiate saberlock on any of the incoming attacks at a penalty equal to the number of attacks unless a technique says otherwise.
+
+
+
+
+( Saberlocking multiple opponents requires you to overcome their strengths pooled together if both opponents are allies. )
+
+
+Saberlocks all take at least 5 ticks to resolve and are contested by Strength vs Strength (some techniques change this) for 5 ticks (5 individual rolls in quick succession *stress roll*) each player only rolls their strength vs their opponents strength.
+
+
+The cost to initiate or engage in a Saberlock is 1 wp the person who “wins” the saberlock gets their willpower back.
+
+
+You can always forfeit your 1wp, and take two steps away from your opponent to exit the saberlock. You can Deliberately choose to fail a saberlock can be done but is a telegraphing action. 
+
+
+ The first person to achieve a number of successes equal to the other persons Parry DV controls the saberlock and may choose to continue it for another round. BUT BOTH CHARACTERS MAY ACT. Unless a technique specifies otherwise. Force powers may be used during a saberlock without breaking form. 
+
+
+Both players are free to take any of the below actions while the saber lock is in progress.
+Social  - Erode your opponents will by whispering sweet sweet nothings into their ears.
+Forceful - Keep in mind the length required to execute whatever technique you are interested in but any number of Force powers can be activated while in a saberlock WITHOUT BREAKING FORM!
+Reroll your precombat rolls - These are basically you taking a good solid look at your opponent. Even the lowliest of duelists are better equipped to deal with any given enemy once they have a chance to look at them up close.
+Switch Styles without spending tokens.
+ 
+Stunts
+Stunting rolls are critical in Kai Kan, especially when the addition of a few dice to your pool can mean the difference between life and death. Make sure you do it! 
+
+
+Telegraph: Techniques that have the Keyword “Telegraph” alert your opponent to what style you are using granting them advantage against you until you switch form stance or until disadvantage is granted or their advantage is removed by a technique. 
+(in the interest of transparency, it is on the player to announce when they are using a telegraphing ability)
+
+Botching: All Botched Techniques or botched rolls on a lightsaber combat roll require a Dex check to not drop or loose control of your lightsaber. This rule does not apply after you have mastery of style of the stance you are in during a botch.
+
+Note: Some Passive Force abilities may be activated before combat and persist (along with their associated costs…) throughout combat, Cancelling these passive force powers does not cause a break in form. Passive use of Force Sensory awareness cannot give you any information about your combat style unless you re roll for it in the appropriate phase of Kai Kan
+
+
+Beginning a battle. 
+
+
+Whenever Force users are facing off for Kai Kan, They both roll their join battle rolls to place them in the lineup. However. In addition to this they must also Roll their (Wits+awareness) (Some forms buff this roll if you activate the form before combat.) In order to determine their enemies Aitizen Score, Parry DV, and to discern what style the opponent is using. . (may be boosted by a Form technique or some passive force powers) If you are able to correctly gain knowledge of the style of your opponent, You gain a bonus to all your defenses against them equal to your margin of success on a Wits + Awareness roll or their highest Form lvl if this knowledge was gained from a move that telegraphs.
+
+
+Combat (Unless otherwise specified by the activation of certain form techniques or force powers will take place at normal speed ticks and lightsabers each have a speed intrinsic to their construction. 
+
+
+For any Aitizen Roll you roll your Perception+Awareness die pool and your successes are opposed by a roll of Wits+Melee/Martial Arts on the “Defender” 
+If the defender achieves more successes than their aggressor, they aggressor does not receive any information about their poise (unless some technique dictates that they receive different info)
+If the defender rolls under the number of successes of the aggressor, the aggressor is able to ascertain the current Aitizen number of the defender. Until a technique dictates otherwise.
+
+
+For any Parry DV roll you will roll your Perception+awareness unless subbed in for by a technique. To ascertain what number of saberclashes are needed to force a saberlock. This is resisted by a wits+combat skill die pool
+
+
+For any Die Pool or Style Discernment roll - You will roll Wits+awareness unless subbed by a technique parameter to be contested by wits+combat skill.
+
+
+
+
+Normal Combat Actions
+
+
+Strike - The Combatant takes a normal strike action against their opponent
+Flurry - The opponent takes a number of strikes against their opponent at a cumulative penalty 
+Technique - Techniques are a sequence of practiced moves that may or may not incorporate force actions/social attacks/debuffs/personal buffs or any number of things to give the combatant an edge in the Kai Kan.
+Defense - Activating a defensive technique or adding a buff to defense 
+Saberlock - Forcing Saberlocks, Either combatant may force a saberlock by “betting” 1 WP during their attack or defense phase. If you end the saberlock without being in control you have lost your one willpower. If you end the saberlock in control you recover your wagered WP.
+Force Powers - Using the Force (unless otherwise specified in a technique) counts as a break in form and you will have to reroll your initial join battle roll at a penalty equal to your opponents Current Form Stance Level.
+Mastery Bunkai - For any Keyword Mastery Tech. As a normal action while In a form stance where you have a style mastery and advantage you may - on any instance where you would roll to determine precombat rolls - spend X Tokens regain Xd6 Aitizen. You lose advantage after activating any Bonkai Type technique. [a]
+
+
+
+
+“Reflex Attack” Rolls - Parrying non-lightsaber wielding opponents
+
+
+Duelists who enter Kai Kan style stance against an opponent who is less armed than they are free to parry strikes from an opponent brave enough to strike against them with a weapon or even a limb that might be destroyed by the parrying action of a lightsaber blade. 
+
+
+In the event that a duelist parries such an attack, it results in a Reflexive Attack roll against the opponent. To initiate a reflexive attack Roll your “to-hit” die-pool for your lightsaber resisted by your opponents Dodge DV 
+
+     -    Reflexive Attacks may not inflict damage to an opponent’s dying health levels. All damage beyond incapacitated health levels are ignored.
+* Any native soaking abilities or equipment that the attacker may have to assist in damage mitigation may be used to reduce incoming damage.
+* Reflex lightsaber attacks are resisted only by Dodge DV as the attacker may have enough awareness to change or shift the thrust of their attack at the last moment to redirect their ambitious attack to a more forgiving blocking surface
+* The Speed of a single reflexive attack is the speed of your weapon/2 rounded up. 
+
+
+Unless otherwise specified by a technique, Reflexive Attacks may only be used by duelists wielding a lightsaber against opponents wielding a weapon or limb that may be damaged by the lightsaber itself.
+
+
+Unless otherwise specified by a technique Reflexive attacks do not apply to Flurries, you may only Reflex Attack an opponent once per simple attack or Flurry. 
+
+
+Special Rulings and exceptions.
+
+
+Targeting Weapons
+Opponents who are out of form are at a distinct disadvantage against those duelist who are in form and cannot contest or target a lightsaber wielded by a jedi in stance without targeting the duelist themselves, The lightsaber is an extension of the body of the duelist and can only be targeted supernaturally or otherwise by techniques inside of a form stance. A lightsaber that is associated with a duelist who is In form stance cannot be targeted by a duelist who is not in stance themselves without targeting the duelist. Duelists outside of form stance must target the opponent in order to affect their lightsaber as though it were an extension of their body. 
+
+Ensigilments and Certain Masteries remove the rule of reflexive techniques and force powers 
+
+
+
+[a]Beta, We will try this out.

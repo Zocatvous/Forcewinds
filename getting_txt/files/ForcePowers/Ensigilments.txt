@@ -1,0 +1,149 @@
+﻿Ensigilment
+
+
+Each of these Force Ritual Inscriptions represent a series of markings upon the bearers skin that solidify their connection to the force in flesh. Performed by the ancient Kwa to their most trusted force sages and seers.This practice was only done by Jed’aii who had learned the secret of the chasm of Anil Kesh and so had been banished from the order. Legend says that each set of sigils could only be given by a Jed’aii seer who had received tutelage from a celestial artificer or one of their Gree artisans. 
+
+
+The Ensigilments were meant to adorn the seer with conduits to the force so that they could peer into the future and counteract the often overwhelming force storms on the planet Tython, as such certain sigils attune the seers to a particular side of the force to counteract the predominant energy on the planet. However, Some seers soon found that the sigils had, other effects… these are a few of those known to the Kaleth temple. 
+
+
+Note: Ensigilments Consume 10^(FS) Kyber Dust, Once applied they do not need to be reapplied.
+
+
+Note: Each attempt to roll takes 1 hour, Rolling a botch attempting to apply one of these ensigilments will incur Stigmata (see Rituals), You must share 1 virtue with the applicant to apply an ensigilment
+
+
+
+
+Invoking an Insigilment is a Simple Action and costs 1 WP
+
+
+  
+
+Ash’Kai Aurek (Diff 5, 60 Succ) (Light I) 
+- Permanently increase your (-1 health levels) by 2 and your (-2 health levels) by 1. 
+- Reduces Cost of all Force Powers aligned with Ashla to be rolled off of d4 instead of D6
+Once a session chose one of the following
+* -invoke Ash’kai Aurek in lieu of a single Light side virtue channel and determine the result of the outcome roll. (only on virtue dice) for the length of the session.
+* Invoke Ash’Kai Aurek Increase your Dodge MDV by the higher of your Alter, Control, Once per session you may regain all of one (Aitizen, Willpower)
+  
+
+Ash’Kai Besh ( Diff 5, 60 Succ, ~35 if Ash’kai Aurek) (Light II)
+- Reduces Cost of all Force Powers aligned with Ashla to be rolled off of d3 instead of D6
+- Your Force Sensitivity is added to all die pools to assist in healing or meditation
+Once a session you may choose one of the following
+* You may negate the FP cost of a single cast of any force power.
+* Invoke Ash’kai Besh and regain all of one  (FP, Willpower) once per session
+  
+
+Ash’Kaiben (Diff 3, 50 Succ) (Light II)
+* Allows the Ensigiled to convert their accumulated Dark side points 1to1 into d6 temporary FP , stored in the scars of the ensigilment. No limit to stored FP. 
+* Allows the Ensigiled to Use the Kaiben Rituals
+      * Allows the Ensigiled to Roll their Alignment instead of any Force Attribute or Skill during Attunement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Bendu’kai Aurek ( Diff 7, 70 Success , Grey)
+-Reduces the cost of all Core Force abilities to be rolled off of d4 instead of d6
+- Permanently increase your Force Sensitivity By 1.
+- You add your FS as automatic successes to all Non-Combat rolls But you do not roll your abilities if you choose to invoke this 
+- All dark and light side points earned during session may be traded in for xp 1 for 1 (Back pay upon purchase)
+
+
+  
+
+Bendu Kai Besh ( Diff 8, 80 success, Grey, FS>5)
+* Reduces cost of all Core Force abilities to be rolled off of d3
+* You ignore alignment restrictions for purchasing all Force Powers.
+
+
+
+
+
+
+  
+
+
+
+Bendu Kai CHerek ( Diff 6, 70 success, Grey, FS>5)
+*  You may now cast up to 2 Core Force abilities in the same instant. The action duration and activation times are the longer of the two cast powers.
+
+
+
+
+
+
+
+
+  
+
+Bendu KaIben ( Diff 3, 50 success, Grey)
+*  Allows the Ensigiled to convert accumulated Dark/Light side points 1to1 into d6 Temporary FP, Stored in the scars of the Ensigilment. No limit to Stored FP
+* Allows the Ensigiled to use the Kaiben Rituals 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+Boga’kai Aurek ( diff 5 , 55 success, Dark i)
+-Reduces cost of all Bogan aligned Force powers to be rolled off of d4
+- Permanently increase your (-1 health levels) by 4 and your (-2 health levels) by 2 and your (-4 Health Levels) by 1.  
+Once a session chose one of the following
+* -invoke Boga’’kai Aurek in lieu of a Dark side virtue channel and determine the result of the outcome roll. (only on virtue dice) for the duration of the session
+* Invoke Boga’Kai Aurek and increase your Bashing, Aggrivated and lethal soak by the higher of your control or alter for the session
+  
+
+Boga’kai Besh (diff 5 , 55 success, Dark iI)
+-Reduces cost of all Bogan Powers to be rolled off of d3
+- Your Force Sensitivity is added as automatic successes to all offensive die pools 
+-Invoke Boga’kai Besh twice per session, take 3 Aggravated damage to health that does not heal until the next session and you may regain all of your FP instantly. 
+
+
+
+
+  
+
+Boga’kai Cherek (diff 5 , 55 success, Dark iII)
+-You may now cast up to 2 Dark Force Powers at the same time at the rate of the shorter power.
+
+
+
+
+
+
+
+
+  
+
+Boga’kaiben (DIff 3,  40 success, Dark II)
+-Allows the Ensigiled to convert their Light Side points 1to1 into d6 temp FP, no limit to stored FP. 
+- allows the ensigiled to use the Kaiben Rituals
+- Allows the Ensigiled to Roll their Alignment instead of any Force Attribute or Skill during Attunement.

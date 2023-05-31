@@ -1,0 +1,97 @@
+﻿BARASHI VIRTUES
+
+
+
+
+* THE ELIXIR
+* THE PRICE OF INCREASE
+* THE RITUALS OF SUNDOWN
+
+
+The Elixir
+
+
+The Jedi have had more than enough experience dealing with Dark Jedi harboring anger and hate towards them and are careful that their wayward Barashi stay loyal to the cause. 
+When the Barashi Vow was Sworn. You are administered an Elixir that is purported to numb your emotion and create “a connection to the force” that is not sullied by the wounds of your past. The purpose of this is twofold. To create a truly Penitent Barashi, Rumors abound as to what the true nature of the elixir is, as its sour pungence is only tasted by oathbreakers of the jedi order…
+
+While the Barashi’s exile is a truly unstructured endeavor. You are expected to repent, you are expected to remain out of sight and in connection with the living force so that if the Jedi order is threatened. They can be counted on the summit to the aid of thier brethren. Indeed many Non-barashi jedi see this as the only path to redemption. 
+
+
+This Recipe of the Barashi Elixir is administered in exchange for the Crystal of the Jedi’s lightsaber.  Consuming the first dose of the elixir replaces all the Jedi’s virtues with a single virtue “Penetance” which starts at Level one. And has normal pricing for virtue increases. 
+
+Needle-wheat (barashi wheat), Manak leaves, Water
+
+The barashi vow is not only a form of penance but a “demotion” in the ranks of the Jedi. Knights and masters must become “padawans’ once again. Unlearning what they have learned, they must venture into the world in search of a new Kyber crystal, and perform the sacred tuning rituals once again as an exercise in both patience and humility. Some barashi see this ritual as a noble challenge and others a burden. 
+
+
+The Elixir of the Barashi rewrites the virtues of the Jedi. They must consume the Elixir and keep the poultice ready for thier consumption with every day as they begin either thier morning or their evening meditation. Many Exiled Jedi will say that their tastes begin to warp to the strong and sour report of the drink as the years turn to decades in the wilderness. And indeed the Jedi’s power in the force begins to take a new dimension as dependency on the drink increases. 
+
+
+
+The Price of Progress
+
+As a penitent Barashi you must consume at least one liter of the Barashi Elixir a day. This Barashi Elixir provides access to select Core Force Powers while reducing the Light Side/Dark Side rating of the Jedi. Bringing them into “balance”. 
+
+
+The “essence” of the Barashi increases as they dedicate a Year to each successive increase in their force sensitivity (3 years for 2-3, 4 for 3-4). A True Jedi DOES NOT seek power. He only seeks understanding. And as such the Barashi Force abilities can allow him to purchase force abilities from the light or the dark side. As the Elixir will allow him to remain neutral in the force. 
+
+
+Failure To drink the Elixir and adhere to this strict ritual will result in Coruscating/Pale/Penumbric Stigmata. see Rituals. 
+
+
+The Council are rumored to be the ones who punish the barashi through a form of tele-sympathetic connection to the elixir that ensures the barashi’s commitment to thier vow. Their combined power allows the Barashi to complete a ritual at each sundown to aid in thier penitence and connection to the force. 
+
+
+
+
+Meditation Dice Calculation
+Meditation Dice =
+* n*(6 hours) each phase of the moons of Iloa - every six hours gives an additional dice
+* Quality of elixir (determined by how many of each of the ingredients they use - Or the quality of the elixir determined by a Wits+crafting + (Pairs of ingredients) roll. Difficulty (quality wanted) need FS Threshold successes.
+* Potency of the location 
+* Sense+Penance 
+
+
+The Rituals of Sundown
+
+
+* The Ritual Of Focus
+Each Barashi gets to take an extended roll at their Essence of difficulty for whatever target difficulty they set. They can then “pre-roll” this die pool and store up to their essence of these “pre-rolled” focus rolls which can be used to augment any roll before the next time they meditate. The bonus dice to be applied for each of these “stored bonus dice rolls” are equal to the successes rolled during the ritual of focus.
+
+
+* The Ritual Of Power
+Completion of this ritual allows you to regain your virtue channels and willpower, FP, Stamina and all lost health levels and the jedi dwells in the force for the length of his meditation.
+
+
+* The Ritual of Peace
+For each successful roll on the extended roll you may heal some amount of your health the following day by drinking the Elixir. Allows the Jedi to gain the benefits of the Ritual of Power at some later time. You gain another Elixir for every multiple above your Essence. *you do not regain any resource with this ritual*
+
+
+* The Ritual of Potency
+Ingredients (X manak Leaf, X needlewheat, Or Barashi Elixir of arbitrary potency, Kyber crystal of Potency X to be consumed)
+
+
+Performing this ritual allows you to increase your Force Sensitivity.the Barashi meditates in the force for only the number of days equal to the Force Sensativity level he/she is seek to ascend to. In this time the barashi rolls thier Normal ritual die pool is
+
+
+Sense+Penance
+X Days of Meditation
+Potency of the Area
+Potency of the Crystal
+
+
+Meditation days should be incremented by day instead of every 6 hours. (min 1 day casting time)
+
+
+If the barashi fails to make X Threshold Successes from X rolls. The ritual fails and must be reattempted from the beginning.
+
+
+After a failed ritual the Barashi rolls d10 equal to the potency of the kyber crystal. On a failure or no successes the kyber is annihilated by the actions of the ritual.
+This ritual does not regenerate resources.
+
+
+* The Ritual of the Bendu Axiom
+FS potency Barashi Elixir, Kyber of X Potency, X Light/Dark side points to be consumed.
+
+
+The jedi untethers themselves from the material world and is allowed to exchange the potency of thier Khunmal for the alignment of thier choosing, turning the light or darkness from within them into learning. The Jedi allows the Penumbric or Coruscating Stigmata to (See Rituals) depending upon their alignment to manifest in thier minds, roll 1d100 on the stigmata tables according to your alignment, Then roll your ritual dice and rolls thier Ritual dice (Quality of Elixir instead of number of infredients) and exchange X dark or light side points for (X) experience in a skill of the force’s choosing to bring the jedi into balance.
