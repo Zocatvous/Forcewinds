@@ -11,7 +11,7 @@ import pprint
 
 #x = TurnTracker([("Corrin",16),("Vitiate",29),("Galan",8),("Miarta",10),("Arctus",20),("Contrus",14)])
 
-x = TurnTracker([("Galan",8),("Voom",13),("Contras",14),("Enemies",10)])
+x = TurnTracker([("Galan",8),("Contras",14),("Anakin", 10),("Voom 1",13), ("Voom 2",13)])
 
 x.character_list = x.roll_join_combat()
 x.run_combat()

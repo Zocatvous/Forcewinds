@@ -35,7 +35,7 @@ def strike(weap_name,strike_count, weapon_acc, weapon_dam, opp_dv, opp_soak, hea
 		print(f'	Attack {i+1} rolled {successes} successes against (DV {opp_dv-i}) {Fore.CYAN}({successes-(opp_dv-i)} Threshold!){Style.RESET_ALL}')
 		if (successes+auto_succ_acc) > (opp_dv-i):
 			damage_pool = successes+(weapon_dam-opp_soak) if (heavy==True) else (weapon_dam-opp_soak)+threshold
-			print(f'		DamageRoll {i+1} is ({damage_pool}) dice after ({opp_soak}) soak w/ ({weapon_dam}) + {threshold} threshold)')
+			print(f'		DamageRoll #{i+1} ({damage_pool}) dice after ({opp_soak}) soak. ({weapon_dam}) + {threshold} threshold')
 			damage = dam_roll(damage_pool) + auto_succ_dam	
 			colored_damage = f'{Fore.RED}{damage} damage!{Style.RESET_ALL}'
 			print(f'  		{colored_damage}')
@@ -57,6 +57,28 @@ if __name__ == '__main__':
 	# strike("Typhe",1, 19, 19,10,1)
 	# #Contrus
 	# strike("Contrus",4,25,30,10,1)
+
+	ts = 0
+	tdv = 0
+	# Voom max rate all out attack
+	# strike("Voom")
+	strike("Voom Rancor Claw", 8,27,22,tdv,ts,heavy=False)
+	strike("Voom Typhojem saber", 1,19,19,tdv,ts,heavy=False)
+	strike("Voom Contrus Saber",4,25,30,tdv,ts,heavy=False)
+	strike("Voom Contrus Saber 2", 4,25,30,tdv,ts,heavy=False)
+	strike("Voom Viridian Saber",3,17,16,tdv,ts,heavy=False)
+	strike("Voom Green",3,17,16,tdv,ts,heavy=False)
+	strike("Red Standard",3,17,16,tdv,ts,heavy=False)
+	
+
+
+	# voom middle strike
+
+
+
+	# voom Single Strike
+
+
 	
 	#normal Anakin Strike
-	strike("Anakin Strike",1, 95, 125, 10, 1, heavy=True)
+	# strike("Anakin Strike",1, 95, 125, 10, 1, heavy=True)
