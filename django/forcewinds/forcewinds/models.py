@@ -68,7 +68,7 @@ class Character(models.Model):
 	alter = models.IntegerField()
 	control = models.IntegerField()
 	alignment = models.CharField(max_length=100)
-	force_sensitivity = models.BooleanField()
+	force_sensitivity = models.IntegerField()
 	shii_cho = models.IntegerField()
 	makashi = models.IntegerField()
 	soresu = models.IntegerField()
@@ -79,7 +79,7 @@ class Character(models.Model):
 	powers = models.ManyToManyField(ForcePower)
 	techniques = models.ManyToManyField(Technique)
 	willpower = models.IntegerField()
-	hitpoints = models.JSONField()
+	hitpoints = models.IntegerField()
 
 
 	@property
